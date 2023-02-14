@@ -7,5 +7,7 @@ class AppRadii {
 
   static const newOne = BorderRadius.all(Radius.circular(4));
 
+  static const token4 = BorderRadius.all(Radius.circular(4));
+
   AppRadii._();
 }
