@@ -2,6 +2,8 @@
 <resources>
     
     <dimen name="token_1">4dp</dimen>    
-    <dimen name="wrike">4dp</dimen>
+    <dimen name="wrike">4dp</dimen>    
+    <dimen name="new_one">4dp</dimen>    
+    <dimen name="token_4">4dp</dimen>
 
 </resources>
