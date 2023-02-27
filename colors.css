@@ -174,10 +174,15 @@
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
-    --colorName: #ffffff;    
-    --colorToken170: #ffffff;    
     --colorToken171: #ffffff;    
     --colorName: #ffffff;    
     --colorToken173: #ffffff;    
     --colorToken174: #ffffff;    
+    --colorToken177: #ffffff;    
+    --colorColor: #ffffff;    
+    --colorNewToken: var(--colorPaletteGreenGreen1100);    
+    --colorToken170: var(--colorPaletteGreenGreen700);    
+    --colorToken175: var(--colorPaletteBlueBlue1000);    
+    --colorToken176: var(--colorPaletteGreenGreen1100);    
+    --colorNewName: var(--colorPaletteGreenGreen900);    
 }
