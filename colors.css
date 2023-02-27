@@ -185,4 +185,5 @@
     --colorToken175: var(--colorPaletteBlueBlue1000);    
     --colorToken176: var(--colorPaletteGreenGreen1100);    
     --colorNewName: var(--colorPaletteGreenGreen900);    
+    --colorNew: var(--colorPaletteGreenGreen1000);    
 }
