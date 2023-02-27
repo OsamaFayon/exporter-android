@@ -171,11 +171,12 @@ const name = "#ffffff";
 const token173 = "#ffffff";
 const token174 = "#ffffff";
 const token177 = "#ffffff";
+const color = "#ffffff";
 const newToken = paletteGreenGreen1100;
 const token170 = paletteGreenGreen700;
 const token175 = paletteBlueBlue1000;
 const token176 = paletteGreenGreen1100;
-const newName = paletteGreenGreen1000;
+const newName = paletteGreenGreen900;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -357,6 +358,7 @@ export const Colors = {
     token173,
     token174,
     token177,
+    color,
     newToken,
     token170,
     token175,
