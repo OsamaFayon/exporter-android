@@ -180,10 +180,11 @@
     --colorToken174: #ffffff;    
     --colorToken177: #ffffff;    
     --colorColor: #ffffff;    
+    --colorNew: #1c4130;    
+    --colorToken178: #ffffff;    
     --colorNewToken: var(--colorPaletteGreenGreen1100);    
     --colorToken170: var(--colorPaletteGreenGreen700);    
     --colorToken175: var(--colorPaletteBlueBlue1000);    
     --colorToken176: var(--colorPaletteGreenGreen1100);    
     --colorNewName: var(--colorPaletteGreenGreen900);    
-    --colorNew: var(--colorPaletteGreenGreen1000);    
 }
