@@ -23,6 +23,10 @@ class AppColors {
   
   static const color = Color(0xffffffff); 
   
+  static const new = Color(0xff1c4130); 
+  
+  static const token178 = Color(0xffffffff); 
+  
   static const paletteGreenGreen1100 = Color(0xff0e2a21); 
   
   static const paletteGreenGreen1000 = Color(0xff1c4130); 
