@@ -28,6 +28,20 @@ const token4 = {
                       css: "4px"
                      },
          };
+const newToken = {
+           radius: {
+                      measure: 4,
+                      unit: "Pixels",
+                      css: "4px"
+                     },
+         };
+const name = {
+           radius: {
+                      measure: 4,
+                      unit: "Pixels",
+                      css: "4px"
+                     },
+         };
 
 
 export const Raddii = {
@@ -35,4 +49,6 @@ export const Raddii = {
       wrike,
       newOne,
       token4,
+      newToken,
+      name,
 }
