@@ -109,6 +109,15 @@ const token10 = {
                   },
            position: "Inside",
          };
+const token11 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
 
 
 export const Borders = {
@@ -124,4 +133,5 @@ export const Borders = {
       name,
       name,
       token10,
+      token11,
 }
