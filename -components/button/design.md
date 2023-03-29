@@ -13,20 +13,18 @@ Unable to show component health - please specify component first
 
 ## Component Structure
 
-![Img](https://studio-assets.supernova.io/design-systems/18526/68848495-6ee9-4250-8956-61cc0e2088fa.png)
-
 ## Variants
 
 Here are some of the variants of the button that you can use.
 
   
-![Checkbox, Value=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/cdf107fe-d5c3-4206-bd13-0557b63b1b4c.png)  
+![Checkbox, Value=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/7808add7-4465-49dc-822f-3077f9f488df.png)  
 Checkbox, Value=False, State=Default  
-![Checkbox, Value=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a83bcf87-9bcd-4c80-8944-0a0884a61623.png)  
+![Checkbox, Value=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/4391ac0c-7835-4606-81d9-56920933ce61.png)  
 Checkbox, Value=False, State=Hover  
-![Checkbox, Value=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/1bca0dd8-bb31-4203-be6b-f3f317fef2ec.png)  
+![Checkbox, Value=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/9363cea4-1c16-448f-9803-70f9342aa15c.png)  
 Checkbox, Value=True, State=Default  
-![Checkbox, Value=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/7adf3578-4204-467a-86a9-c0aab8df5c70.png)  
+![Checkbox, Value=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/9fc1a48f-f293-43f3-8d88-a542431f0828.png)  
 Checkbox, Value=True, State=Hover  
 
 
@@ -51,5 +49,3 @@ Once you’ve identified which actions are the most important at the moment, you
 Buttons with icons are great when you need to draw more attention to the action. Icons add additional context and makes the buttons more easy to scan.
 
 But it’s essential to not overuse these buttons. If everything is grabbing attention, things usually get messy.
-
-![Img](https://studio-assets.supernova.io/design-systems/18526/bba30d27-caed-4ac3-9bbd-77120503afa4.gif)

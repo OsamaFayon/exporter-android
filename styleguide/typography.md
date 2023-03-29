@@ -11,6 +11,22 @@ Always start by creating a clear hierarchy with the help of different sizes. Onl
 
   
 **Token Group Typography**:    
+Supernova: Roboto Regular 16px, underline, camel  
+H1: Inter Regular 57px  
+H2: Inter Regular 43px  
+H3: Inter Regular 32px  
+H4: Inter Regular 24px  
+H5: Inter Regular 21px  
+Large Lead: Inter Regular 24px  
+Medium Lead: Inter Regular 21px  
+Button Label: Inter Regular 21px  
+Paragraph: Inter Regular 18px  
+Small Paragraph: Inter Regular 16px  
+Tiny Paragraph: Inter Regular 12px  
+
+
+  
+**Token Group Typography**:    
 H1: Blatant Bold 57px  
 H2: Blatant Bold 43px  
 H3: Blatant Bold 32px  
@@ -29,15 +45,15 @@ The most basic component for rendering text blocks.
 
   
 **Token Group Typography**:    
-Supernova: Roboto Regular 16px, underline, camel  
-H1: Inter Regular 57px  
-H2: Inter Regular 43px  
-H3: Inter Regular 32px  
-H4: Inter Regular 24px  
-H5: Inter Regular 21px  
-Large Lead: Inter Regular 24px  
-Medium Lead: Inter Regular 21px  
-Button Label: Inter Regular 21px  
-Paragraph: Inter Regular 18px  
-Small Paragraph: Inter Regular 16px  
-Tiny Paragraph: Inter Regular 12px  
+H1: Blatant Bold 57px  
+H2: Blatant Bold 43px  
+H3: Blatant Bold 32px  
+H4: Blatant Bold 24px  
+H5: Blatant Bold 21px  
+Large Lead: Blatant Regular 24px  
+Medium Lead: Blatant Regular 21px  
+Button Label: Blatant Regular 21px, upper  
+Paragraph: Blatant Regular 18px  
+Small Paragraph: Blatant Regular 16px  
+Tiny Paragraph: Blatant Regular 12px  
+Sale: Blatant Bold 24px, upper  

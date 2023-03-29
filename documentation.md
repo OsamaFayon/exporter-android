@@ -18,8 +18,6 @@ These are the values we use to build and maintain Rocket.
 
 To be honest, Rocket isn’t currently fully compliant with some of our principles, but we’re working on it every day. These principles help us keep on track and* stay focused on the right things*.
 
-![Img](https://studio-assets.supernova.io/design-systems/18526/40bc28e7-d512-41f3-8713-54e5de7673d8.png)
-
 ## Find the best middle ground
 
 There are 4 key aspects when working on Rocket. Our goal is to meet somewhere in the middle—so everything we do isn’t just consistent or composable, but improves the work of our designers and developers and is maintainable in the long-term.
@@ -43,17 +41,3 @@ The priority for Rocket consumers is to always deliver the feature they need to 
 ## Let's begin
 
 Now that you know all the basic principles, the journey through our design system can truly begin.
-
-  
-**Token Group Border**:    
-Token #1: 4px solid rgb(69, 62, 150), inside  
-
-
-/you
-
-  
-![CTA Button/True/Default](https://studio-assets.supernova.io/design-systems/18526/922079e8-97c9-42a4-8c65-bed25f98dafa.png)  
-CTA Button/True/Default  
-
-
-/

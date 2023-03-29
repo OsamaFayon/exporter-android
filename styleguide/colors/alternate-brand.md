@@ -7,8 +7,6 @@
 
 ## General guidelines
 
-/
-
 We have different shades for every defined color in Orbit. For most of our colorsnote, the following points should apply:
 
 - Every color has *specific guidelines* for meaning. We honor these guidelines in order to maintain consistency across the product.
