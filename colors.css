@@ -176,7 +176,12 @@
     --colorSpecialRatingRatingHoveroff: #f6be41;    
     --colorToken1: #ffffff;    
     --colorToken2: #ffffff;    
+    --colorToken3: #ffffff;    
+    --colorToken4: #ffffff;    
+    --colorNewAnme: #ffffff;    
+    --colorNewTokenSn: #ffffff;    
     --colorNew: var(--colorPaletteGreenGreen200);    
     --colorName: var(--colorPaletteGreenGreen1100);    
     --colorNewName: var(--colorPaletteGreenGreen1000);    
+    --colorName: var(--colorPaletteGreenGreen700);    
 }
