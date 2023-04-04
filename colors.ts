@@ -166,7 +166,17 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
+const token1 = "#ffffff";
+const token2 = "#ffffff";
+const token3 = "#ffffff";
+const token4 = "#ffffff";
+const newAnme = "#ffffff";
+const newTokenSn = "#ffffff";
+const name = "#ffffff";
 const new = paletteGreenGreen200;
+const name = paletteGreenGreen1100;
+const newName = paletteGreenGreen1000;
+const name = paletteGreenGreen700;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -343,5 +353,15 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
+    token1,
+    token2,
+    token3,
+    token4,
+    newAnme,
+    newTokenSn,
+    name,
     new,
+    name,
+    newName,
+    name,
 }
