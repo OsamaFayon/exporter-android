@@ -145,6 +145,16 @@ const newAnme = {
                   },
            position: "Inside",
          };
+const token13 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
+const moodyS = boardeer2;
 
 
 export const Borders = {
@@ -164,4 +174,6 @@ export const Borders = {
       token12,
       boarder,
       newAnme,
+      token13,
+      moodyS,
 }
