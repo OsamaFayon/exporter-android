@@ -154,7 +154,17 @@ const token13 = {
                   },
            position: "Inside",
          };
+const token14 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
 const moodyS = boardeer2;
+const token15 = newAnme;
 
 
 export const Borders = {
@@ -175,5 +185,7 @@ export const Borders = {
       boarder,
       newAnme,
       token13,
+      token14,
       moodyS,
+      token15,
 }
