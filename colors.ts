@@ -168,6 +168,7 @@ const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const token1 = "#ffffff";
 const new = paletteGreenGreen1100;
+const token2 = paletteGreenGreen1100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -346,4 +347,5 @@ export const Colors = {
     specialRatingRatingHoveroff,
     token1,
     new,
+    token2,
 }
