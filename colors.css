@@ -30,7 +30,9 @@
     /* Slightly less aquatic, still deep as an ocean */
     --colorPaletteAquaAqua1000: #193c4d;    
     --colorPaletteAquaAqua900: #265d71;    
+    /* Aqua with an amazing text-on-white contrast (AAA) */
     --colorPaletteAquaAqua800: #316c82;    
+    /* Aqua with good-enough text-on-white contrast (AA) */
     --colorPaletteAquaAqua700: #3a8396;    
     --colorPaletteAquaAqua600: #4295ab;    
     --colorPaletteAquaAqua500: #54b5cb;    
@@ -136,10 +138,11 @@
     --colorPaletteMagentaMagenta200: #ecc7f4;    
     --colorPaletteMagentaMagenta100: #f5e4fa;    
     --colorPaletteMagentaMagenta0: #fcf0fe;    
-    --colorSemanticPrimaryPrimaryActivebackground: #453e96;    
-    --colorSemanticPrimaryPrimaryHoverbackground: #5a52b4;    
-    --colorSemanticPrimaryPrimaryHovercolor: #ffffff;    
-    --colorSemanticPrimaryPrimaryColor: #ffffff;    
+    --colorSemanticPrimaryPrimaryActivebackground: #58c1b2;    
+    --colorSemanticPrimaryPrimaryHoverbackground: #6addc6;    
+    --colorSemanticPrimaryPrimaryHovercolor: #1b3e3e;    
+    --colorSemanticPrimaryPrimaryBackground: #97e7d5;    
+    --colorSemanticPrimaryPrimaryColor: #2a6461;    
     --colorSemanticTextTextInverse: #ffffff;    
     --colorSemanticTextTextSubtext: #545e5f;    
     --colorSemanticTextTextHeadline: #293333;    
@@ -156,21 +159,22 @@
     --colorSemanticSuccessSuccessIcon: #3c884d;    
     --colorSemanticSuccessSuccessBorder: #8fda75;    
     --colorSemanticSuccessSuccessBackground: #ddf3d9;    
-    --colorSemanticInfoInfoColor: #3a79bd;    
-    --colorSemanticInfoInfoIcon: #306ca5;    
-    --colorSemanticInfoInfoBorder: #6aacef;    
-    --colorSemanticInfoInfoBackground: #e0f1fe;    
-    --colorSemanticOpportunityOpportunityColor: #357a7b;    
-    --colorSemanticOpportunityOpportunityIcon: #357a7b;    
-    --colorSemanticOpportunityOpportunityBorder: #6addc6;    
-    --colorSemanticOpportunityOpportunityBackground: #d5f6ef;    
-    --colorSemanticPrimaryPrimaryInnactivebackground: #d8d8f6;    
-    --colorSemanticPrimaryPrimaryBorder: #6b62cc;    
-    --colorSemanticPrimaryHoverinnactivebackground: #c0c2f3;    
-    --colorSemanticSaleSale70Background: #ac7d13;    
-    --colorSemanticSaleSale50Background: #b51d4e;    
-    --colorSemanticSaleSale30Background: #5869c1;    
-    --colorSemanticSaleSaleColor: #b7b7b7;    
-    --colorSemanticPrimaryPrimaryBackground: #6b62cc;    
-    --colorNewStyle: #0e2a21;    
+    --colorSemanticInfoInfoColor: #6b62cc;    
+    --colorSemanticInfoInfoIcon: #5a52b4;    
+    --colorSemanticInfoInfoBorder: #9e95ec;    
+    --colorSemanticInfoInfoBackground: #eaeaf8;    
+    --colorSemanticOpportunityOpportunityColor: #a43b5b;    
+    --colorSemanticOpportunityOpportunityIcon: #a43b5b;    
+    --colorSemanticOpportunityOpportunityBorder: #ee7fad;    
+    --colorSemanticOpportunityOpportunityBackground: #f7dcea;    
+    --colorSemanticPrimaryCtaPrimaryActivebackground: #dfe1e1;    
+    --colorSemanticPrimaryPrimaryBorder: #2a6461;    
+    --colorSemanticPrimaryHoverinnactivebackground: #c9cccc;    
+    --colorSpecialRatingRatingOn: #f6be41;    
+    --colorSpecialRatingRatingHoveron: #d49b35;    
+    --colorSpecialRatingRatingOff: #dfe1e1;    
+    --colorSpecialRatingRatingHoveroff: #f6be41;    
+    --colorToken1: #ffffff;    
+    --colorNew: var(--colorPaletteGreenGreen1100);    
+    --colorToken2: var(--colorPaletteGreenGreen1100);    
 }
