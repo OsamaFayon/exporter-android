@@ -177,4 +177,5 @@
     --colorToken1: #ffffff;    
     --colorNew: var(--colorPaletteGreenGreen1100);    
     --colorToken2: var(--colorPaletteGreenGreen1100);    
+    --colorToken3: var(--colorPaletteGreenGreen1100);    
 }
