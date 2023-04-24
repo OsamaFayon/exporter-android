@@ -14,4 +14,14 @@
     --borderToken10: 1px solid #000000;    
     --borderToken11: 1px solid #000000;    
     --borderToken12: 1px solid #000000;    
+    --borderBoarder: 1px solid #000000;    
+    --borderNewAnme: 1px solid #000000;    
+    --borderToken13: 1px solid #000000;    
+    --borderToken14: 1px solid #000000;    
+    --borderToken16: 1px solid #000000;    
+    --borderToken17: 4px solid #6f1f1f;    
+    --borderToken18: 4px solid #da2424;    
+    --borderToken19: 4px solid #e27171;    
+    --borderMoodyS: var(--borderBoardeer2);    
+    --borderToken15: var(--borderNewAnme);    
 }

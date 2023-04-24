@@ -175,13 +175,7 @@
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
     --colorToken1: #ffffff;    
-    --colorToken2: #ffffff;    
-    --colorToken3: #ffffff;    
-    --colorToken4: #ffffff;    
-    --colorNewAnme: #ffffff;    
-    --colorNewTokenSn: #ffffff;    
-    --colorNew: var(--colorPaletteGreenGreen200);    
-    --colorName: var(--colorPaletteGreenGreen1100);    
-    --colorNewName: var(--colorPaletteGreenGreen1000);    
-    --colorName: var(--colorPaletteGreenGreen700);    
+    --colorNew: var(--colorPaletteGreenGreen1100);    
+    --colorToken2: var(--colorPaletteGreenGreen1100);    
+    --colorToken3: var(--colorPaletteGreenGreen1100);    
 }
