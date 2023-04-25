@@ -190,6 +190,24 @@ const token18 = {
                   },
            position: "Center",
          };
+const token19 = {
+           color: "#e27171",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Outside",
+         };
+const token20 = {
+           color: "#dd3f3f",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Outside",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 
@@ -216,6 +234,8 @@ export const Borders = {
       token16,
       token17,
       token18,
+      token19,
+      token20,
       moodyS,
       token15,
 }
