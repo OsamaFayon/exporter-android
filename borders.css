@@ -22,6 +22,8 @@
     --borderToken17: 4px solid #6f1f1f;    
     --borderToken18: 4px solid #da2424;    
     --borderToken19: 4px solid #e27171;    
+    --borderToken20: 5px solid #dd3f3f;    
+    --borderBoarder: 5px solid #281b1b;    
     --borderMoodyS: var(--borderBoardeer2);    
     --borderToken15: var(--borderNewAnme);    
 }
