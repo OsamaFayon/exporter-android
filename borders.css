@@ -24,6 +24,9 @@
     --borderToken19: 4px solid #e27171;    
     --borderToken20: 5px solid #dd3f3f;    
     --borderBoarder: 5px solid #281b1b;    
+    --borderToken21: 5px solid #e03d3d;    
+    --borderName: 3px solid #b53535;    
     --borderMoodyS: var(--borderBoardeer2);    
     --borderToken15: var(--borderNewAnme);    
+    --borderToken22: var(--borderToken12);    
 }
