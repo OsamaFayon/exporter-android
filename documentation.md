@@ -41,3 +41,7 @@ The priority for Rocket consumers is to always deliver the feature they need to 
 ## Let's begin
 
 Now that you know all the basic principles, the journey through our design system can truly begin.
+
+```javascript  
+  
+```

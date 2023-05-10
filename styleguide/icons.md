@@ -1,8 +1,6 @@
 
 # Icons
 
-Icons draw attention to specific actions and features.
-
 ---
 
 ## When to use
@@ -48,18 +46,27 @@ Edit
 Text  
 ![Add User](https://studio-assets.supernova.io/design-systems/18526/6faaaf9b-9b24-4725-9c2a-9882e4506cc3.png)  
 Add User  
-
-
-  
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/cbe6ad93-a949-40ec-945a-ad632aebb555.png)  
-CTA Button, Icon=False, State=Active  
-![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/b086ed7e-a22d-472b-ba9c-1edbb56a7c33.png)  
-CTA Button, Icon=False, State=Default  
-![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/62d6ed44-bd13-44e4-9c80-53020285b272.png)  
-CTA Button, Icon=False, State=Hover  
-![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/802a8aef-e001-4b63-a2a4-a687c063eb8f.png)  
-CTA Button, Icon=True, State=Active  
-![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/762696d7-040e-4ce9-8654-15a640170db0.png)  
-CTA Button, Icon=True, State=Default  
-![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/bed17441-4960-4951-a6d0-4abcde994f3b.png)  
-CTA Button, Icon=True, State=Hover  
+![User](https://studio-assets.supernova.io/design-systems/18526/3601183b-32d5-45d0-a98f-8945048849aa.png)  
+User  
+![Comment](https://studio-assets.supernova.io/design-systems/18526/e70d59aa-6fbd-4e8a-8d8f-9b64e0f21f74.png)  
+Comment  
+![Import](https://studio-assets.supernova.io/design-systems/18526/48dd9d7d-e35e-4655-aa89-975d9f8ff533.png)  
+Import  
+![Star](https://studio-assets.supernova.io/design-systems/18526/195a7e9f-f3f7-4a69-a394-dcbdb997ff29.png)  
+Star  
+![Callout](https://studio-assets.supernova.io/design-systems/18526/32566519-39a1-4fe5-8afc-02aefcbf1844.png)  
+Callout  
+![Color](https://studio-assets.supernova.io/design-systems/18526/d96e7c70-7ccc-46e0-8264-2ad3303b8ed6.png)  
+Color  
+![Refresh](https://studio-assets.supernova.io/design-systems/18526/32e90bc8-d1f8-496c-8168-d344cbdad11c.png)  
+Refresh  
+![Build](https://studio-assets.supernova.io/design-systems/18526/af2c7d70-fdd0-486c-b5a3-272aa9908b19.png)  
+Build  
+![Publish](https://studio-assets.supernova.io/design-systems/18526/4cf12d5c-c733-49f2-a629-d442f3612d8c.png)  
+Publish  
+![Export](https://studio-assets.supernova.io/design-systems/18526/68b87f6a-1ccb-432f-b7db-7c94ec9c7d68.png)  
+Export  
+![List](https://studio-assets.supernova.io/design-systems/18526/62e15a69-4a43-4ae6-aa8b-f9104cb0b46d.png)  
+List  
+![Price](https://studio-assets.supernova.io/design-systems/18526/472af789-8d2b-4ece-a025-76c20aff0a0e.png)  
+Price  

@@ -1,4 +1,4 @@
-# SN DEMO
+# SN DEMO01
 
 Welcome to our design system documentation! Below you will find the entire content of the documentation separated by the main categories. Use this page to navigate and find what you are looking for!
 
@@ -6,21 +6,23 @@ Welcome to our design system documentation! Below you will find the entire conte
  
 ### STYLEGUIDE
 - [Themes](./styleguide/themes.md)
+- [Tools and resources](./styleguide/tools-and-resources.md)
 - [Typography](./styleguide/typography.md)
 - [Icons](./styleguide/icons.md)
 - [Colors](./styleguide/colors/primary-brand.md)
   - [Primary Brand](./styleguide/colors/primary-brand.md)
-  - [Alternate Brand](./styleguide/colors/alternate-brand.md)
+  - [Alternative Brand](./styleguide/colors/alternative-brand.md)
+  - [new](./styleguide/colors/new.md)
  
-### _Components
-- [Button](./-components/button/design.md)
-  - [Design](./-components/button/design.md)
-  - [Code](./-components/button/code.md)
-  - [Markdown](./-components/button/markdown.md)
+### Components
+- [Button](./components/button/design.md)
+  - [Design](./components/button/design.md)
+  - [Code](./components/button/code.md)
+  - [Markdown](./components/button/markdown.md)
+  - [Component Table](./components/button/component-table.md)
  
 ### Resources
 - [Design tokens](./resources/design-tokens.md)
-- [Tools and resources](./resources/tools-and-resources.md)
 
 ## Generated documentation
 
