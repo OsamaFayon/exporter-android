@@ -244,6 +244,42 @@ const token23 = {
                   },
            position: "Center",
          };
+const mlb = {
+           color: "#000000",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Outside",
+         };
+const token24 = {
+           color: "#bd5b5b",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Outside",
+         };
+const token25 = {
+           color: "#ea8181",
+           width: {
+                   measure: 6,
+                   unit: "Pixels",
+                   css: "6px"
+                  },
+           position: "Center",
+         };
+const token26 = {
+           color: "#db6363",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -277,6 +313,10 @@ export const Borders = {
       token21,
       name,
       token23,
+      mlb,
+      token24,
+      token25,
+      token26,
       moodyS,
       token15,
       token22,
