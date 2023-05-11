@@ -1,6 +1,30 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
+  static const newName = Color(0xff893555); 
+  
+  static const newToken = Color(0xff0e2a21); 
+  
+  static const token1 = Color(0xffa9e297); 
+  
+  static const token2 = Color(0xffc55050); 
+  
+  static const token3 = Color(0xff0e2a21); 
+  
+  static const token4 = Color(0xffdf5555); 
+  
+  static const name = Color(0xffe17979); 
+  
+  static const token5 = Color(0xffa9e297); 
+  
+  static const newAnme = Color(0xffd74747); 
+  
+  static const newNew = Color(0xff1c4130); 
+  
+  static const token6 = Color(0xffd15a5a); 
+  
+  static const token7 = Color(0xff0e2a21); 
+  
   static const paletteGreenGreen1100 = Color(0xff0e2a21); 
   
   static const paletteGreenGreen1000 = Color(0xff1c4130); 
