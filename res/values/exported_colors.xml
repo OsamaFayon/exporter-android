@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="new_name">#ff893555</color>
-    <color name="new_token">#ff0e2a21</color>
-    <color name="token_1">#ffa9e297</color>
-    <color name="token_2">#ffc55050</color>
-    <color name="token_3">#ff0e2a21</color>
-    <color name="token_4">#ffdf5555</color>
-    <color name="name">#ffe17979</color>
-    <color name="token_5">#ffa9e297</color>
-    <color name="new_anme">#ffd74747</color>
-    <color name="new_new">#ff1c4130</color>
-    <color name="token_6">#ffd15a5a</color>
-    <color name="token_7">#ff0e2a21</color>
-    <color name="new_name">#ffe14848</color>
-    <color name="token_8">#ff0e2a21</color>
-    <color name="new_token">#ffdf4a4a</color>
-    <color name="token_9">#ff0e2a21</color>
+    <color name="globalralay">#ffd74f4f</color>
+    <color name="new">#ff8fda75</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
