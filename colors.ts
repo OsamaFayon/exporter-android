@@ -1,11 +1,4 @@
-const newName = "#893555";
-const token2 = "#c55050";
-const token4 = "#df5555";
-const name = "#e17979";
-const newAnme = "#d74747";
-const token6 = "#d15a5a";
-const newName = "#e14848";
-const newToken = "#df4a4a";
+const globalralay = "#d74f4f";
 const paletteGreenGreen1100 = "#0e2a21";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
@@ -174,24 +167,10 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const newToken = paletteGreenGreen1100;
-const token1 = paletteGreenGreen300;
-const token3 = paletteGreenGreen1100;
-const token5 = paletteGreenGreen300;
-const newNew = paletteGreenGreen1000;
-const token7 = paletteGreenGreen1100;
-const token8 = paletteGreenGreen1100;
-const token9 = paletteGreenGreen1100;
+const new = paletteGreenGreen400;
 
 export const Colors = {
-    newName,
-    token2,
-    token4,
-    name,
-    newAnme,
-    token6,
-    newName,
-    newToken,
+    globalralay,
     paletteGreenGreen1100,
     paletteGreenGreen1000,
     paletteGreenGreen900,
@@ -366,12 +345,5 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    newToken,
-    token1,
-    token3,
-    token5,
-    newNew,
-    token7,
-    token8,
-    token9,
+    new,
 }
