@@ -1,3 +1,11 @@
+const newName = "#893555";
+const token2 = "#c55050";
+const token4 = "#df5555";
+const name = "#e17979";
+const newAnme = "#d74747";
+const token6 = "#d15a5a";
+const newName = "#e14848";
+const newToken = "#df4a4a";
 const paletteGreenGreen1100 = "#0e2a21";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
@@ -135,6 +143,9 @@ const semanticPrimaryPrimaryHoverbackground = "#6addc6";
 const semanticPrimaryPrimaryHovercolor = "#1b3e3e";
 const semanticPrimaryPrimaryBackground = "#97e7d5";
 const semanticPrimaryPrimaryColor = "#2a6461";
+const semanticPrimaryCtaPrimaryActivebackground = "#dfe1e1";
+const semanticPrimaryPrimaryBorder = "#2a6461";
+const semanticPrimaryHoverinnactivebackground = "#c9cccc";
 const semanticTextTextInverse = "#ffffff";
 const semanticTextTextSubtext = "#545e5f";
 const semanticTextTextHeadline = "#293333";
@@ -159,21 +170,10 @@ const semanticOpportunityOpportunityColor = "#a43b5b";
 const semanticOpportunityOpportunityIcon = "#a43b5b";
 const semanticOpportunityOpportunityBorder = "#ee7fad";
 const semanticOpportunityOpportunityBackground = "#f7dcea";
-const semanticPrimaryCtaPrimaryActivebackground = "#dfe1e1";
-const semanticPrimaryPrimaryBorder = "#2a6461";
-const semanticPrimaryHoverinnactivebackground = "#c9cccc";
 const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const newName = "#893555";
-const token2 = "#c55050";
-const token4 = "#df5555";
-const name = "#e17979";
-const newAnme = "#d74747";
-const token6 = "#d15a5a";
-const newName = "#e14848";
-const newToken = "#df4a4a";
 const newToken = paletteGreenGreen1100;
 const token1 = paletteGreenGreen300;
 const token3 = paletteGreenGreen1100;
@@ -184,6 +184,14 @@ const token8 = paletteGreenGreen1100;
 const token9 = paletteGreenGreen1100;
 
 export const Colors = {
+    newName,
+    token2,
+    token4,
+    name,
+    newAnme,
+    token6,
+    newName,
+    newToken,
     paletteGreenGreen1100,
     paletteGreenGreen1000,
     paletteGreenGreen900,
@@ -327,6 +335,9 @@ export const Colors = {
     semanticPrimaryPrimaryHovercolor,
     semanticPrimaryPrimaryBackground,
     semanticPrimaryPrimaryColor,
+    semanticPrimaryCtaPrimaryActivebackground,
+    semanticPrimaryPrimaryBorder,
+    semanticPrimaryHoverinnactivebackground,
     semanticTextTextInverse,
     semanticTextTextSubtext,
     semanticTextTextHeadline,
@@ -351,21 +362,10 @@ export const Colors = {
     semanticOpportunityOpportunityIcon,
     semanticOpportunityOpportunityBorder,
     semanticOpportunityOpportunityBackground,
-    semanticPrimaryCtaPrimaryActivebackground,
-    semanticPrimaryPrimaryBorder,
-    semanticPrimaryHoverinnactivebackground,
     specialRatingRatingOn,
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    newName,
-    token2,
-    token4,
-    name,
-    newAnme,
-    token6,
-    newName,
-    newToken,
     newToken,
     token1,
     token3,
