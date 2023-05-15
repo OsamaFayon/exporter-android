@@ -29,6 +29,20 @@
     "url": "/documentation.html#search-64c60700-6a79-11ed-b04c-8719c960cbe6"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-1032d850-f334-11ed-a7df-3d935fc0809d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-104f6100-f334-11ed-a7df-3d935fc0809d"
+  },
+  {
     "text": "These are the values we use to build and maintain Rocket.",
     "type": "contentBlock",
     "pageName": "Documentation 🚀",
@@ -299,6 +313,13 @@
     "type": "contentBlock",
     "pageName": "Colors/Primary Brand",
     "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-88b49b61-f334-11ed-a7df-3d935fc0809d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
     "url": "/styleguide/colors/primary-brand.html#search-fe491121-efd4-11ed-963c-15094ac5e90e"
   },
   {
@@ -372,11 +393,53 @@
     "url": "/styleguide/colors/new.html"
   },
   {
-    "text": "Themes",
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Themes/Theme 1",
+    "category": "STYLEGUIDE / Themes / Theme 1",
+    "url": "/styleguide/themes/theme-1.html#search-2e36aae1-f319-11ed-91e1-ede7adda0f2b"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Themes/Theme 1",
+    "category": "STYLEGUIDE / Themes / Theme 1",
+    "url": "/styleguide/themes/theme-1.html#search-30a95891-f319-11ed-91e1-ede7adda0f2b"
+  },
+  {
+    "text": "Theme 1",
     "type": "pageTitle",
-    "pageName": "Themes",
-    "category": "STYLEGUIDE / Themes",
-    "url": "/styleguide/themes.html"
+    "pageName": "Themes/Theme 1",
+    "category": "STYLEGUIDE / Themes / Theme 1",
+    "url": "/styleguide/themes/theme-1.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Themes/Theme 2",
+    "category": "STYLEGUIDE / Themes / Theme 2",
+    "url": "/styleguide/themes/theme-2.html#search-b9a51850-f319-11ed-91e1-ede7adda0f2b"
+  },
+  {
+    "text": "Theme 2",
+    "type": "pageTitle",
+    "pageName": "Themes/Theme 2",
+    "category": "STYLEGUIDE / Themes / Theme 2",
+    "url": "/styleguide/themes/theme-2.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Themes/Theme 3",
+    "category": "STYLEGUIDE / Themes / Theme 3",
+    "url": "/styleguide/themes/theme-3.html#search-bc6f34d1-f319-11ed-91e1-ede7adda0f2b"
+  },
+  {
+    "text": "Theme 3",
+    "type": "pageTitle",
+    "pageName": "Themes/Theme 3",
+    "category": "STYLEGUIDE / Themes / Theme 3",
+    "url": "/styleguide/themes/theme-3.html"
   },
   {
     "text": "Resources",
@@ -708,6 +771,13 @@
     "url": "/components/button/design.html#search-d70d02a0-efd5-11ed-963c-15094ac5e90e"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Design",
+    "category": "Components / Button / Design",
+    "url": "/components/button/design.html#search-cd0e0350-f334-11ed-a7df-3d935fc0809d"
+  },
+  {
     "text": "Design",
     "type": "pageTitle",
     "pageName": "Button/Design",
@@ -944,6 +1014,13 @@
     "pageName": "Colors",
     "category": "STYLEGUIDE / Colors",
     "url": "/styleguide/colors/primary-brand.html"
+  },
+  {
+    "text": "Themes",
+    "type": "groupTitle",
+    "pageName": "Themes",
+    "category": "STYLEGUIDE / Themes",
+    "url": "/styleguide/themes/theme-1.html"
   },
   {
     "text": "Components",
