@@ -1,5 +1,13 @@
 
 :root {
+    --colorNewName: #893555;    
+    --colorToken2: #c55050;    
+    --colorToken4: #df5555;    
+    --colorName: #e17979;    
+    --colorNewAnme: #d74747;    
+    --colorToken6: #d15a5a;    
+    --colorNewName: #e14848;    
+    --colorNewToken: #df4a4a;    
     --colorPaletteGreenGreen1100: #0e2a21;    
     --colorPaletteGreenGreen1000: #1c4130;    
     --colorPaletteGreenGreen900: #2d6944;    
@@ -143,6 +151,9 @@
     --colorSemanticPrimaryPrimaryHovercolor: #1b3e3e;    
     --colorSemanticPrimaryPrimaryBackground: #97e7d5;    
     --colorSemanticPrimaryPrimaryColor: #2a6461;    
+    --colorSemanticPrimaryCtaPrimaryActivebackground: #dfe1e1;    
+    --colorSemanticPrimaryPrimaryBorder: #2a6461;    
+    --colorSemanticPrimaryHoverinnactivebackground: #c9cccc;    
     --colorSemanticTextTextInverse: #ffffff;    
     --colorSemanticTextTextSubtext: #545e5f;    
     --colorSemanticTextTextHeadline: #293333;    
@@ -167,20 +178,10 @@
     --colorSemanticOpportunityOpportunityIcon: #a43b5b;    
     --colorSemanticOpportunityOpportunityBorder: #ee7fad;    
     --colorSemanticOpportunityOpportunityBackground: #f7dcea;    
-    --colorSemanticPrimaryCtaPrimaryActivebackground: #dfe1e1;    
-    --colorSemanticPrimaryPrimaryBorder: #2a6461;    
-    --colorSemanticPrimaryHoverinnactivebackground: #c9cccc;    
     --colorSpecialRatingRatingOn: #f6be41;    
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
-    --colorNewName: #893555;    
-    --colorToken2: #c55050;    
-    --colorToken4: #df5555;    
-    --colorName: #e17979;    
-    --colorNewAnme: #d74747;    
-    --colorToken6: #d15a5a;    
-    --colorNewName: #e14848;    
     --colorNewToken: var(--colorPaletteGreenGreen1100);    
     --colorToken1: var(--colorPaletteGreenGreen300);    
     --colorToken3: var(--colorPaletteGreenGreen1100);    
@@ -188,4 +189,5 @@
     --colorNewNew: var(--colorPaletteGreenGreen1000);    
     --colorToken7: var(--colorPaletteGreenGreen1100);    
     --colorToken8: var(--colorPaletteGreenGreen1100);    
+    --colorToken9: var(--colorPaletteGreenGreen1100);    
 }
