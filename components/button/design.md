@@ -13,37 +13,37 @@ Unable to show component health - please specify component first
 
 ## Component Structure
 
-![Img](https://studio-assets.supernova.io/design-systems/18526/4b6e3781-5598-41a8-a666-ab609d44b340.png)
+![Img](https://studio-assets.supernova.io/design-systems/18526/97213791-aa15-47cf-9a97-ddf2e545f882.png)
 
 ## Variants
 
   
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/16c31aed-cbf4-4668-a77f-70184752710c.png)  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
 CTA Button, Icon=False, State=Active  
-![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/dfecd965-a2c2-4b6b-80d9-5ee000067d6c.png)  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
 CTA Button, Icon=False, State=Default  
-![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/d52bd100-dc8f-4c7c-be54-e6c1c6de675a.png)  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
 CTA Button, Icon=False, State=Hover  
-![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/4c1b4a57-aed7-490e-9bcb-52031fe2af6f.png)  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
 CTA Button, Icon=True, State=Active  
-![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/9e59399b-6856-41fa-a071-12791c5c9ef3.png)  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
 CTA Button, Icon=True, State=Default  
-![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/5bba77c7-7d4a-49f9-867c-1bca513520b7.png)  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
 CTA Button, Icon=True, State=Hover  
 
 
   
-![CTA Button,](https://studio-assets.supernova.io/design-systems/18526/16c31aed-cbf4-4668-a77f-70184752710c.png)  
+![CTA Button,](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
 CTA Button,  
-![CTA Button, Default](https://studio-assets.supernova.io/design-systems/18526/dfecd965-a2c2-4b6b-80d9-5ee000067d6c.png)  
+![CTA Button, Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
 CTA Button, Default  
-![CTA Button, Hover](https://studio-assets.supernova.io/design-systems/18526/d52bd100-dc8f-4c7c-be54-e6c1c6de675a.png)  
+![CTA Button, Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
 CTA Button, Hover  
-![CTA Button, Active](https://studio-assets.supernova.io/design-systems/18526/4c1b4a57-aed7-490e-9bcb-52031fe2af6f.png)  
+![CTA Button, Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
 CTA Button, Active  
-![CTA Button, True, Default](https://studio-assets.supernova.io/design-systems/18526/9e59399b-6856-41fa-a071-12791c5c9ef3.png)  
+![CTA Button, True, Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
 CTA Button, True, Default  
-![CTA Button, True, Hover](https://studio-assets.supernova.io/design-systems/18526/5bba77c7-7d4a-49f9-867c-1bca513520b7.png)  
+![CTA Button, True, Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
 CTA Button, True, Hover  
 
 
@@ -70,64 +70,111 @@ Buttons with icons are great when you need to draw more attention to the action.
 But it’s essential to not overuse these buttons. If everything is grabbing attention, things usually get messy.
 
   
-![Sale Badge, Sale=30%](https://studio-assets.supernova.io/design-systems/18526/425d2575-233c-4ca5-b895-db09cdf248c6.png)  
+![Sale Badge, Sale=30%](https://studio-assets.supernova.io/design-systems/18526/b33a265c-43cd-4979-b6a1-03ea433666a7.png)  
 Sale Badge, Sale=30%  
-![Sale Badge, Sale=50%](https://studio-assets.supernova.io/design-systems/18526/e2b6db8f-2de3-4b26-ab23-7078497ee08c.png)  
+![Sale Badge, Sale=50%](https://studio-assets.supernova.io/design-systems/18526/ef0df146-a811-43b7-a9cb-ca2e68a9bfd4.png)  
 Sale Badge, Sale=50%  
-![Sale Badge, Sale=70%](https://studio-assets.supernova.io/design-systems/18526/955e2d62-bbb7-46ab-9224-4bcdef96f9c8.png)  
+![Sale Badge, Sale=70%](https://studio-assets.supernova.io/design-systems/18526/f21c27d4-b627-4e4a-ab31-46341688a565.png)  
 Sale Badge, Sale=70%  
 
 
   
-![Button Anatomy](https://studio-assets.supernova.io/design-systems/18526/4b6e3781-5598-41a8-a666-ab609d44b340.png)  
+![Button Anatomy](https://studio-assets.supernova.io/design-systems/18526/97213791-aa15-47cf-9a97-ddf2e545f882.png)  
 Button Anatomy  
 
 
   
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/16c31aed-cbf4-4668-a77f-70184752710c.png)  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
 CTA Button, Icon=False, State=Active  
-![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/dfecd965-a2c2-4b6b-80d9-5ee000067d6c.png)  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
 CTA Button, Icon=False, State=Default  
-![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/d52bd100-dc8f-4c7c-be54-e6c1c6de675a.png)  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
 CTA Button, Icon=False, State=Hover  
-![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/4c1b4a57-aed7-490e-9bcb-52031fe2af6f.png)  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
 CTA Button, Icon=True, State=Active  
-![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/9e59399b-6856-41fa-a071-12791c5c9ef3.png)  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
 CTA Button, Icon=True, State=Default  
-![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/5bba77c7-7d4a-49f9-867c-1bca513520b7.png)  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
 CTA Button, Icon=True, State=Hover  
 
 
   
-![Button Anatomy](https://studio-assets.supernova.io/design-systems/18526/4b6e3781-5598-41a8-a666-ab609d44b340.png)  
+![Button Anatomy](https://studio-assets.supernova.io/design-systems/18526/97213791-aa15-47cf-9a97-ddf2e545f882.png)  
 Button Anatomy  
 
 
   
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/16c31aed-cbf4-4668-a77f-70184752710c.png)  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
 CTA Button, Icon=False, State=Active  
-![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/dfecd965-a2c2-4b6b-80d9-5ee000067d6c.png)  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
 CTA Button, Icon=False, State=Default  
-![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/d52bd100-dc8f-4c7c-be54-e6c1c6de675a.png)  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
 CTA Button, Icon=False, State=Hover  
-![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/4c1b4a57-aed7-490e-9bcb-52031fe2af6f.png)  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
 CTA Button, Icon=True, State=Active  
-![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/9e59399b-6856-41fa-a071-12791c5c9ef3.png)  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
 CTA Button, Icon=True, State=Default  
-![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/5bba77c7-7d4a-49f9-867c-1bca513520b7.png)  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
 CTA Button, Icon=True, State=Hover  
 
 
   
-![major ](https://studio-assets.supernova.io/design-systems/18526/16c31aed-cbf4-4668-a77f-70184752710c.png)  
+![major ](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
 major   
-![Variant 1](https://studio-assets.supernova.io/design-systems/18526/dfecd965-a2c2-4b6b-80d9-5ee000067d6c.png)  
+![Variant 1](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
 Variant 1  
-![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/d52bd100-dc8f-4c7c-be54-e6c1c6de675a.png)  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
 CTA Button, Icon=False, State=Hover  
-![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/4c1b4a57-aed7-490e-9bcb-52031fe2af6f.png)  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
 CTA Button, Icon=True, State=Active  
-![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/9e59399b-6856-41fa-a071-12791c5c9ef3.png)  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
 CTA Button, Icon=True, State=Default  
-![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/5bba77c7-7d4a-49f9-867c-1bca513520b7.png)  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
+CTA Button, Icon=True, State=Hover  
+
+
+  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
+CTA Button, Icon=False, State=Active  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
+CTA Button, Icon=False, State=Default  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
+CTA Button, Icon=False, State=Hover  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
+CTA Button, Icon=True, State=Active  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
+CTA Button, Icon=True, State=Default  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
+CTA Button, Icon=True, State=Hover  
+
+
+/FIG
+
+  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
+CTA Button, Icon=False, State=Active  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
+CTA Button, Icon=False, State=Default  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
+CTA Button, Icon=False, State=Hover  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
+CTA Button, Icon=True, State=Active  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
+CTA Button, Icon=True, State=Default  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
+CTA Button, Icon=True, State=Hover  
+
+
+  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/32d3502c-f0ee-49df-bb26-ff66f8d6dff8.png)  
+CTA Button, Icon=False, State=Active  
+![CTA Button, Icon=False, State=Default](https://studio-assets.supernova.io/design-systems/18526/f5ed9107-609f-4824-a150-26de396e475c.png)  
+CTA Button, Icon=False, State=Default  
+![CTA Button, Icon=False, State=Hover](https://studio-assets.supernova.io/design-systems/18526/a5ca7de5-acb4-457a-b71c-debc16f3c63b.png)  
+CTA Button, Icon=False, State=Hover  
+![CTA Button, Icon=True, State=Active](https://studio-assets.supernova.io/design-systems/18526/1ad8ad93-8561-4a87-a030-b773552ffd72.png)  
+CTA Button, Icon=True, State=Active  
+![CTA Button, Icon=True, State=Default](https://studio-assets.supernova.io/design-systems/18526/75af8a03-ec48-4572-9660-f95ad46b2fc3.png)  
+CTA Button, Icon=True, State=Default  
+![CTA Button, Icon=True, State=Hover](https://studio-assets.supernova.io/design-systems/18526/e14fb017-5694-4bb5-b705-6746375c6e1f.png)  
 CTA Button, Icon=True, State=Hover  

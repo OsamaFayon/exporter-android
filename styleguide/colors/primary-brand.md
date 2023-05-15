@@ -5,6 +5,97 @@
 
 > 
 
+  
+**Token Group Palette / Blue**:    
+Blue 1100: rgb(8, 32, 54)  
+Blue 1000: rgb(24, 57, 93)  
+Blue 900: rgb(36, 86, 133)  
+Blue 800: rgb(48, 108, 165)  
+Blue 700: rgb(58, 121, 189)  
+Blue 600: rgb(69, 135, 205)  
+Blue 500: rgb(81, 150, 221)  
+Blue 400: rgb(106, 172, 239)  
+Blue 300: rgb(170, 210, 244)  
+Blue 200: rgb(205, 227, 247)  
+Blue 100: rgb(224, 241, 254)  
+Blue 0: rgb(236, 248, 254)  
+
+
+
+
+
+  
+**Token Group Palette / Green**:    
+Green 1100: rgb(14, 42, 33)  
+Green 1000: rgb(28, 65, 48)  
+Green 900: rgb(45, 105, 68)  
+Green 800: rgb(60, 136, 77)  
+Green 700: rgb(76, 164, 90)  
+Green 600: rgb(90, 178, 97)  
+Green 500: rgb(120, 199, 103)  
+Green 400: rgb(143, 218, 117)  
+Green 300: rgb(169, 226, 151)  
+Green 200: rgb(204, 240, 194)  
+Green 100: rgb(221, 243, 217)  
+Green 0: rgb(238, 249, 236)  
+
+
+  
+**IOS**  
+  
+**Token Group Palette / Aqua**:    
+Aqua 1100: rgb(11, 39, 55)  
+Aqua 1000: rgb(25, 60, 77)  
+Aqua 900: rgb(38, 93, 113)  
+Aqua 800: rgb(49, 108, 130)  
+Aqua 700: rgb(58, 131, 150)  
+Aqua 600: rgb(66, 149, 171)  
+Aqua 500: rgb(84, 181, 203)  
+Aqua 400: rgb(106, 211, 223)  
+Aqua 300: rgb(145, 226, 225)  
+Aqua 200: rgb(181, 240, 241)  
+Aqua 100: rgb(208, 247, 248)  
+Aqua 0: rgb(224, 251, 251)  
+  
+  
+**ANDROID**  
+  
+  
+**WEB**  
+  
+
+
+  
+**Token Group Palette / Aqua**:    
+Aqua 1100: rgb(11, 39, 55)  
+Aqua 1000: rgb(25, 60, 77)  
+Aqua 900: rgb(38, 93, 113)  
+Aqua 800: rgb(49, 108, 130)  
+Aqua 700: rgb(58, 131, 150)  
+Aqua 600: rgb(66, 149, 171)  
+Aqua 500: rgb(84, 181, 203)  
+Aqua 400: rgb(106, 211, 223)  
+Aqua 300: rgb(145, 226, 225)  
+Aqua 200: rgb(181, 240, 241)  
+Aqua 100: rgb(208, 247, 248)  
+Aqua 0: rgb(224, 251, 251)  
+
+
+  
+**Token Group Palette / Green**:    
+Green 1100: rgb(14, 42, 33)  
+Green 1000: rgb(28, 65, 48)  
+Green 900: rgb(45, 105, 68)  
+Green 800: rgb(60, 136, 77)  
+Green 700: rgb(76, 164, 90)  
+Green 600: rgb(90, 178, 97)  
+Green 500: rgb(120, 199, 103)  
+Green 400: rgb(143, 218, 117)  
+Green 300: rgb(169, 226, 151)  
+Green 200: rgb(204, 240, 194)  
+Green 100: rgb(221, 243, 217)  
+Green 0: rgb(238, 249, 236)  
+
 
   
 **IOS**  

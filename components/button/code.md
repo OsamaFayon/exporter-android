@@ -49,3 +49,23 @@ You can also show more details about the story and interact with its properties 
 
   
 [Open Storybook Canvas](https://6195b518b76f57003aa69b4c-ynczzfqqyq.chromatic.com?addons=1&stories=0&panel=true&nav=false&path=%2Fstory%2Futilities-interactivelist--select-on-focus)  
+
+
+```javascript  
+  
+```
+
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );
+}  
+```
+
+```javascript  
+  
+```
