@@ -171,5 +171,10 @@ class AppBorderSides {
     width: 4,
   );
 
+  static const name = BorderSide(
+    color: Color(0xffd36060),
+    width: 4,
+  );
+
   AppBorderSides._();
 }
