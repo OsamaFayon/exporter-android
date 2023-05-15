@@ -141,6 +141,20 @@
     "url": "/documentation.html#search-a2e35d3c-6a79-11ed-b04c-8719c960cbe6"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-351e5ad0-e8e5-11ed-a09d-a1590ff1cff4"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-a0a5f790-efd4-11ed-963c-15094ac5e90e"
+  },
+  {
     "text": "Documentation 🚀",
     "type": "pageTitle",
     "pageName": "Documentation 🚀",
@@ -148,11 +162,53 @@
     "url": "/documentation.html"
   },
   {
-    "text": "Use color intentionally. It’s not decoration. Color is supposed to be functional.",
+    "text": "",
     "type": "contentBlock",
     "pageName": "Colors/Primary Brand",
     "category": "STYLEGUIDE / Colors / Primary Brand",
     "url": "/styleguide/colors/primary-brand.html#search-cdda8270-6a79-11ed-b04c-8719c960cbe6"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-927b4370-f013-11ed-bd46-b34c1860d1f1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-929274f0-f013-11ed-bd46-b34c1860d1f1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-92ab0600-f013-11ed-bd46-b34c1860d1f1"
+  },
+  {
+    "text": "\n",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-846216f0-f00f-11ed-bd46-b34c1860d1f1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-739547c0-ef3d-11ed-9364-7b0c9b015fd2"
+  },
+  {
+    "text": "Use color intentionally. It’s not decoration. Color is supposed to be functional.",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-2dbba070-e360-11ed-bf5b-b39861d6c114"
   },
   {
     "text": "General guidelines",
@@ -225,13 +281,6 @@
     "url": "/styleguide/colors/primary-brand.html#search-315a0199-6a7a-11ed-b04c-8719c960cbe6"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-56feb1c0-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
     "text": "Other cool tokens!",
     "type": "sectionHeader",
     "pageName": "Colors/Primary Brand",
@@ -246,6 +295,27 @@
     "url": "/styleguide/colors/primary-brand.html#search-315a019c-6a7a-11ed-b04c-8719c960cbe6"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-fe491121-efd4-11ed-963c-15094ac5e90e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-005e5c91-efd5-11ed-963c-15094ac5e90e"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Primary Brand",
+    "category": "STYLEGUIDE / Colors / Primary Brand",
+    "url": "/styleguide/colors/primary-brand.html#search-a34adf71-ef3d-11ed-9364-7b0c9b015fd2"
+  },
+  {
     "text": "Primary Brand",
     "type": "pageTitle",
     "pageName": "Colors/Primary Brand",
@@ -253,102 +323,53 @@
     "url": "/styleguide/colors/primary-brand.html"
   },
   {
-    "text": "Use color intentionally. It’s not decoration. Color is supposed to be functional.",
+    "text": "Use this tab to add your alternative Brand",
     "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1000-6a7a-11ed-b04c-8719c960cbe6"
+    "pageName": "Colors/Alternative Brand",
+    "category": "STYLEGUIDE / Colors / Alternative Brand",
+    "url": "/styleguide/colors/alternative-brand.html#search-f0930c70-e40d-11ed-bf5b-b39861d6c114"
   },
   {
-    "text": "General guidelines",
-    "type": "sectionHeader",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1001-6a7a-11ed-b04c-8719c960cbe6"
+    "text": "don't duplicate tokens ",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternative Brand",
+    "category": "STYLEGUIDE / Colors / Alternative Brand",
+    "url": "/styleguide/colors/alternative-brand.html#search-d3c2d5b0-e419-11ed-bf5b-b39861d6c114"
+  },
+  {
+    "text": "This page is is editable by Admina of the DSM",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternative Brand",
+    "category": "STYLEGUIDE / Colors / Alternative Brand",
+    "url": "/styleguide/colors/alternative-brand.html#search-de888e40-e419-11ed-bf5b-b39861d6c114"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-e0add480-7af8-11ed-940f-5b96b046bcc4"
+    "pageName": "Colors/Alternative Brand",
+    "category": "STYLEGUIDE / Colors / Alternative Brand",
+    "url": "/styleguide/colors/alternative-brand.html#search-2a77a480-e41a-11ed-bf5b-b39861d6c114"
   },
   {
-    "text": "We have different shades for every defined color in Orbit. For most of our colorsnote, the following points should apply:",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1002-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1003-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "Every color has specific guidelines for meaning. We honor these guidelines in order to maintain consistency across the product.",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1004-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "It is not safe to combine the Light and Dark shades of any color. Always use just one or the other.",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1005-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "No Dark shade should be used as a background.",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1006-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "Every non-Dark color has two additional shades defined: :active and :hover. These additional shades should only be used for very specific cases.",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1007-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "All of our colors are also defined as design tokens, so non-Orbit components can use Orbit colors directly and they don’t need to define colors again in their local codebase.",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd1008-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "Background & Foreground Colors",
-    "type": "sectionHeader",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd3710-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "We use two main colors:",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html#search-8edd3711-6a7a-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "Alternate Brand",
+    "text": "Alternative Brand",
     "type": "pageTitle",
-    "pageName": "Colors/Alternate Brand",
-    "category": "STYLEGUIDE / Colors / Alternate Brand",
-    "url": "/styleguide/colors/alternate-brand.html"
+    "pageName": "Colors/Alternative Brand",
+    "category": "STYLEGUIDE / Colors / Alternative Brand",
+    "url": "/styleguide/colors/alternative-brand.html"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Themes",
-    "category": "STYLEGUIDE / Themes",
-    "url": "/styleguide/themes.html#search-83b47190-9177-11ed-989e-830b750f35f6"
+    "pageName": "Colors/new",
+    "category": "STYLEGUIDE / Colors / new",
+    "url": "/styleguide/colors/new.html#search-0d6d5551-e8e4-11ed-a09d-a1590ff1cff4"
+  },
+  {
+    "text": "new",
+    "type": "pageTitle",
+    "pageName": "Colors/new",
+    "category": "STYLEGUIDE / Colors / new",
+    "url": "/styleguide/colors/new.html"
   },
   {
     "text": "Themes",
@@ -356,6 +377,48 @@
     "pageName": "Themes",
     "category": "STYLEGUIDE / Themes",
     "url": "/styleguide/themes.html"
+  },
+  {
+    "text": "Resources",
+    "type": "sectionHeader",
+    "pageName": "Tools and resources",
+    "category": "STYLEGUIDE / Tools and resources",
+    "url": "/styleguide/tools-and-resources.html#search-79cf13d0-51d9-11ec-9e6d-bdf95c8a8921"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Tools and resources",
+    "category": "STYLEGUIDE / Tools and resources",
+    "url": "/styleguide/tools-and-resources.html#search-28902b20-51da-11ec-9e6d-bdf95c8a8921"
+  },
+  {
+    "text": "Embed a Figma file with the Figma block:",
+    "type": "contentBlock",
+    "pageName": "Tools and resources",
+    "category": "STYLEGUIDE / Tools and resources",
+    "url": "/styleguide/tools-and-resources.html#search-f8aefa60-4c59-11ec-8da3-557eed56e2dd"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Tools and resources",
+    "category": "STYLEGUIDE / Tools and resources",
+    "url": "/styleguide/tools-and-resources.html#search-78316cd0-4c5c-11ec-8da3-557eed56e2dd"
+  },
+  {
+    "text": "Embed other external content with an generic Embed block:",
+    "type": "contentBlock",
+    "pageName": "Tools and resources",
+    "category": "STYLEGUIDE / Tools and resources",
+    "url": "/styleguide/tools-and-resources.html#search-889374b0-4c5c-11ec-8da3-557eed56e2dd"
+  },
+  {
+    "text": "Tools and resources",
+    "type": "pageTitle",
+    "pageName": "Tools and resources",
+    "category": "STYLEGUIDE / Tools and resources",
+    "url": "/styleguide/tools-and-resources.html"
   },
   {
     "text": "Typography is often one of the foundational components you will want to get a handle on as it will need to work harmoniously with other elements like icons and UI controls. Your line-heights may even influence many other structural elements like spacing and grids. Here are a few key areas you'll want to think through.",
@@ -393,32 +456,32 @@
     "url": "/styleguide/typography.html#search-266b7964-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
-    "text": "",
+    "text": "BRAND A",
     "type": "contentBlock",
     "pageName": "Typography",
     "category": "STYLEGUIDE / Typography",
-    "url": "/styleguide/typography.html#search-92e4b9f0-d393-11ed-a8ef-537d085f9afd"
+    "url": "/styleguide/typography.html#search-b7e2a970-e413-11ed-bf5b-b39861d6c114"
+  },
+  {
+    "text": "BRAND B",
+    "type": "contentBlock",
+    "pageName": "Typography",
+    "category": "STYLEGUIDE / Typography",
+    "url": "/styleguide/typography.html#search-ccb503c0-e413-11ed-bf5b-b39861d6c114"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Typography",
     "category": "STYLEGUIDE / Typography",
-    "url": "/styleguide/typography.html#search-8e43b030-d3b7-11ed-b295-212d8d0b3f54"
+    "url": "/styleguide/typography.html#search-c87202e0-e413-11ed-bf5b-b39861d6c114"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Typography",
     "category": "STYLEGUIDE / Typography",
-    "url": "/styleguide/typography.html#search-a7392750-d3b7-11ed-b295-212d8d0b3f54"
-  },
-  {
-    "text": "sasas",
-    "type": "contentBlock",
-    "pageName": "Typography",
-    "category": "STYLEGUIDE / Typography",
-    "url": "/styleguide/typography.html#search-1704e7e0-d3cc-11ed-a4b7-85df2cc4fccb"
+    "url": "/styleguide/typography.html#search-b161c680-e413-11ed-bf5b-b39861d6c114"
   },
   {
     "text": "Typography",
@@ -533,18 +596,11 @@
     "url": "/styleguide/icons.html"
   },
   {
-    "text": "",
+    "text": "Overview",
     "type": "contentBlock",
     "pageName": "Button/Design",
     "category": "Components / Button / Design",
     "url": "/components/button/design.html#search-7491d270-51ef-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "text": "Overview",
-    "type": "sectionHeader",
-    "pageName": "Button/Design",
-    "category": "Components / Button / Design",
-    "url": "/components/button/design.html#search-f3ef2b20-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "Buttons communicate actions that users can take. They are typically placed throughout your UI, in places like: Dialogs, Forms, Toolbars, etc.",
@@ -573,13 +629,6 @@
     "pageName": "Button/Design",
     "category": "Components / Button / Design",
     "url": "/components/button/design.html#search-037c08b0-6a7d-11ed-9b08-1dd24b30d581"
-  },
-  {
-    "text": "Here are some of the variants of the button that you can use.",
-    "type": "contentBlock",
-    "pageName": "Button/Design",
-    "category": "Components / Button / Design",
-    "url": "/components/button/design.html#search-037c08b1-6a7d-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "Guidelines",
@@ -652,6 +701,13 @@
     "url": "/components/button/design.html#search-59cfcbc2-6a7d-11ed-9b08-1dd24b30d581"
   },
   {
+    "text": "/FIG",
+    "type": "contentBlock",
+    "pageName": "Button/Design",
+    "category": "Components / Button / Design",
+    "url": "/components/button/design.html#search-d70d02a0-efd5-11ed-963c-15094ac5e90e"
+  },
+  {
     "text": "Design",
     "type": "pageTitle",
     "pageName": "Button/Design",
@@ -687,6 +743,83 @@
     "url": "/components/button/code.html#search-80667c50-5126-11ec-9e6d-bdf95c8a8921"
   },
   {
+    "text": "Display content from a Storybook URL. This URL can be public, private, or behind a VPN. You must be logged in with Storybook before it will show up in the documentation.",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-11ca7ad0-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "Select Storybook from the block menu",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-11ca7ad1-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "Enter the URL of a Storybook story and click Embed",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-11ca7ad2-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "The story will be displayed — click on the block to open the story in a new window",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-11ca7ad3-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "You can optionally resize the container vertically by using the resize handle (accessible on hover)",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-11ca7ad4-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "You can also show more details about the story and interact with its properties by enabling the Storybook Info Add-on.",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-3153c0a0-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "Hover over the block to access the display menu",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-3153c0a1-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "Turn the toggle ON to enable Add-ons",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-3153c0a2-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-26e3f040-df55-11ed-a71c-a9c440ca1602"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-8d18a920-f010-11ed-bd46-b34c1860d1f1"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-8964cc10-f014-11ed-bd46-b34c1860d1f1"
+  },
+  {
     "text": "Code",
     "type": "pageTitle",
     "pageName": "Button/Code",
@@ -698,14 +831,14 @@
     "type": "contentBlock",
     "pageName": "Button/Markdown",
     "category": "Components / Button / Markdown",
-    "url": "/components/button/markdown.html#search-f77ad961-d3b8-11ed-b295-212d8d0b3f54"
+    "url": "/components/button/markdown.html#search-1a78b5d0-ef3f-11ed-9364-7b0c9b015fd2"
   },
   {
     "text": "",
     "type": "contentBlock",
     "pageName": "Button/Markdown",
     "category": "Components / Button / Markdown",
-    "url": "/components/button/markdown.html#search-ff708201-d3b8-11ed-b295-212d8d0b3f54"
+    "url": "/components/button/markdown.html#search-b0ed7d20-efd5-11ed-963c-15094ac5e90e"
   },
   {
     "text": "Markdown",
@@ -715,46 +848,39 @@
     "url": "/components/button/markdown.html"
   },
   {
-    "text": "",
+    "text": "Component Table",
     "type": "contentBlock",
-    "pageName": "FigComponents/Brand A",
-    "category": "Components / FigComponents / Brand A",
-    "url": "/components/fig-components/brand-a.html#search-944102e0-d3c5-11ed-9aa4-fbece211634e"
-  },
-  {
-    "text": "Brand A",
-    "type": "pageTitle",
-    "pageName": "FigComponents/Brand A",
-    "category": "Components / FigComponents / Brand A",
-    "url": "/components/fig-components/brand-a.html"
-  },
-  {
-    "text": "Brand A",
-    "type": "pageTitle",
-    "pageName": "FigComponents/Brand A",
-    "category": "Components / FigComponents / Brand A",
-    "url": "/components/fig-components/brand-a-1.html"
-  },
-  {
-    "text": "Brand B",
-    "type": "pageTitle",
-    "pageName": "FigComponents/Brand B",
-    "category": "Components / FigComponents / Brand B",
-    "url": "/components/fig-components/brand-b.html"
+    "pageName": "Button/Component Table",
+    "category": "Components / Button / Component Table",
+    "url": "/components/button/component-table.html#search-8185d360-e419-11ed-bf5b-b39861d6c114"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "FigComponents/Brand D",
-    "category": "Components / FigComponents / Brand D",
-    "url": "/components/fig-components/brand-d.html#search-364f7700-d3cc-11ed-a4b7-85df2cc4fccb"
+    "pageName": "Button/Component Table",
+    "category": "Components / Button / Component Table",
+    "url": "/components/button/component-table.html#search-7e1b5830-e419-11ed-bf5b-b39861d6c114"
   },
   {
-    "text": "Brand D",
+    "text": "Component Health",
+    "type": "contentBlock",
+    "pageName": "Button/Component Table",
+    "category": "Components / Button / Component Table",
+    "url": "/components/button/component-table.html#search-6be6a8a0-e418-11ed-bf5b-b39861d6c114"
+  },
+  {
+    "text": "Component Checklist ",
+    "type": "contentBlock",
+    "pageName": "Button/Component Table",
+    "category": "Components / Button / Component Table",
+    "url": "/components/button/component-table.html#search-338ae790-e419-11ed-bf5b-b39861d6c114"
+  },
+  {
+    "text": "Component Table",
     "type": "pageTitle",
-    "pageName": "FigComponents/Brand D",
-    "category": "Components / FigComponents / Brand D",
-    "url": "/components/fig-components/brand-d.html"
+    "pageName": "Button/Component Table",
+    "category": "Components / Button / Component Table",
+    "url": "/components/button/component-table.html"
   },
   {
     "text": "Template ",
@@ -778,13 +904,6 @@
     "url": "/resources/design-tokens.html#search-1858ab20-51d9-11ec-9e6d-bdf95c8a8921"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-efc6ed80-4d40-11ec-8ce5-cb0f56bcf344"
-  },
-  {
     "text": "Design tokens",
     "type": "pageTitle",
     "pageName": "Design tokens",
@@ -792,53 +911,18 @@
     "url": "/resources/design-tokens.html"
   },
   {
-    "text": "Resources",
-    "type": "sectionHeader",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-79cf13d0-51d9-11ec-9e6d-bdf95c8a8921"
-  },
-  {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-28902b20-51da-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Tempelate",
+    "category": "Tempelate",
+    "url": "/tempelate.html#search-21146f30-c7ec-11ed-bbe5-bb2798c14d92"
   },
   {
-    "text": "Embed a Figma file with the Figma block:",
-    "type": "contentBlock",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-f8aefa60-4c59-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-78316cd0-4c5c-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "text": "Embed other external content with an generic Embed block:",
-    "type": "contentBlock",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-889374b0-4c5c-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "text": "Tools and resources",
+    "text": "Tempelate",
     "type": "pageTitle",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html"
-  },
-  {
-    "text": "Versions",
-    "type": "pageTitle",
-    "pageName": "Versions",
-    "category": "Versions",
-    "url": "/versions.html"
+    "pageName": "Tempelate",
+    "category": "Tempelate",
+    "url": "/tempelate.html"
   },
   {
     "text": "Documentation Root",
@@ -874,13 +958,6 @@
     "pageName": "Button",
     "category": "Components / Button",
     "url": "/components/button/design.html"
-  },
-  {
-    "text": "FigComponents",
-    "type": "groupTitle",
-    "pageName": "FigComponents",
-    "category": "Components / FigComponents",
-    "url": "/components/fig-components/brand-a.html"
   },
   {
     "text": "Resources",
