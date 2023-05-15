@@ -6,6 +6,61 @@
 > 
 
   
+**IOS**  
+  
+**Token Group Palette / Pink**:    
+Pink 1100: rgb(40, 24, 33)  
+Pink 1000: rgb(79, 25, 48)  
+Pink 900: rgb(135, 38, 71)  
+Pink 800: rgb(164, 59, 91)  
+Pink 700: rgb(190, 68, 102)  
+Pink 600: rgb(207, 81, 124)  
+Pink 500: rgb(222, 99, 139)  
+Pink 400: rgb(238, 127, 173)  
+Pink 300: rgb(241, 155, 192)  
+Pink 200: rgb(244, 184, 212)  
+Pink 100: rgb(247, 220, 234)  
+Pink 0: rgb(251, 234, 242)  
+  
+  
+**Andrpid**  
+  
+**Token Group Palette / Purple**:    
+Purple 1100: rgb(29, 30, 54)  
+Purple 1000: rgb(43, 38, 103)  
+Purple 900: rgb(69, 62, 150)  
+Purple 800: rgb(90, 82, 180)  
+Purple 700: rgb(107, 98, 204)  
+Purple 600: rgb(125, 115, 226)  
+Purple 500: rgb(141, 132, 237)  
+Purple 400: rgb(158, 149, 236)  
+Purple 300: rgb(192, 194, 243)  
+Purple 200: rgb(216, 216, 246)  
+Purple 100: rgb(234, 234, 248)  
+Purple 0: rgb(242, 242, 248)  
+  
+  
+**Web app**  
+  
+
+
+  
+**Token Group Palette / Orange**:    
+Orange 1100: rgb(42, 20, 15)  
+Orange 1000: rgb(88, 29, 9)  
+Orange 900: rgb(138, 52, 26)  
+Orange 800: rgb(191, 92, 41)  
+Orange 700: rgb(222, 118, 58)  
+Orange 600: rgb(230, 130, 70)  
+Orange 500: rgb(238, 142, 83)  
+Orange 400: rgb(242, 160, 105)  
+Orange 300: rgb(244, 179, 136)  
+Orange 200: rgb(246, 199, 169)  
+Orange 100: rgb(247, 221, 206)  
+Orange 0: rgb(252, 238, 228)  
+
+
+  
 **Token Group Palette / Blue**:    
 Blue 1100: rgb(8, 32, 54)  
 Blue 1000: rgb(24, 57, 93)  

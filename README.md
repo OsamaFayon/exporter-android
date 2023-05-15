@@ -5,7 +5,6 @@ Welcome to our design system documentation! Below you will find the entire conte
 ## Content
  
 ### STYLEGUIDE
-- [Themes](./styleguide/themes.md)
 - [Tools and resources](./styleguide/tools-and-resources.md)
 - [Typography](./styleguide/typography.md)
 - [Icons](./styleguide/icons.md)
@@ -13,6 +12,10 @@ Welcome to our design system documentation! Below you will find the entire conte
   - [Primary Brand](./styleguide/colors/primary-brand.md)
   - [Alternative Brand](./styleguide/colors/alternative-brand.md)
   - [new](./styleguide/colors/new.md)
+- [Themes](./styleguide/themes/theme-1.md)
+  - [Theme 1](./styleguide/themes/theme-1.md)
+  - [Theme 2](./styleguide/themes/theme-2.md)
+  - [Theme 3](./styleguide/themes/theme-3.md)
  
 ### Components
 - [Button](./components/button/design.md)
