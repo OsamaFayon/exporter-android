@@ -10,6 +10,7 @@
     --borderName: 1px solid #000000;    
     --borderToken9: 1px solid #000000;    
     --borderName: 1px solid #000000;    
+    --borderName: 1px solid #000000;    
     --borderToken10: 1px solid #000000;    
     --borderToken11: 1px solid #000000;    
     --borderToken12: 1px solid #000000;    
@@ -22,9 +23,8 @@
     --borderToken18: 4px solid #da2424;    
     --borderToken19: 4px solid #e27171;    
     --borderToken20: 5px solid #dd3f3f;    
-    --borderToken21: 5px solid #e03d3d;    
     --borderBoarder: 5px solid #281b1b;    
-    --borderName: 1px solid #000000;    
+    --borderToken21: 5px solid #e03d3d;    
     --borderName: 3px solid #b53535;    
     --borderToken23: 5px solid #c44747;    
     --borderMlb: 4px solid #000000;    
@@ -32,6 +32,7 @@
     --borderToken25: 6px solid #ea8181;    
     --borderToken26: 4px solid #db6363;    
     --borderName: 4px solid #d36060;    
+    --borderToken27: 5px solid #4c3232;    
     --borderMoodyS: var(--borderBoardeer2);    
     --borderToken15: var(--borderNewAnme);    
     --borderToken22: var(--borderToken12);    
