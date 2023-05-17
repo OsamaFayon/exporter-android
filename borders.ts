@@ -289,6 +289,33 @@ const name = {
                   },
            position: "Center",
          };
+const token27 = {
+           color: "#4c3232",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
+const token28 = {
+           color: "#af5a5a",
+           width: {
+                   measure: 6,
+                   unit: "Pixels",
+                   css: "6px"
+                  },
+           position: "Outside",
+         };
+const token29 = {
+           color: "#ce8e8e",
+           width: {
+                   measure: 6,
+                   unit: "Pixels",
+                   css: "6px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -327,6 +354,9 @@ export const Borders = {
       token25,
       token26,
       name,
+      token27,
+      token28,
+      token29,
       moodyS,
       token15,
       token22,
