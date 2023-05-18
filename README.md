@@ -7,17 +7,20 @@ Welcome to our design system documentation! Below you will find the entire conte
 ### STYLEGUIDE
 - [Tools and resources](./styleguide/tools-and-resources.md)
 - [Typography](./styleguide/typography.md)
-- [Icons](./styleguide/icons.md)
 - [Colors](./styleguide/colors/primary-brand.md)
   - [Primary Brand](./styleguide/colors/primary-brand.md)
   - [Alternative Brand](./styleguide/colors/alternative-brand.md)
-  - [new](./styleguide/colors/new.md)
 - [Themes](./styleguide/themes/theme-1.md)
   - [Theme 1](./styleguide/themes/theme-1.md)
   - [Theme 2](./styleguide/themes/theme-2.md)
   - [Theme 3](./styleguide/themes/theme-3.md)
+- [Icons](./styleguide/icons/theme-1.md)
+  - [Theme 1](./styleguide/icons/theme-1.md)
+  - [Theme 2](./styleguide/icons/theme-2.md)
+  - [Theme 3](./styleguide/icons/theme-3.md)
  
 ### Components
+- [token ](./components/token.md)
 - [Button](./components/button/design.md)
   - [Design](./components/button/design.md)
   - [Code](./components/button/code.md)

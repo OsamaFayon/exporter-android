@@ -69,3 +69,20 @@ export default function Button(props) {
 ```javascript  
   
 ```
+
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );
+}  
+```
+
+```javascript  
+  
+```
+
+/lo
