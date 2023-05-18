@@ -176,5 +176,25 @@ class AppBorders {
     width: 4,
   ));
 
+  static const token27 = Border.fromBorderSide(BorderSide(
+    color: Color(0xff4c3232),
+    width: 5,
+  ));
+
+  static const token28 = Border.fromBorderSide(BorderSide(
+    color: Color(0xffaf5a5a),
+    width: 6,
+  ));
+
+  static const token29 = Border.fromBorderSide(BorderSide(
+    color: Color(0xffce8e8e),
+    width: 6,
+  ));
+
+  static const token30 = Border.fromBorderSide(BorderSide(
+    color: Color(0xff934c4c),
+    width: 5,
+  ));
+
   AppBorders._();
 }
