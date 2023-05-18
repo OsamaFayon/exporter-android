@@ -9,6 +9,10 @@ class AppColors {
   
   static const token4 = Color(0xffccf0c2); 
   
+  static const entel = Color(0xffb60e0e); 
+  
+  static const entel = Color(0xffa9e297); 
+  
   static const paletteGreenGreen1100 = Color(0xff0e2a21); 
   
   static const paletteGreenGreen1000 = Color(0xff1c4130); 
