@@ -10,6 +10,7 @@ Welcome to our design system documentation! Below you will find the entire conte
 - [Colors](./styleguide/colors/primary-brand.md)
   - [Primary Brand](./styleguide/colors/primary-brand.md)
   - [Alternative Brand](./styleguide/colors/alternative-brand.md)
+  - [More brands ](./styleguide/colors/more-brands.md)
 - [Themes](./styleguide/themes/theme-1.md)
   - [Theme 1](./styleguide/themes/theme-1.md)
   - [Theme 2](./styleguide/themes/theme-2.md)

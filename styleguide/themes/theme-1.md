@@ -63,12 +63,12 @@ Green 0: rgb(238, 249, 236)
   
 ****  
   
-![CTA Button/True/Default](https://studio-assets.supernova.io/design-systems/18526/fdef7cf9-5ec3-44e4-aa0d-2d0a37965dfd.png)  
+![CTA Button/True/Default](https://studio-assets.supernova.io/design-systems/18526/d6d9b257-1a01-4c9e-b782-50ea0e0486c0.png)  
 CTA Button/True/Default  
   
   
 ****  
   
-![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/7a5b8fbd-2e54-4bf8-b0f1-86f4db53d0f6.png)  
+![CTA Button, Icon=False, State=Active](https://studio-assets.supernova.io/design-systems/18526/20e95960-51e7-4b96-8165-40dc8ac07ac3.png)  
 CTA Button, Icon=False, State=Active  
   
