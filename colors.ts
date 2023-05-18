@@ -1,5 +1,6 @@
 const token1 = "#bb4444";
 const token3 = "#875d5d";
+const entel = "#b60e0e";
 const paletteGreenGreen1100 = "#0e2a21";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
@@ -170,10 +171,12 @@ const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const token2 = paletteGreenGreen300;
 const token4 = paletteGreenGreen200;
+const entel = paletteGreenGreen300;
 
 export const Colors = {
     token1,
     token3,
+    entel,
     paletteGreenGreen1100,
     paletteGreenGreen1000,
     paletteGreenGreen900,
@@ -350,4 +353,5 @@ export const Colors = {
     specialRatingRatingHoveroff,
     token2,
     token4,
+    entel,
 }
