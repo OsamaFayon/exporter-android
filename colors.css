@@ -2,6 +2,7 @@
 :root {
     --colorToken1: #bb4444;    
     --colorToken3: #875d5d;    
+    --colorEntel: #b60e0e;    
     --colorPaletteGreenGreen1100: #0e2a21;    
     --colorPaletteGreenGreen1000: #1c4130;    
     --colorPaletteGreenGreen900: #2d6944;    
@@ -178,4 +179,5 @@
     --colorSpecialRatingRatingHoveroff: #f6be41;    
     --colorToken2: var(--colorPaletteGreenGreen300);    
     --colorToken4: var(--colorPaletteGreenGreen200);    
+    --colorEntel: var(--colorPaletteGreenGreen300);    
 }
