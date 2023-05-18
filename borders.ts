@@ -91,15 +91,6 @@ const name = {
                   },
            position: "Inside",
          };
-const name = {
-           color: "#000000",
-           width: {
-                   measure: 1,
-                   unit: "Pixels",
-                   css: "1px"
-                  },
-           position: "Inside",
-         };
 const token10 = {
            color: "#000000",
            width: {
@@ -208,6 +199,15 @@ const token20 = {
                   },
            position: "Outside",
          };
+const token21 = {
+           color: "#e03d3d",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
 const boarder = {
            color: "#281b1b",
            width: {
@@ -217,14 +217,14 @@ const boarder = {
                   },
            position: "Center",
          };
-const token21 = {
-           color: "#e03d3d",
+const name = {
+           color: "#000000",
            width: {
-                   measure: 5,
+                   measure: 1,
                    unit: "Pixels",
-                   css: "5px"
+                   css: "1px"
                   },
-           position: "Center",
+           position: "Inside",
          };
 const name = {
            color: "#b53535",
@@ -341,7 +341,6 @@ export const Borders = {
       name,
       token9,
       name,
-      name,
       token10,
       token11,
       token12,
@@ -354,8 +353,9 @@ export const Borders = {
       token18,
       token19,
       token20,
-      boarder,
       token21,
+      boarder,
+      name,
       name,
       token23,
       mlb,
