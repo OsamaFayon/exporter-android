@@ -15,6 +15,10 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/styleguide/colors/more-brands.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/styleguide/themes/theme-1.html</loc>
             <changefreq>weekly</changefreq>
         </url>

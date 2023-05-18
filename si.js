@@ -19,6 +19,20 @@
     "type": "contentBlock",
     "pageName": "Documentation 🚀",
     "category": "Documentation 🚀",
+    "url": "/documentation.html#search-9a3df6f0-f57e-11ed-8471-7bd9e2538531"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-9a526950-f57e-11ed-8471-7bd9e2538531"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
     "url": "/documentation.html#search-827c7eb0-f54c-11ed-922f-8736c602d5f1"
   },
   {
@@ -300,6 +314,20 @@
     "pageName": "Colors/Alternative Brand",
     "category": "STYLEGUIDE / Colors / Alternative Brand",
     "url": "/styleguide/colors/alternative-brand.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/More brands ",
+    "category": "STYLEGUIDE / Colors / More brands ",
+    "url": "/styleguide/colors/more-brands.html#search-0dad3420-f57f-11ed-8471-7bd9e2538531"
+  },
+  {
+    "text": "More brands ",
+    "type": "pageTitle",
+    "pageName": "Colors/More brands ",
+    "category": "STYLEGUIDE / Colors / More brands ",
+    "url": "/styleguide/colors/more-brands.html"
   },
   {
     "text": "",
@@ -708,13 +736,6 @@
     "url": "/components/button/design.html#search-f21a7440-f3ba-11ed-aff2-bd4ee51b7639"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Button/Design",
-    "category": "Components / Button / Design",
-    "url": "/components/button/design.html#search-7b1fec50-f54d-11ed-922f-8736c602d5f1"
-  },
-  {
     "text": "Design",
     "type": "pageTitle",
     "pageName": "Button/Design",
@@ -874,13 +895,6 @@
     "pageName": "Button/Markdown",
     "category": "Components / Button / Markdown",
     "url": "/components/button/markdown.html#search-438d6460-f4ae-11ed-a3d6-e99e764840e4"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Button/Markdown",
-    "category": "Components / Button / Markdown",
-    "url": "/components/button/markdown.html#search-4fa894a0-f4cb-11ed-922f-8736c602d5f1"
   },
   {
     "text": "Markdown",
