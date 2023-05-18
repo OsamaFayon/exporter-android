@@ -15,6 +15,13 @@
     "url": "/documentation.html#search-5b4e5241-6a79-11ed-b04c-8719c960cbe6"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-827c7eb0-f54c-11ed-922f-8736c602d5f1"
+  },
+  {
     "text": "As a company, we believe that by giving people resources to create products easily, we all will make humanity better. Together.",
     "type": "contentBlock",
     "pageName": "Documentation 🚀",
@@ -155,20 +162,6 @@
     "url": "/documentation.html#search-a2e35d3c-6a79-11ed-b04c-8719c960cbe6"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Documentation 🚀",
-    "category": "Documentation 🚀",
-    "url": "/documentation.html#search-351e5ad0-e8e5-11ed-a09d-a1590ff1cff4"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Documentation 🚀",
-    "category": "Documentation 🚀",
-    "url": "/documentation.html#search-a0a5f790-efd4-11ed-963c-15094ac5e90e"
-  },
-  {
     "text": "Documentation 🚀",
     "type": "pageTitle",
     "pageName": "Documentation 🚀",
@@ -181,41 +174,6 @@
     "pageName": "Colors/Primary Brand",
     "category": "STYLEGUIDE / Colors / Primary Brand",
     "url": "/styleguide/colors/primary-brand.html#search-cdda8270-6a79-11ed-b04c-8719c960cbe6"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-927b4370-f013-11ed-bd46-b34c1860d1f1"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-929274f0-f013-11ed-bd46-b34c1860d1f1"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-92ab0600-f013-11ed-bd46-b34c1860d1f1"
-  },
-  {
-    "text": "\n",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-846216f0-f00f-11ed-bd46-b34c1860d1f1"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-739547c0-ef3d-11ed-9364-7b0c9b015fd2"
   },
   {
     "text": "Use color intentionally. It’s not decoration. Color is supposed to be functional.",
@@ -309,34 +267,6 @@
     "url": "/styleguide/colors/primary-brand.html#search-315a019c-6a7a-11ed-b04c-8719c960cbe6"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-88b49b61-f334-11ed-a7df-3d935fc0809d"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-fe491121-efd4-11ed-963c-15094ac5e90e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-005e5c91-efd5-11ed-963c-15094ac5e90e"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Primary Brand",
-    "category": "STYLEGUIDE / Colors / Primary Brand",
-    "url": "/styleguide/colors/primary-brand.html#search-a34adf71-ef3d-11ed-9364-7b0c9b015fd2"
-  },
-  {
     "text": "Primary Brand",
     "type": "pageTitle",
     "pageName": "Colors/Primary Brand",
@@ -365,32 +295,11 @@
     "url": "/styleguide/colors/alternative-brand.html#search-de888e40-e419-11ed-bf5b-b39861d6c114"
   },
   {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/Alternative Brand",
-    "category": "STYLEGUIDE / Colors / Alternative Brand",
-    "url": "/styleguide/colors/alternative-brand.html#search-2a77a480-e41a-11ed-bf5b-b39861d6c114"
-  },
-  {
     "text": "Alternative Brand",
     "type": "pageTitle",
     "pageName": "Colors/Alternative Brand",
     "category": "STYLEGUIDE / Colors / Alternative Brand",
     "url": "/styleguide/colors/alternative-brand.html"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Colors/new",
-    "category": "STYLEGUIDE / Colors / new",
-    "url": "/styleguide/colors/new.html#search-0d6d5551-e8e4-11ed-a09d-a1590ff1cff4"
-  },
-  {
-    "text": "new",
-    "type": "pageTitle",
-    "pageName": "Colors/new",
-    "category": "STYLEGUIDE / Colors / new",
-    "url": "/styleguide/colors/new.html"
   },
   {
     "text": "",
@@ -412,13 +321,6 @@
     "pageName": "Themes/Theme 1",
     "category": "STYLEGUIDE / Themes / Theme 1",
     "url": "/styleguide/themes/theme-1.html"
-  },
-  {
-    "text": "",
-    "type": "contentBlock",
-    "pageName": "Themes/Theme 2",
-    "category": "STYLEGUIDE / Themes / Theme 2",
-    "url": "/styleguide/themes/theme-2.html#search-b9a51850-f319-11ed-91e1-ede7adda0f2b"
   },
   {
     "text": "Theme 2",
@@ -547,6 +449,13 @@
     "url": "/styleguide/typography.html#search-b161c680-e413-11ed-bf5b-b39861d6c114"
   },
   {
+    "text": "/",
+    "type": "contentBlock",
+    "pageName": "Typography",
+    "category": "STYLEGUIDE / Typography",
+    "url": "/styleguide/typography.html#search-9e6ae5a0-f3fb-11ed-a3a5-d5698d20e9f9"
+  },
+  {
     "text": "Typography",
     "type": "pageTitle",
     "pageName": "Typography",
@@ -556,107 +465,121 @@
   {
     "text": "When to use",
     "type": "sectionHeader",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f0-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f0-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "To add simple visual context.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f1-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f1-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "To clarify the purpose of a feature or draw attention to a commonly understood action.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f2-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f2-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "With text so the context is accessible to everyone.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f3-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f3-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "When not to use",
     "type": "sectionHeader",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f4-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f4-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "For services such as payment methods—use a service logo.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f5-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f5-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "For carriers for transport—use a carrier logo.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f6-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f6-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "For general visual context—use an illustration.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f7-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f7-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "Interactions",
     "type": "sectionHeader",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f8-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f8-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "Some icons (like plus and close ) work well to show users that an interaction is possible (like adding an option or closing a dialog). Users are used to interacting with these icons, so they work well inside buttons.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558f9-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558f9-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "Don’t use such icons in places where users can’t interact with them. This creates an expectation that clicking them does something, which can lead to users being frustrated when nothing happens.",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558fa-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558fa-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558fb-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558fb-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "Library",
     "type": "sectionHeader",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558fc-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558fc-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
     "text": "All following icons are available to you:",
     "type": "contentBlock",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html#search-4eb558fd-6a7c-11ed-9b08-1dd24b30d581"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html#search-4eb558fd-6a7c-11ed-9b08-1dd24b30d581"
   },
   {
-    "text": "Icons",
+    "text": "Theme 1",
     "type": "pageTitle",
-    "pageName": "Icons",
-    "category": "STYLEGUIDE / Icons",
-    "url": "/styleguide/icons.html"
+    "pageName": "Icons/Theme 1",
+    "category": "STYLEGUIDE / Icons / Theme 1",
+    "url": "/styleguide/icons/theme-1.html"
+  },
+  {
+    "text": "Theme 2",
+    "type": "pageTitle",
+    "pageName": "Icons/Theme 2",
+    "category": "STYLEGUIDE / Icons / Theme 2",
+    "url": "/styleguide/icons/theme-2.html"
+  },
+  {
+    "text": "Theme 3",
+    "type": "pageTitle",
+    "pageName": "Icons/Theme 3",
+    "category": "STYLEGUIDE / Icons / Theme 3",
+    "url": "/styleguide/icons/theme-3.html"
   },
   {
     "text": "Overview",
@@ -778,6 +701,20 @@
     "url": "/components/button/design.html#search-cd0e0350-f334-11ed-a7df-3d935fc0809d"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Design",
+    "category": "Components / Button / Design",
+    "url": "/components/button/design.html#search-f21a7440-f3ba-11ed-aff2-bd4ee51b7639"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Design",
+    "category": "Components / Button / Design",
+    "url": "/components/button/design.html#search-7b1fec50-f54d-11ed-922f-8736c602d5f1"
+  },
+  {
     "text": "Design",
     "type": "pageTitle",
     "pageName": "Button/Design",
@@ -890,6 +827,20 @@
     "url": "/components/button/code.html#search-8964cc10-f014-11ed-bd46-b34c1860d1f1"
   },
   {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-2188a190-f54e-11ed-8471-7bd9e2538531"
+  },
+  {
+    "text": "/lo",
+    "type": "contentBlock",
+    "pageName": "Button/Code",
+    "category": "Components / Button / Code",
+    "url": "/components/button/code.html#search-262f6d50-f54e-11ed-8471-7bd9e2538531"
+  },
+  {
     "text": "Code",
     "type": "pageTitle",
     "pageName": "Button/Code",
@@ -909,6 +860,27 @@
     "pageName": "Button/Markdown",
     "category": "Components / Button / Markdown",
     "url": "/components/button/markdown.html#search-b0ed7d20-efd5-11ed-963c-15094ac5e90e"
+  },
+  {
+    "text": "sasasa",
+    "type": "contentBlock",
+    "pageName": "Button/Markdown",
+    "category": "Components / Button / Markdown",
+    "url": "/components/button/markdown.html#search-bc868720-f3fa-11ed-a3a5-d5698d20e9f9"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Markdown",
+    "category": "Components / Button / Markdown",
+    "url": "/components/button/markdown.html#search-438d6460-f4ae-11ed-a3d6-e99e764840e4"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button/Markdown",
+    "category": "Components / Button / Markdown",
+    "url": "/components/button/markdown.html#search-4fa894a0-f4cb-11ed-922f-8736c602d5f1"
   },
   {
     "text": "Markdown",
@@ -951,6 +923,20 @@
     "pageName": "Button/Component Table",
     "category": "Components / Button / Component Table",
     "url": "/components/button/component-table.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "token ",
+    "category": "Components / token ",
+    "url": "/components/token.html#search-352191c0-f4af-11ed-a3d6-e99e764840e4"
+  },
+  {
+    "text": "token ",
+    "type": "pageTitle",
+    "pageName": "token ",
+    "category": "Components / token ",
+    "url": "/components/token.html"
   },
   {
     "text": "Template ",
@@ -1021,6 +1007,13 @@
     "pageName": "Themes",
     "category": "STYLEGUIDE / Themes",
     "url": "/styleguide/themes/theme-1.html"
+  },
+  {
+    "text": "Icons",
+    "type": "groupTitle",
+    "pageName": "Icons",
+    "category": "STYLEGUIDE / Icons",
+    "url": "/styleguide/icons/theme-1.html"
   },
   {
     "text": "Components",

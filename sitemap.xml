@@ -15,10 +15,6 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/styleguide/colors/new.html</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
             <loc>/styleguide/themes/theme-1.html</loc>
             <changefreq>weekly</changefreq>
         </url>
@@ -39,7 +35,15 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/styleguide/icons.html</loc>
+            <loc>/styleguide/icons/theme-1.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/icons/theme-2.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/icons/theme-3.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
@@ -56,6 +60,10 @@
         </url>
         <url>
             <loc>/components/button/component-table.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/components/token.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
