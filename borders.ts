@@ -325,6 +325,15 @@ const token30 = {
                   },
            position: "Center",
          };
+const boarder = {
+           color: "#c14f4f",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -367,6 +376,7 @@ export const Borders = {
       token28,
       token29,
       token30,
+      boarder,
       moodyS,
       token15,
       token22,
