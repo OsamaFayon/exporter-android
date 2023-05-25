@@ -33,6 +33,11 @@
     --borderToken26: 4px solid #db6363;    
     --borderName: 4px solid #d36060;    
     --borderToken27: 5px solid #4c3232;    
+    --borderToken28: 6px solid #af5a5a;    
+    --borderToken29: 6px solid #ce8e8e;    
+    --borderToken30: 5px solid #934c4c;    
+    --borderBoarder: 4px solid #c14f4f;    
+    --borderLaPoste: 10px solid #ac5b5b;    
     --borderMoodyS: var(--borderBoardeer2);    
     --borderToken15: var(--borderNewAnme);    
     --borderToken22: var(--borderToken12);    

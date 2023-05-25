@@ -174,11 +174,13 @@
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
-    --colorGlobalralay: #d74f4f;    
-    --colorNewAnme: #e47575;    
-    --colorName: #553333;    
-    --colorNew: var(--colorPaletteGreenGreen400);    
-    --colorToken1: var(--colorPaletteGreenGreen400);    
-    --colorNewNew: var(--colorPaletteGreenGreen300);    
-    --colorSnToken: var(--colorPaletteGreenGreen300);    
+    --colorToken1: #bb4444;    
+    --colorToken3: #875d5d;    
+    --colorEntel: #b60e0e;    
+    --colorNames: #664545;    
+    --colorLaposte: #cc7b7b;    
+    --colorToken2: var(--colorPaletteGreenGreen300);    
+    --colorToken4: var(--colorPaletteGreenGreen200);    
+    --colorEntel: var(--colorPaletteGreenGreen300);    
+    --colorLaPosteFr: var(--colorPaletteGreenGreen1100);    
 }
