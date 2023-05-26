@@ -334,6 +334,15 @@ const boarder = {
                   },
            position: "Center",
          };
+const laPoste = {
+           color: "#ac5b5b",
+           width: {
+                   measure: 10,
+                   unit: "Pixels",
+                   css: "10px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -377,6 +386,7 @@ export const Borders = {
       token29,
       token30,
       boarder,
+      laPoste,
       moodyS,
       token15,
       token22,
