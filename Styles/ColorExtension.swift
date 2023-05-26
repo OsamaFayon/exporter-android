@@ -15,6 +15,8 @@ public extension Color {
         public let names = Color(.sRGB, red: 102/255, green: 69/255, blue: 69/255, opacity: 1) 
         public let laposte = Color(.sRGB, red: 204/255, green: 123/255, blue: 123/255, opacity: 1) 
         public let laPosteFr = Color(.sRGB, red: 14/255, green: 42/255, blue: 33/255, opacity: 1) 
+        public let uSbank = Color(.sRGB, red: 212/255, green: 51/255, blue: 51/255, opacity: 1) 
+        public let usbank = Color(.sRGB, red: 143/255, green: 218/255, blue: 117/255, opacity: 1) 
 
         // Palette
 
