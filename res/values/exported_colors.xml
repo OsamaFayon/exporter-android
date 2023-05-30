@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="token_1">#ffbb4444</color>
-    <color name="token_2">#ffa9e297</color>
-    <color name="token_3">#ff875d5d</color>
-    <color name="token_4">#ffccf0c2</color>
-    <color name="entel">#ffb60e0e</color>
-    <color name="entel">#ffa9e297</color>
+    <color name="sd_worx_sn">#ffd65c5c</color>
+    <color name="token_1">#ff0e2a21</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
