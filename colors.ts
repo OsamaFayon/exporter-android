@@ -166,17 +166,10 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const token1 = "#bb4444";
-const token3 = "#875d5d";
-const entel = "#b60e0e";
-const names = "#664545";
-const laposte = "#cc7b7b";
-const usbank = "#d43333";
-const token2 = paletteGreenGreen300;
-const token4 = paletteGreenGreen200;
-const entel = paletteGreenGreen300;
-const laPosteFr = paletteGreenGreen1100;
-const usbank = paletteGreenGreen400;
+const sdWorxSn = "#d65c5c";
+const inboundHealth = "#9e3a3a";
+const token1 = paletteGreenGreen1100;
+const token2 = paletteGreenGreen100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -353,15 +346,9 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
+    sdWorxSn,
+    inboundHealth,
+  /** sasa */
     token1,
-    token3,
-    entel,
-    names,
-    laposte,
-    usbank,
     token2,
-    token4,
-    entel,
-    laPosteFr,
-    usbank,
 }
