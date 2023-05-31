@@ -343,6 +343,15 @@ const laPoste = {
                   },
            position: "Center",
          };
+const sdWorx = {
+           color: "#d04c4c",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -387,6 +396,7 @@ export const Borders = {
       token30,
       boarder,
       laPoste,
+      sdWorx,
       moodyS,
       token15,
       token22,
