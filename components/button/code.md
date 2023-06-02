@@ -5,7 +5,40 @@
 
 ## Live Code snippet
 
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );
+}  
+```
+
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );
+}  
+```
+
 Display any other type of code snippet with a *Code* block:
+
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );
+}  
+```
 
 ```javascript  
 import React, { useState } from 'react';
@@ -96,4 +129,25 @@ export default function Button(props) {
    </button>
  );
 }  
+```
+
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );
+}  
+```
+
+```javascript  
+import React from 'react';
+export default function Button(props) {
+ return (
+   <button>
+     Click me!
+   </button>
+ );  
 ```

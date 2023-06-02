@@ -113,8 +113,6 @@ opportunity.background: rgb(247, 220, 234)
   
 **IOS**  
   
-Token #1: rgb(187, 68, 68)  
-  
   
 **And**  
   
