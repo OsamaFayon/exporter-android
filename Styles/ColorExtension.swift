@@ -6,17 +6,8 @@ public extension Color {
     static let Token = Color.TokenColor()
     
     struct TokenColor {
-        public let token1 = Color(.sRGB, red: 187/255, green: 68/255, blue: 68/255, opacity: 1) 
-        public let token2 = Color(.sRGB, red: 169/255, green: 226/255, blue: 151/255, opacity: 1) 
-        public let token3 = Color(.sRGB, red: 135/255, green: 93/255, blue: 93/255, opacity: 1) 
-        public let token4 = Color(.sRGB, red: 204/255, green: 240/255, blue: 194/255, opacity: 1) 
-        public let entel = Color(.sRGB, red: 182/255, green: 14/255, blue: 14/255, opacity: 1) 
-        public let entel = Color(.sRGB, red: 169/255, green: 226/255, blue: 151/255, opacity: 1) 
-        public let names = Color(.sRGB, red: 102/255, green: 69/255, blue: 69/255, opacity: 1) 
-        public let laposte = Color(.sRGB, red: 204/255, green: 123/255, blue: 123/255, opacity: 1) 
-        public let laPosteFr = Color(.sRGB, red: 14/255, green: 42/255, blue: 33/255, opacity: 1) 
-        public let uSbank = Color(.sRGB, red: 212/255, green: 51/255, blue: 51/255, opacity: 1) 
-        public let usbank = Color(.sRGB, red: 143/255, green: 218/255, blue: 117/255, opacity: 1) 
+        public let abbottLab = Color(.sRGB, red: 193/255, green: 103/255, blue: 103/255, opacity: 1) 
+        public let abbott = Color(.sRGB, red: 143/255, green: 218/255, blue: 117/255, opacity: 1) 
 
         // Palette
 

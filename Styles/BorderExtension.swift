@@ -166,4 +166,12 @@ public extension View {
     func borderLaPoste() -> some View {
         return self.border(Color(.sRGB, red: 172/255, green: 91/255, blue: 91/255, opacity: 1), width: 10) 
     }
+
+    func borderSdWorx() -> some View {
+        return self.border(Color(.sRGB, red: 208/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
+    }
+
+    func borderAbbott() -> some View {
+        return self.border(Color(.sRGB, red: 193/255, green: 100/255, blue: 100/255, opacity: 1), width: 5) 
+    }
 }
