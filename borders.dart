@@ -166,5 +166,35 @@ class AppBorders {
     width: 6,
   ));
 
+  static const token26 = Border.fromBorderSide(BorderSide(
+    color: Color(0xffdb6363),
+    width: 4,
+  ));
+
+  static const name = Border.fromBorderSide(BorderSide(
+    color: Color(0xffd36060),
+    width: 4,
+  ));
+
+  static const token27 = Border.fromBorderSide(BorderSide(
+    color: Color(0xff4c3232),
+    width: 5,
+  ));
+
+  static const token28 = Border.fromBorderSide(BorderSide(
+    color: Color(0xffaf5a5a),
+    width: 6,
+  ));
+
+  static const token29 = Border.fromBorderSide(BorderSide(
+    color: Color(0xffce8e8e),
+    width: 6,
+  ));
+
+  static const token30 = Border.fromBorderSide(BorderSide(
+    color: Color(0xff934c4c),
+    width: 5,
+  ));
+
   AppBorders._();
 }
