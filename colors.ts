@@ -166,10 +166,8 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const sdWorxSn = "#d65c5c";
-const inboundHealth = "#9e3a3a";
-const token1 = paletteGreenGreen1100;
-const token2 = paletteGreenGreen100;
+const abbottLab = "#c16767";
+const abbott = paletteGreenGreen400;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -346,9 +344,6 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    sdWorxSn,
-    inboundHealth,
-  /** sasa */
-    token1,
-    token2,
+    abbottLab,
+    abbott,
 }
