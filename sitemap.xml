@@ -19,6 +19,18 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/styleguide/colors/us-bank.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/colors/ios.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/styleguide/untitled.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/styleguide/themes/theme-1.html</loc>
             <changefreq>weekly</changefreq>
         </url>
@@ -75,7 +87,7 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/tempelate.html</loc>
+            <loc>/versions.html</loc>
             <changefreq>weekly</changefreq>
         </url>
    
