@@ -5,46 +5,16 @@
 
 > 
 
-
   
-**IOS**  
+**Brand A IOS**  
   
-**Token Group Palette / Teal**:    
-Teal 1100: rgb(11, 36, 39)  
-Teal 1000: rgb(27, 62, 62)  
-Teal 900: rgb(42, 100, 97)  
-Teal 800: rgb(53, 122, 123)  
-Teal 700: rgb(66, 148, 142)  
-Teal 600: rgb(74, 166, 156)  
-Teal 500: rgb(88, 193, 178)  
-Teal 400: rgb(106, 221, 198)  
-Teal 300: rgb(151, 231, 213)  
-Teal 200: rgb(192, 240, 230)  
-Teal 100: rgb(213, 246, 239)  
-Teal 0: rgb(233, 248, 245)  
+Green 1100: rgb(14, 42, 33)  
   
   
-**ANdroid**  
-  
-**Token Group Palette / Pink**:    
-Pink 1100: rgb(40, 24, 33)  
-Pink 1000: rgb(79, 25, 48)  
-Pink 900: rgb(135, 38, 71)  
-Pink 800: rgb(164, 59, 91)  
-Pink 700: rgb(190, 68, 102)  
-Pink 600: rgb(207, 81, 124)  
-Pink 500: rgb(222, 99, 139)  
-Pink 400: rgb(238, 127, 173)  
-Pink 300: rgb(241, 155, 192)  
-Pink 200: rgb(244, 184, 212)  
-Pink 100: rgb(247, 220, 234)  
-Pink 0: rgb(251, 234, 242)  
+**Brand B Android**  
   
   
-**Wedb**  
-  
-
-
+****  
   
 **Token Group Palette / Green**:    
 Green 1100: rgb(14, 42, 33)  
@@ -59,10 +29,9 @@ Green 300: rgb(169, 226, 151)
 Green 200: rgb(204, 240, 194)  
 Green 100: rgb(221, 243, 217)  
 Green 0: rgb(238, 249, 236)  
-
-
   
-**IOS**  
+
+
   
 **Token Group Palette / Purple**:    
 Purple 1100: rgb(29, 30, 54)  
@@ -77,61 +46,8 @@ Purple 300: rgb(192, 194, 243)
 Purple 200: rgb(216, 216, 246)  
 Purple 100: rgb(234, 234, 248)  
 Purple 0: rgb(242, 242, 248)  
-  
-  
-**AND**  
-  
-**Token Group Palette / Teal**:    
-Teal 1100: rgb(11, 36, 39)  
-Teal 1000: rgb(27, 62, 62)  
-Teal 900: rgb(42, 100, 97)  
-Teal 800: rgb(53, 122, 123)  
-Teal 700: rgb(66, 148, 142)  
-Teal 600: rgb(74, 166, 156)  
-Teal 500: rgb(88, 193, 178)  
-Teal 400: rgb(106, 221, 198)  
-Teal 300: rgb(151, 231, 213)  
-Teal 200: rgb(192, 240, 230)  
-Teal 100: rgb(213, 246, 239)  
-Teal 0: rgb(233, 248, 245)  
-  
-  
-**WED**  
-  
-**Token Group Palette / Aqua**:    
-Aqua 1100: rgb(11, 39, 55)  
-Aqua 1000: rgb(25, 60, 77)  
-Aqua 900: rgb(38, 93, 113)  
-Aqua 800: rgb(49, 108, 130)  
-Aqua 700: rgb(58, 131, 150)  
-Aqua 600: rgb(66, 149, 171)  
-Aqua 500: rgb(84, 181, 203)  
-Aqua 400: rgb(106, 211, 223)  
-Aqua 300: rgb(145, 226, 225)  
-Aqua 200: rgb(181, 240, 241)  
-Aqua 100: rgb(208, 247, 248)  
-Aqua 0: rgb(224, 251, 251)  
-  
 
 
-  
-**Token Group Palette / Green**:    
-Green 1100: rgb(14, 42, 33)  
-Green 1000: rgb(28, 65, 48)  
-Green 900: rgb(45, 105, 68)  
-Green 800: rgb(60, 136, 77)  
-Green 700: rgb(76, 164, 90)  
-Green 600: rgb(90, 178, 97)  
-Green 500: rgb(120, 199, 103)  
-Green 400: rgb(143, 218, 117)  
-Green 300: rgb(169, 226, 151)  
-Green 200: rgb(204, 240, 194)  
-Green 100: rgb(221, 243, 217)  
-Green 0: rgb(238, 249, 236)  
-
-
-  
-**BRANDA **  
   
 **Token Group Palette / Blue**:    
 Blue 1100: rgb(8, 32, 54)  
@@ -146,43 +62,61 @@ Blue 300: rgb(170, 210, 244)
 Blue 200: rgb(205, 227, 247)  
 Blue 100: rgb(224, 241, 254)  
 Blue 0: rgb(236, 248, 254)  
-  
-  
-**BRAND B**  
-  
-**Token Group Palette / Blue**:    
-Blue 1100: rgb(8, 32, 54)  
-Blue 1000: rgb(24, 57, 93)  
-Blue 900: rgb(36, 86, 133)  
-Blue 800: rgb(48, 108, 165)  
-Blue 700: rgb(58, 121, 189)  
-Blue 600: rgb(69, 135, 205)  
-Blue 500: rgb(81, 150, 221)  
-Blue 400: rgb(106, 172, 239)  
-Blue 300: rgb(170, 210, 244)  
-Blue 200: rgb(205, 227, 247)  
-Blue 100: rgb(224, 241, 254)  
-Blue 0: rgb(236, 248, 254)  
-  
-
-
-  
-**Token Group Palette / Green**:    
-Green 1100: rgb(14, 42, 33)  
-Green 1000: rgb(28, 65, 48)  
-Green 900: rgb(45, 105, 68)  
-Green 800: rgb(60, 136, 77)  
-Green 700: rgb(76, 164, 90)  
-Green 600: rgb(90, 178, 97)  
-Green 500: rgb(120, 199, 103)  
-Green 400: rgb(143, 218, 117)  
-Green 300: rgb(169, 226, 151)  
-Green 200: rgb(204, 240, 194)  
-Green 100: rgb(221, 243, 217)  
-Green 0: rgb(238, 249, 236)  
 
 
 Use color intentionally. It’s not decoration. Color is supposed to be functional.
+
+  
+**IOS**  
+  
+**Token Group Palette / Red**:    
+Red 1100: rgb(40, 18, 18)  
+Red 1000: rgb(100, 28, 24)  
+Red 900: rgb(141, 45, 40)  
+Red 800: rgb(182, 64, 59)  
+Red 700: rgb(202, 75, 69)  
+Red 600: rgb(220, 88, 74)  
+Red 500: rgb(229, 106, 91)  
+Red 400: rgb(239, 134, 116)  
+Red 300: rgb(241, 161, 147)  
+Red 200: rgb(244, 187, 179)  
+Red 100: rgb(248, 215, 211)  
+Red 0: rgb(251, 235, 233)  
+  
+  
+**Andrioid **  
+  
+**Token Group Palette / Blue**:    
+Blue 1100: rgb(8, 32, 54)  
+Blue 1000: rgb(24, 57, 93)  
+Blue 900: rgb(36, 86, 133)  
+Blue 800: rgb(48, 108, 165)  
+Blue 700: rgb(58, 121, 189)  
+Blue 600: rgb(69, 135, 205)  
+Blue 500: rgb(81, 150, 221)  
+Blue 400: rgb(106, 172, 239)  
+Blue 300: rgb(170, 210, 244)  
+Blue 200: rgb(205, 227, 247)  
+Blue 100: rgb(224, 241, 254)  
+Blue 0: rgb(236, 248, 254)  
+  
+
+
+  
+**Token Group Palette / Green**:    
+Green 1100: rgb(14, 42, 33)  
+Green 1000: rgb(28, 65, 48)  
+Green 900: rgb(45, 105, 68)  
+Green 800: rgb(60, 136, 77)  
+Green 700: rgb(76, 164, 90)  
+Green 600: rgb(90, 178, 97)  
+Green 500: rgb(120, 199, 103)  
+Green 400: rgb(143, 218, 117)  
+Green 300: rgb(169, 226, 151)  
+Green 200: rgb(204, 240, 194)  
+Green 100: rgb(221, 243, 217)  
+Green 0: rgb(238, 249, 236)  
+
 
 ## General guidelines
 

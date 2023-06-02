@@ -49,7 +49,6 @@ Sale: Blatant Bold 24px, upper
 
   
 **Token Group Typography**:    
-Supernova: Roboto Regular 16px, underline, camel  
 H1: Inter Regular 57px  
 H2: Inter Regular 43px  
 H3: Inter Regular 32px  
@@ -61,6 +60,7 @@ Button Label: Inter Regular 21px
 Paragraph: Inter Regular 18px  
 Small Paragraph: Inter Regular 16px  
 Tiny Paragraph: Inter Regular 12px  
+Supernova: Roboto Regular 16px, underline, camel  
 
 
   
@@ -101,7 +101,6 @@ Sale: Blatant Bold 24px, upper
 
   
 **Token Group Typography**:    
-Supernova: Roboto Regular 16px, underline, camel  
 H1: Inter Regular 57px  
 H2: Inter Regular 43px  
 H3: Inter Regular 32px  
@@ -113,3 +112,7 @@ Button Label: Inter Regular 21px
 Paragraph: Inter Regular 18px  
 Small Paragraph: Inter Regular 16px  
 Tiny Paragraph: Inter Regular 12px  
+Supernova: Roboto Regular 16px, underline, camel  
+
+
+/
