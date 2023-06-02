@@ -1,17 +1,9 @@
 import 'package:flutter/material.dart';
 
 class AppColors {
-  static const token1 = Color(0xffbb4444); 
+  static const abbottLab = Color(0xffc16767); 
   
-  static const token2 = Color(0xffa9e297); 
-  
-  static const token3 = Color(0xff875d5d); 
-  
-  static const token4 = Color(0xffccf0c2); 
-  
-  static const entel = Color(0xffb60e0e); 
-  
-  static const entel = Color(0xffa9e297); 
+  static const abbott = Color(0xff8fda75); 
   
   static const paletteGreenGreen1100 = Color(0xff0e2a21); 
   

@@ -196,5 +196,25 @@ class AppBorderSides {
     width: 5,
   );
 
+  static const boarder = BorderSide(
+    color: Color(0xffc14f4f),
+    width: 4,
+  );
+
+  static const laPoste = BorderSide(
+    color: Color(0xffac5b5b),
+    width: 10,
+  );
+
+  static const sdWorx = BorderSide(
+    color: Color(0xffd04c4c),
+    width: 5,
+  );
+
+  static const abbott = BorderSide(
+    color: Color(0xffc16464),
+    width: 5,
+  );
+
   AppBorderSides._();
 }

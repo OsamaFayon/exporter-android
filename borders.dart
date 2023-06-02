@@ -196,5 +196,25 @@ class AppBorders {
     width: 5,
   ));
 
+  static const boarder = Border.fromBorderSide(BorderSide(
+    color: Color(0xffc14f4f),
+    width: 4,
+  ));
+
+  static const laPoste = Border.fromBorderSide(BorderSide(
+    color: Color(0xffac5b5b),
+    width: 10,
+  ));
+
+  static const sdWorx = Border.fromBorderSide(BorderSide(
+    color: Color(0xffd04c4c),
+    width: 5,
+  ));
+
+  static const abbott = Border.fromBorderSide(BorderSide(
+    color: Color(0xffc16464),
+    width: 5,
+  ));
+
   AppBorders._();
 }
