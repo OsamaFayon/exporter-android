@@ -167,7 +167,10 @@ const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const abbottLab = "#c16767";
+const ey = "#dc6868";
+const token1 = "#ffffff";
 const abbott = paletteGreenGreen400;
+const ey2 = paletteGreenGreen1100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -345,5 +348,8 @@ export const Colors = {
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
     abbottLab,
+    ey,
+    token1,
     abbott,
+    ey2,
 }
