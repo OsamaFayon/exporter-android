@@ -361,6 +361,15 @@ const abbott = {
                   },
            position: "Center",
          };
+const ey4 = {
+           color: "#da6464",
+           width: {
+                   measure: 6,
+                   unit: "Pixels",
+                   css: "6px"
+                  },
+           position: "Outside",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -407,6 +416,7 @@ export const Borders = {
       laPoste,
       sdWorx,
       abbott,
+      ey4,
       moodyS,
       token15,
       token22,
