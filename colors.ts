@@ -167,7 +167,9 @@ const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const asb = "#996666";
+const itv = "#df1f1f";
 const asb2 = paletteGreenGreen1100;
+const itv1 = paletteGreenGreen1100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -345,5 +347,7 @@ export const Colors = {
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
     asb,
+    itv,
     asb2,
+    itv1,
 }
