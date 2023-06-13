@@ -174,13 +174,9 @@
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
-    --colorToken1: #bb4444;    
-    --colorToken3: #875d5d;    
-    --colorEntel: #b60e0e;    
-    --colorNames: #664545;    
-    --colorLaposte: #cc7b7b;    
-    --colorToken2: var(--colorPaletteGreenGreen300);    
-    --colorToken4: var(--colorPaletteGreenGreen200);    
-    --colorEntel: var(--colorPaletteGreenGreen300);    
-    --colorLaPosteFr: var(--colorPaletteGreenGreen1100);    
+    --colorAsb: #996666;    
+    --colorItv: #df1f1f;    
+    --colorNewName: #b25151;    
+    --colorAsb2: var(--colorPaletteGreenGreen1100);    
+    --colorItv1: var(--colorPaletteGreenGreen1100);    
 }
