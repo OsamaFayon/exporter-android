@@ -174,6 +174,9 @@
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
-    --colorAbbottLab: #c16767;    
-    --colorAbbott: var(--colorPaletteGreenGreen400);    
+    --colorAsb: #996666;    
+    --colorItv: #df1f1f;    
+    --colorNewName: #b25151;    
+    --colorAsb2: var(--colorPaletteGreenGreen1100);    
+    --colorItv1: var(--colorPaletteGreenGreen1100);    
 }
