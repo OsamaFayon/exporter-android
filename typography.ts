@@ -320,6 +320,56 @@ const ey3 = {
                         css: "0px"
                        },
          };
+const newTyp = {
+           fontFamily: "Inter",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 14,
+                      unit: "Pixels",
+                      css: "14px"
+                     },
+           lineHeight: {
+                          measure: 20,
+                          unit: "Pixels",
+                          css: "20px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const bellTypo = {
+           fontFamily: "Abel",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 10,
+                      unit: "Pixels",
+                      css: "10px"
+                     },
+           lineHeight: {
+                          measure: 20,
+                          unit: "Pixels",
+                          css: "20px"
+                         },
+           letterSpacing: {
+                             measure: 2,
+                             unit: "Percent",
+                             css: "2%"
+                            },
+           textIndent: {
+                        measure: 5,
+                        unit: "Pixels",
+                        css: "5px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -336,4 +386,6 @@ export const Typographies = {
       smallParagraph,
       tinyParagraph,
       ey3,
+      newTyp,
+      bellTypo,
 }
