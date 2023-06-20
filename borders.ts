@@ -370,6 +370,24 @@ const ey4 = {
                   },
            position: "Outside",
          };
+const token31 = {
+           color: "#f60b0b",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const bellBoarder = {
+           color: "#c36666",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -417,6 +435,8 @@ export const Borders = {
       sdWorx,
       abbott,
       ey4,
+      token31,
+      bellBoarder,
       moodyS,
       token15,
       token22,
