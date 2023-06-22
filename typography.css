@@ -207,3 +207,17 @@
   
 }    
 
+.typographyLaPosteTypo 
+ {
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 22px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 4px;
+  
+}    
+
