@@ -175,4 +175,6 @@
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
     --colorFossTokenColor: #694444;    
+    --colorNewToken: #cb1313;    
+    --colorNewToken: var(--colorPaletteGreenGreen1000);    
 }
