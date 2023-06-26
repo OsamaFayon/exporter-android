@@ -42,6 +42,13 @@ const name = {
                       css: "4px"
                      },
          };
+const token5 = {
+           radius: {
+                      measure: 7,
+                      unit: "Pixels",
+                      css: "7px"
+                     },
+         };
 
 
 export const Raddii = {
@@ -51,4 +58,5 @@ export const Raddii = {
       token4,
       newToken,
       name,
+      token5,
 }
