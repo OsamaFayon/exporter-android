@@ -87,4 +87,15 @@ public extension Text {
             .underline() 
             .textCase(.uppercase) 
     }
+
+    func textStyleToken1() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+    }
+
+    func textStyleFossTypo() -> some View {
+        return self
+            .font(Font.custom("Acme-regular", size: 10))
+            .underline() 
+    }
 }

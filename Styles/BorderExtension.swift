@@ -139,6 +139,22 @@ public extension View {
         return self.border(Color(.sRGB, red: 206/255, green: 142/255, blue: 142/255, opacity: 1), width: 6) 
     }
 
+    func borderToken30() -> some View {
+        return self.border(Color(.sRGB, red: 147/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
+    }
+
+    func borderLaPoste() -> some View {
+        return self.border(Color(.sRGB, red: 172/255, green: 91/255, blue: 91/255, opacity: 1), width: 10) 
+    }
+
+    func borderSdWorx() -> some View {
+        return self.border(Color(.sRGB, red: 208/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
+    }
+
+    func borderName() -> some View {
+        return self.border(Color(.sRGB, red: 181/255, green: 53/255, blue: 53/255, opacity: 1), width: 3) 
+    }
+
     func borderName() -> some View {
         return self.border(Color(.sRGB, red: 211/255, green: 96/255, blue: 96/255, opacity: 1), width: 4) 
     }
@@ -152,23 +168,7 @@ public extension View {
     }
 
     func borderName() -> some View {
-        return self.border(Color(.sRGB, red: 181/255, green: 53/255, blue: 53/255, opacity: 1), width: 3) 
-    }
-
-    func borderName() -> some View {
         return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
-    }
-
-    func borderToken30() -> some View {
-        return self.border(Color(.sRGB, red: 147/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
-    }
-
-    func borderLaPoste() -> some View {
-        return self.border(Color(.sRGB, red: 172/255, green: 91/255, blue: 91/255, opacity: 1), width: 10) 
-    }
-
-    func borderSdWorx() -> some View {
-        return self.border(Color(.sRGB, red: 208/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
     }
 
     func borderAbbott() -> some View {
@@ -189,5 +189,9 @@ public extension View {
 
     func borderLaPosteBoarder() -> some View {
         return self.border(Color(.sRGB, red: 190/255, green: 128/255, blue: 128/255, opacity: 1), width: 3) 
+    }
+
+    func borderFossBoarder() -> some View {
+        return self.border(Color(.sRGB, red: 212/255, green: 33/255, blue: 33/255, opacity: 1), width: 5) 
     }
 }

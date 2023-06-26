@@ -6,6 +6,7 @@ public extension Color {
     static let Token = Color.TokenColor()
     
     struct TokenColor {
+        public let fossTokenColor = Color(.sRGB, red: 105/255, green: 68/255, blue: 68/255, opacity: 1) 
 
         // Palette
 
