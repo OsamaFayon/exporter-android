@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="foss_token_color">#ff694444</color>
+    <color name="new_token">#ffcb1313</color>
+    <color name="new_token">#ff1c4130</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
