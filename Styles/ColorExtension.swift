@@ -6,8 +6,6 @@ public extension Color {
     static let Token = Color.TokenColor()
     
     struct TokenColor {
-        public let abbottLab = Color(.sRGB, red: 193/255, green: 103/255, blue: 103/255, opacity: 1) 
-        public let abbott = Color(.sRGB, red: 143/255, green: 218/255, blue: 117/255, opacity: 1) 
 
         // Palette
 

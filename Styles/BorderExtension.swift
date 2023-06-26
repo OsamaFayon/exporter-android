@@ -103,18 +103,6 @@ public extension View {
         return self.border(Color(.sRGB, red: 224/255, green: 61/255, blue: 61/255, opacity: 1), width: 5) 
     }
 
-    func borderBoarder() -> some View {
-        return self.border(Color(.sRGB, red: 40/255, green: 27/255, blue: 27/255, opacity: 1), width: 5) 
-    }
-
-    func borderName() -> some View {
-        return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
-    }
-
-    func borderName() -> some View {
-        return self.border(Color(.sRGB, red: 181/255, green: 53/255, blue: 53/255, opacity: 1), width: 3) 
-    }
-
     func borderToken22() -> some View {
         return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
     }
@@ -139,10 +127,6 @@ public extension View {
         return self.border(Color(.sRGB, red: 219/255, green: 99/255, blue: 99/255, opacity: 1), width: 4) 
     }
 
-    func borderName() -> some View {
-        return self.border(Color(.sRGB, red: 211/255, green: 96/255, blue: 96/255, opacity: 1), width: 4) 
-    }
-
     func borderToken27() -> some View {
         return self.border(Color(.sRGB, red: 76/255, green: 50/255, blue: 50/255, opacity: 1), width: 5) 
     }
@@ -155,12 +139,28 @@ public extension View {
         return self.border(Color(.sRGB, red: 206/255, green: 142/255, blue: 142/255, opacity: 1), width: 6) 
     }
 
-    func borderToken30() -> some View {
-        return self.border(Color(.sRGB, red: 147/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
+    func borderName() -> some View {
+        return self.border(Color(.sRGB, red: 211/255, green: 96/255, blue: 96/255, opacity: 1), width: 4) 
     }
 
     func borderBoarder() -> some View {
         return self.border(Color(.sRGB, red: 193/255, green: 79/255, blue: 79/255, opacity: 1), width: 4) 
+    }
+
+    func borderBoarder() -> some View {
+        return self.border(Color(.sRGB, red: 40/255, green: 27/255, blue: 27/255, opacity: 1), width: 5) 
+    }
+
+    func borderName() -> some View {
+        return self.border(Color(.sRGB, red: 181/255, green: 53/255, blue: 53/255, opacity: 1), width: 3) 
+    }
+
+    func borderName() -> some View {
+        return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
+    }
+
+    func borderToken30() -> some View {
+        return self.border(Color(.sRGB, red: 147/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
     }
 
     func borderLaPoste() -> some View {
@@ -173,5 +173,21 @@ public extension View {
 
     func borderAbbott() -> some View {
         return self.border(Color(.sRGB, red: 193/255, green: 100/255, blue: 100/255, opacity: 1), width: 5) 
+    }
+
+    func borderEy4() -> some View {
+        return self.border(Color(.sRGB, red: 218/255, green: 100/255, blue: 100/255, opacity: 1), width: 6) 
+    }
+
+    func borderToken31() -> some View {
+        return self.border(Color(.sRGB, red: 246/255, green: 11/255, blue: 11/255, opacity: 1), width: 3) 
+    }
+
+    func borderBellBoarder() -> some View {
+        return self.border(Color(.sRGB, red: 195/255, green: 102/255, blue: 102/255, opacity: 1), width: 4) 
+    }
+
+    func borderLaPosteBoarder() -> some View {
+        return self.border(Color(.sRGB, red: 190/255, green: 128/255, blue: 128/255, opacity: 1), width: 3) 
     }
 }
