@@ -98,4 +98,9 @@ public extension Text {
             .font(Font.custom("Acme-regular", size: 10))
             .underline() 
     }
+
+    func textStyleNewTypo() -> some View {
+        return self
+            .font(Font.custom("Abhaya Libre-600", size: 14))
+    }
 }

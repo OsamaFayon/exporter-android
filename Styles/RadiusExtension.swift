@@ -26,4 +26,8 @@ public extension View {
     func borderName() -> some View {
         return self.cornerRadius(4) 
     }
+
+    func borderToken5() -> some View {
+        return self.cornerRadius(7) 
+    }
 }

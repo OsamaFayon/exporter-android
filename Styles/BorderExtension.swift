@@ -194,4 +194,8 @@ public extension View {
     func borderFossBoarder() -> some View {
         return self.border(Color(.sRGB, red: 212/255, green: 33/255, blue: 33/255, opacity: 1), width: 5) 
     }
+
+    func borderToken32() -> some View {
+        return self.border(Color(.sRGB, red: 158/255, green: 70/255, blue: 70/255, opacity: 1), width: 5) 
+    }
 }
