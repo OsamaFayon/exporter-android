@@ -395,6 +395,56 @@ const laPosteTypo = {
                         css: "4px"
                        },
          };
+const token1 = {
+           fontFamily: "Inter",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 14,
+                      unit: "Pixels",
+                      css: "14px"
+                     },
+           lineHeight: {
+                          measure: 20,
+                          unit: "Pixels",
+                          css: "20px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
+const fossTypo = {
+           fontFamily: "Acme",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 10,
+                      unit: "Pixels",
+                      css: "10px"
+                     },
+           lineHeight: {
+                          measure: 20,
+                          unit: "Pixels",
+                          css: "20px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 4,
+                        unit: "Pixels",
+                        css: "4px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -414,4 +464,6 @@ export const Typographies = {
       newTyp,
       bellTypo,
       laPosteTypo,
+      token1,
+      fossTypo,
 }
