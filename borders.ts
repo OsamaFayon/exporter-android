@@ -388,6 +388,15 @@ const bellBoarder = {
                   },
            position: "Center",
          };
+const laPosteBoarder = {
+           color: "#be8080",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -437,6 +446,7 @@ export const Borders = {
       ey4,
       token31,
       bellBoarder,
+      laPosteBoarder,
       moodyS,
       token15,
       token22,

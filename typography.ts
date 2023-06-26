@@ -370,6 +370,31 @@ const bellTypo = {
                         css: "5px"
                        },
          };
+const laPosteTypo = {
+           fontFamily: "Aboreto",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 10,
+                      unit: "Pixels",
+                      css: "10px"
+                     },
+           lineHeight: {
+                          measure: 22,
+                          unit: "Pixels",
+                          css: "22px"
+                         },
+           letterSpacing: {
+                             measure: 0.5,
+                             unit: "Percent",
+                             css: "0.5%"
+                            },
+           textIndent: {
+                        measure: 4,
+                        unit: "Pixels",
+                        css: "4px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -388,4 +413,5 @@ export const Typographies = {
       ey3,
       newTyp,
       bellTypo,
+      laPosteTypo,
 }

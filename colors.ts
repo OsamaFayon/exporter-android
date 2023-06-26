@@ -166,13 +166,6 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const asb = "#996666";
-const itv = "#df1f1f";
-const newName = "#b25151";
-const bell = "#de5151";
-const asb2 = paletteGreenGreen1100;
-const itv1 = paletteGreenGreen1100;
-const token1 = paletteGreenGreen1000;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -349,11 +342,4 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    asb,
-    itv,
-    newName,
-    bell,
-    asb2,
-    itv1,
-    token1,
 }
