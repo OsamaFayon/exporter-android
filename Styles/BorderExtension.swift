@@ -198,4 +198,8 @@ public extension View {
     func borderToken32() -> some View {
         return self.border(Color(.sRGB, red: 158/255, green: 70/255, blue: 70/255, opacity: 1), width: 5) 
     }
+
+    func borderToken33() -> some View {
+        return self.border(Color(.sRGB, red: 207/255, green: 90/255, blue: 90/255, opacity: 1), width: 5) 
+    }
 }

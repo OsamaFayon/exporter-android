@@ -8,6 +8,8 @@ public extension Color {
     struct TokenColor {
         public let fossTokenColor = Color(.sRGB, red: 105/255, green: 68/255, blue: 68/255, opacity: 1) 
         public let newToken = Color(.sRGB, red: 203/255, green: 19/255, blue: 19/255, opacity: 1) 
+        public let supernova = Color(.sRGB, red: 14/255, green: 42/255, blue: 33/255, opacity: 1) 
+        public let newToken = Color(.sRGB, red: 174/255, green: 45/255, blue: 45/255, opacity: 1) 
         public let newToken = Color(.sRGB, red: 28/255, green: 65/255, blue: 48/255, opacity: 1) 
 
         // Palette

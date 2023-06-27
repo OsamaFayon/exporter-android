@@ -103,4 +103,11 @@ public extension Text {
         return self
             .font(Font.custom("Abhaya Libre-600", size: 14))
     }
+
+    func textStyleNewTypo() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+            .underline() 
+            .textCase(.uppercase) 
+    }
 }
