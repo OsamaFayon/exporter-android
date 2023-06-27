@@ -168,7 +168,9 @@ const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const fossTokenColor = "#694444";
 const newToken = "#cb1313";
+const newToken = "#ae2d2d";
 const newToken = paletteGreenGreen1000;
+const supernova = paletteGreenGreen1100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -348,4 +350,6 @@ export const Colors = {
     fossTokenColor,
     newToken,
     newToken,
+    newToken,
+    supernova,
 }
