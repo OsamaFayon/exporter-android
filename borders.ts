@@ -424,6 +424,15 @@ const token33 = {
                   },
            position: "Outside",
          };
+const token34 = {
+           color: "#000000",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -477,6 +486,7 @@ export const Borders = {
       fossBoarder,
       token32,
       token33,
+      token34,
       moodyS,
       token15,
       token22,
