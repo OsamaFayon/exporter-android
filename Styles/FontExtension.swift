@@ -110,4 +110,11 @@ public extension Text {
             .underline() 
             .textCase(.uppercase) 
     }
+
+    func textStyleToken2() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+            .underline() 
+            .textCase(.uppercase) 
+    }
 }

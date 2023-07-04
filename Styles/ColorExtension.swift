@@ -11,6 +11,8 @@ public extension Color {
         public let supernova = Color(.sRGB, red: 14/255, green: 42/255, blue: 33/255, opacity: 1) 
         public let newToken = Color(.sRGB, red: 174/255, green: 45/255, blue: 45/255, opacity: 1) 
         public let newToken = Color(.sRGB, red: 28/255, green: 65/255, blue: 48/255, opacity: 1) 
+        public let newName = Color(.sRGB, red: 98/255, green: 53/255, blue: 53/255, opacity: 1) 
+        public let token1 = Color(.sRGB, red: 14/255, green: 42/255, blue: 33/255, opacity: 1) 
 
         // Palette
 
