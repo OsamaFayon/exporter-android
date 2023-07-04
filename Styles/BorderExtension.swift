@@ -151,12 +151,16 @@ public extension View {
         return self.border(Color(.sRGB, red: 208/255, green: 76/255, blue: 76/255, opacity: 1), width: 5) 
     }
 
-    func borderName() -> some View {
-        return self.border(Color(.sRGB, red: 181/255, green: 53/255, blue: 53/255, opacity: 1), width: 3) 
+    func borderAbbott() -> some View {
+        return self.border(Color(.sRGB, red: 193/255, green: 100/255, blue: 100/255, opacity: 1), width: 5) 
     }
 
     func borderName() -> some View {
         return self.border(Color(.sRGB, red: 211/255, green: 96/255, blue: 96/255, opacity: 1), width: 4) 
+    }
+
+    func borderName() -> some View {
+        return self.border(Color(.sRGB, red: 181/255, green: 53/255, blue: 53/255, opacity: 1), width: 3) 
     }
 
     func borderBoarder() -> some View {
@@ -169,10 +173,6 @@ public extension View {
 
     func borderName() -> some View {
         return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
-    }
-
-    func borderAbbott() -> some View {
-        return self.border(Color(.sRGB, red: 193/255, green: 100/255, blue: 100/255, opacity: 1), width: 5) 
     }
 
     func borderEy4() -> some View {
