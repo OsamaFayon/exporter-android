@@ -170,6 +170,8 @@ const fossTokenColor = "#694444";
 const newToken = "#cb1313";
 const newToken = "#ae2d2d";
 const newName = "#623535";
+const collageBaord = "#ffffff";
+const collageboard = "#3a2c2c";
 const newToken = paletteGreenGreen1000;
 const supernova = paletteGreenGreen1100;
 const token1 = paletteGreenGreen1100;
@@ -353,6 +355,8 @@ export const Colors = {
     newToken,
     newToken,
     newName,
+    collageBaord,
+    collageboard,
     newToken,
     supernova,
     token1,
