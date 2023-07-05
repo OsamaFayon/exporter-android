@@ -13,6 +13,8 @@ public extension Color {
         public let newToken = Color(.sRGB, red: 28/255, green: 65/255, blue: 48/255, opacity: 1) 
         public let newName = Color(.sRGB, red: 98/255, green: 53/255, blue: 53/255, opacity: 1) 
         public let token1 = Color(.sRGB, red: 14/255, green: 42/255, blue: 33/255, opacity: 1) 
+        public let collageBaord = Color(.sRGB, red: 255/255, green: 255/255, blue: 255/255, opacity: 1) 
+        public let collageboard = Color(.sRGB, red: 58/255, green: 44/255, blue: 44/255, opacity: 1) 
 
         // Palette
 
