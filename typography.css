@@ -1,9 +1,22 @@
+.typographySupernova 
+ {
+  
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
 .typographyH1 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 57px;
   line-height: 64px;
   letter-spacing:  
@@ -15,9 +28,9 @@
 .typographyH2 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 43px;
   line-height: 50px;
   letter-spacing:  
@@ -29,9 +42,9 @@
 .typographyH3 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 32px;
   line-height: 40px;
   letter-spacing:  
@@ -43,9 +56,9 @@
 .typographyH4 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 24px;
   line-height: 32px;
   letter-spacing:  
@@ -57,25 +70,11 @@
 .typographyH5 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
   font-size: 21px;
   line-height: 29px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographySale 
- {
-  
-  font-family: "Advent Pro";
-  font-style: normal;
-  font-weight: 700;
-  font-size: 24px;
-  line-height: 32px;
   letter-spacing:  
   0em;
   text-indent: 0px;
@@ -85,7 +84,7 @@
 .typographyLargeLead 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -99,7 +98,7 @@
 .typographyMediumLead 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 21px;
@@ -113,7 +112,7 @@
 .typographyButtonLabel 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 21px;
@@ -127,7 +126,7 @@
 .typographyParagraph 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -141,7 +140,7 @@
 .typographySmallParagraph 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -155,7 +154,7 @@
 .typographyTinyParagraph 
  {
   
-  font-family: "Advent Pro";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
   font-size: 12px;
@@ -166,28 +165,154 @@
   
 }    
 
-/* typewriter font test */
-.typographyImpactLabel 
+.typographyEy3 
  {
   
-  font-family: "Impact Label";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 14px;
+  line-height: 20px;
   letter-spacing:  
   0em;
   text-indent: 0px;
   
 }    
 
-/* importing test */
-.typographyPoppins 
+.typographyNewTyp 
  {
   
-  font-family: "Poppins";
+  font-family: "Inter";
   font-style: normal;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyBellTypo 
+ {
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 20px;
+  letter-spacing:  
+  0.02em;
+  text-indent: 5px;
+  
+}    
+
+.typographyLaPosteTypo 
+ {
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 22px;
+  letter-spacing:  
+  0.01em;
+  text-indent: 4px;
+  
+}    
+
+.typographyToken1 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyFossTypo 
+ {
+  
+  font-family: "Acme";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 4px;
+  
+}    
+
+.typographyNewTypo 
+ {
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyNewTypo 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyToken2 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyToken3 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographySuperTypo 
+ {
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
   letter-spacing:  
   0em;
   text-indent: 0px;
