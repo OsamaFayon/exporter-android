@@ -124,4 +124,11 @@ public extension Text {
             .underline() 
             .textCase(.uppercase) 
     }
+
+    func textStyleSuperTypo() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+            .strikethrough() 
+            .textCase(.uppercase) 
+    }
 }
