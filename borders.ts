@@ -442,6 +442,15 @@ const newBoarded = {
                   },
            position: "Center",
          };
+const superBaorder = {
+           color: "#a53b3b",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Outside",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -497,6 +506,7 @@ export const Borders = {
       token33,
       token34,
       newBoarded,
+      superBaorder,
       moodyS,
       token15,
       token22,

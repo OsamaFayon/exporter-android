@@ -166,15 +166,7 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const fossTokenColor = "#694444";
-const newToken = "#cb1313";
-const newToken = "#ae2d2d";
-const newName = "#623535";
-const collageBaord = "#ffffff";
-const collageboard = "#3a2c2c";
-const newToken = paletteGreenGreen1000;
-const supernova = paletteGreenGreen1100;
-const token1 = paletteGreenGreen1100;
+const superOne = "#8430f5";
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -351,13 +343,5 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    fossTokenColor,
-    newToken,
-    newToken,
-    newName,
-    collageBaord,
-    collageboard,
-    newToken,
-    supernova,
-    token1,
+    superOne,
 }
