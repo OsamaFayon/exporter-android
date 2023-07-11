@@ -174,13 +174,5 @@
     --colorSpecialRatingRatingHoveron: #d49b35;    
     --colorSpecialRatingRatingOff: #dfe1e1;    
     --colorSpecialRatingRatingHoveroff: #f6be41;    
-    --colorFossTokenColor: #694444;    
-    --colorNewToken: #cb1313;    
-    --colorNewToken: #ae2d2d;    
-    --colorNewName: #623535;    
-    --colorCollageBaord: #ffffff;    
-    --colorCollageboard: #3a2c2c;    
-    --colorNewToken: var(--colorPaletteGreenGreen1000);    
-    --colorSupernova: var(--colorPaletteGreenGreen1100);    
-    --colorToken1: var(--colorPaletteGreenGreen1100);    
+    --colorSuperOne: #8430f5;    
 }
