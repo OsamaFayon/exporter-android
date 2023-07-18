@@ -161,6 +161,13 @@
         <item name="android:fontFamily">@font/inter_regular</item>
         <item name="android:textStyle">normal</item>
     </style>
+    
+    <style name="TestTypo">
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
 
 </resources>
   
