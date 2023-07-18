@@ -131,4 +131,9 @@ public extension Text {
             .strikethrough() 
             .textCase(.uppercase) 
     }
+
+    func textStyleTestTypo() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 16))
+    }
 }
