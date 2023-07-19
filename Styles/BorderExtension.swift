@@ -215,7 +215,7 @@ public extension View {
         return self.border(Color(.sRGB, red: 165/255, green: 59/255, blue: 59/255, opacity: 1), width: 5) 
     }
 
-    func borderNewNew() -> some View {
-        return self.border(Color(.sRGB, red: 196/255, green: 88/255, blue: 88/255, opacity: 1), width: 4) 
+    func borderNewBoarderValue() -> some View {
+        return self.border(Color(.sRGB, red: 127/255, green: 38/255, blue: 38/255, opacity: 1), width: 3) 
     }
 }
