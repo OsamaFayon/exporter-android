@@ -136,4 +136,9 @@ public extension Text {
         return self
             .font(Font.custom("Inter-regular", size: 16))
     }
+
+    func textStyleToken4() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+    }
 }
