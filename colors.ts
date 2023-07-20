@@ -169,6 +169,7 @@ const specialRatingRatingHoveroff = "#f6be41";
 const superOne = "#8430f5";
 const newTokenTest = "#9e3939";
 const newVakueToken = "#485163";
+const newTokenValue = "#ffffff";
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -348,4 +349,5 @@ export const Colors = {
     superOne,
     newTokenTest,
     newVakueToken,
+    newTokenValue,
 }
