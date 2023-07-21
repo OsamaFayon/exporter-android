@@ -10,6 +10,7 @@ public extension Color {
         public let newTokenTest = Color(.sRGB, red: 158/255, green: 57/255, blue: 57/255, opacity: 1) 
         public let newVakueToken = Color(.sRGB, red: 72/255, green: 81/255, blue: 99/255, opacity: 1) 
         public let newTokenValue = Color(.sRGB, red: 255/255, green: 255/255, blue: 255/255, opacity: 1) 
+        public let mtest = Color(.sRGB, red: 70/255, green: 89/255, blue: 124/255, opacity: 1) 
 
         // Palette
 
