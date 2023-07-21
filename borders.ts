@@ -388,6 +388,96 @@ const bellBoarder = {
                   },
            position: "Center",
          };
+const laPosteBoarder = {
+           color: "#be8080",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const fossBoarder = {
+           color: "#d42121",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
+const token32 = {
+           color: "#9e4646",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
+const token33 = {
+           color: "#cf5a5a",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Outside",
+         };
+const token34 = {
+           color: "#000000",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const newBoarded = {
+           color: "#2255a1",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
+const superBaorder = {
+           color: "#a53b3b",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Outside",
+         };
+const newBoarderValue = {
+           color: "#7f2626",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const token35 = {
+           color: "#000000",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
+const token36 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -437,6 +527,16 @@ export const Borders = {
       ey4,
       token31,
       bellBoarder,
+      laPosteBoarder,
+      fossBoarder,
+      token32,
+      token33,
+      token34,
+      newBoarded,
+      superBaorder,
+      newBoarderValue,
+      token35,
+      token36,
       moodyS,
       token15,
       token22,
