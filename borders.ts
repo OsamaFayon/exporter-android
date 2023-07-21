@@ -469,6 +469,15 @@ const token35 = {
                   },
            position: "Center",
          };
+const token36 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -527,6 +536,7 @@ export const Borders = {
       superBaorder,
       newBoarderValue,
       token35,
+      token36,
       moodyS,
       token15,
       token22,
