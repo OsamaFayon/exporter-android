@@ -179,4 +179,6 @@
     --colorNewVakueToken: #485163;    
     --colorNewTokenValue: #ffffff;    
     --colorMtest: #46597c;    
+    --colorNewTokenTest: #14f90c;    
+    --colorNewTokenTest2: var(--colorPalettePurplePurple0);    
 }

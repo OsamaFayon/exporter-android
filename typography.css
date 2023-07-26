@@ -165,20 +165,6 @@
   
 }    
 
-.typographyEy3 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
 .typographyNewTyp 
  {
   
@@ -221,20 +207,6 @@
   
 }    
 
-.typographyToken1 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
 .typographyFossTypo 
  {
   
@@ -249,101 +221,17 @@
   
 }    
 
-.typographyNewTypo 
+.typographyTestNewTypo 
  {
   
-  font-family: "Abhaya Libre";
+  font-family: "Abel";
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 10px;
+  line-height: 22px;
   letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyNewTypo 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyToken2 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyToken3 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographySuperTypo 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyTestTypo 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
-  
-}    
-
-.typographyToken4 
- {
-  
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
-  letter-spacing:  
-  0em;
-  text-indent: 0px;
+  0.03em;
+  text-indent: 2px;
   
 }    
 
