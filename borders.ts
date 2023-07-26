@@ -478,6 +478,15 @@ const token36 = {
                   },
            position: "Inside",
          };
+const newTestBoarderValue = {
+           color: "#cd2727",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -537,6 +546,7 @@ export const Borders = {
       newBoarderValue,
       token35,
       token36,
+      newTestBoarderValue,
       moodyS,
       token15,
       token22,

@@ -171,6 +171,8 @@ const newTokenTest = "#9e3939";
 const newVakueToken = "#485163";
 const newTokenValue = "#ffffff";
 const mtest = "#46597c";
+const newTokenTest = "#14f90c";
+const newTokenTest2 = palettePurplePurple0;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -352,4 +354,6 @@ export const Colors = {
     newVakueToken,
     newTokenValue,
     mtest,
+    newTokenTest,
+    newTokenTest2,
 }

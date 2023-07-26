@@ -295,31 +295,6 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
-const ey3 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
 const newTyp = {
            fontFamily: "Inter",
            fontStyle: "normal",
@@ -395,31 +370,6 @@ const laPosteTypo = {
                         css: "4px"
                        },
          };
-const token1 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
 const fossTypo = {
            fontFamily: "Acme",
            fontStyle: "normal",
@@ -445,179 +395,29 @@ const fossTypo = {
                         css: "4px"
                        },
          };
-const newTypo = {
-           fontFamily: "Abhaya Libre",
+const testNewTypo = {
+           fontFamily: "Abel",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
-                      measure: 14,
+                      measure: 10,
                       unit: "Pixels",
-                      css: "14px"
+                      css: "10px"
                      },
            lineHeight: {
-                          measure: 20,
+                          measure: 22,
                           unit: "Pixels",
-                          css: "20px"
+                          css: "22px"
                          },
            letterSpacing: {
-                             measure: 0,
+                             measure: 3,
                              unit: "Percent",
-                             css: "0%"
+                             css: "3%"
                             },
            textIndent: {
-                        measure: 0,
+                        measure: 2,
                         unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const newTypo = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token2 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token3 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const superTypo = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const testTypo = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 16,
-                      unit: "Pixels",
-                      css: "16px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token4 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
+                        css: "2px"
                        },
          };
 
@@ -635,17 +435,9 @@ export const Typographies = {
       paragraph,
       smallParagraph,
       tinyParagraph,
-      ey3,
       newTyp,
       bellTypo,
       laPosteTypo,
-      token1,
       fossTypo,
-      newTypo,
-      newTypo,
-      token2,
-      token3,
-      superTypo,
-      testTypo,
-      token4,
+      testNewTypo,
 }
