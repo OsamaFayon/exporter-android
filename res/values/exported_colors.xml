@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="super_one">#ff8430f5</color>
-    <color name="new_token_test">#ff9e3939</color>
-    <color name="new_vakue_token">#ff485163</color>
-    <color name="new_token_value">#ffffffff</color>
-    <color name="mtest">#ff46597c</color>
-    <color name="new_token_test">#ff14f90c</color>
-    <color name="new_token_test_2">#fff2f2f8</color>
 
 
     <color name="palette_green_green_1100">#ff0e2a21</color>
