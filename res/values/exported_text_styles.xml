@@ -85,13 +85,6 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="Ey3">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
     <style name="NewTyp">
         <item name="android:textSize">14sp</item>
         <item name="android:letterSpacing">0</item>
@@ -113,13 +106,6 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="Token1">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
     <style name="FossTypo">
         <item name="android:textSize">10sp</item>
         <item name="android:letterSpacing">0</item>
@@ -127,58 +113,14 @@
         <item name="android:textStyle">normal</item>
     </style>
     
-    <style name="NewTypo">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/abhaya_libre_600</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="NewTypo">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="Token2">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="Token3">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="SuperTypo">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="TestTypo">
-        <item name="android:textSize">16sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    
-    <style name="Token4">
-        <item name="android:textSize">14sp</item>
-        <item name="android:letterSpacing">0</item>
-        <item name="android:fontFamily">@font/inter_regular</item>
+    <style name="TestNewTypo">
+        <item name="android:textSize">10sp</item>
+        <item name="android:letterSpacing">3</item>
+        <item name="android:fontFamily">@font/abel_regular</item>
         <item name="android:textStyle">normal</item>
     </style>
 
 </resources>
-  
-
   
 
   
