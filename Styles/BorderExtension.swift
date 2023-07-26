@@ -226,4 +226,8 @@ public extension View {
     func borderToken36() -> some View {
         return self.border(Color(.sRGB, red: 0/255, green: 0/255, blue: 0/255, opacity: 1), width: 1) 
     }
+
+    func borderNewTestBoarderValue() -> some View {
+        return self.border(Color(.sRGB, red: 205/255, green: 39/255, blue: 39/255, opacity: 1), width: 3) 
+    }
 }

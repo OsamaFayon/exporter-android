@@ -64,11 +64,6 @@ public extension Text {
             .underline() 
     }
 
-    func textStyleEy3() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
-    }
-
     func textStyleNewTyp() -> some View {
         return self
             .font(Font.custom("Inter-regular", size: 14))
@@ -88,57 +83,16 @@ public extension Text {
             .textCase(.uppercase) 
     }
 
-    func textStyleToken1() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
-    }
-
     func textStyleFossTypo() -> some View {
         return self
             .font(Font.custom("Acme-regular", size: 10))
             .underline() 
     }
 
-    func textStyleNewTypo() -> some View {
+    func textStyleTestNewTypo() -> some View {
         return self
-            .font(Font.custom("Abhaya Libre-600", size: 14))
-    }
-
-    func textStyleNewTypo() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
-            .underline() 
-            .textCase(.uppercase) 
-    }
-
-    func textStyleToken2() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
-            .underline() 
-            .textCase(.uppercase) 
-    }
-
-    func textStyleToken3() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
-            .underline() 
-            .textCase(.uppercase) 
-    }
-
-    func textStyleSuperTypo() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
+            .font(Font.custom("Abel-regular", size: 10))
             .strikethrough() 
             .textCase(.uppercase) 
-    }
-
-    func textStyleTestTypo() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 16))
-    }
-
-    func textStyleToken4() -> some View {
-        return self
-            .font(Font.custom("Inter-regular", size: 14))
     }
 }
