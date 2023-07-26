@@ -166,13 +166,6 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const superOne = "#8430f5";
-const newTokenTest = "#9e3939";
-const newVakueToken = "#485163";
-const newTokenValue = "#ffffff";
-const mtest = "#46597c";
-const newTokenTest = "#14f90c";
-const newTokenTest2 = palettePurplePurple0;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -349,11 +342,4 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    superOne,
-    newTokenTest,
-    newVakueToken,
-    newTokenValue,
-    mtest,
-    newTokenTest,
-    newTokenTest2,
 }
