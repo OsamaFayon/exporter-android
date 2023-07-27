@@ -6,4 +6,8 @@ public extension View {
     func borderRadiusToken() -> some View {
         return self.cornerRadius(6) 
     }
+
+    func borderRd() -> some View {
+        return self.cornerRadius(10) 
+    }
 }

@@ -230,4 +230,8 @@ public extension View {
     func borderNewTestBoarderValue() -> some View {
         return self.border(Color(.sRGB, red: 205/255, green: 39/255, blue: 39/255, opacity: 1), width: 3) 
     }
+
+    func borderBoarderIbm() -> some View {
+        return self.border(Color(.sRGB, red: 49/255, green: 72/255, blue: 121/255, opacity: 1), width: 2) 
+    }
 }

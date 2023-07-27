@@ -6,6 +6,7 @@ public extension Color {
     static let Token = Color.TokenColor()
     
     struct TokenColor {
+        public let newToken = Color(.sRGB, red: 204/255, green: 11/255, blue: 11/255, opacity: 1) 
 
         // Palette
 
