@@ -119,6 +119,13 @@
         <item name="android:fontFamily">@font/abel_regular</item>
         <item name="android:textStyle">normal</item>
     </style>
+    
+    <style name="NewToken">
+        <item name="android:textSize">14sp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+        <item name="android:textStyle">normal</item>
+    </style>
 
 </resources>
   
