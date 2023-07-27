@@ -7,8 +7,16 @@ const radiusToken = {
                       css: "6px"
                      },
          };
+const rd = {
+           radius: {
+                      measure: 10,
+                      unit: "Pixels",
+                      css: "10px"
+                     },
+         };
 
 
 export const Raddii = {
       radiusToken,
+      rd,
 }

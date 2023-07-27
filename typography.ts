@@ -420,6 +420,31 @@ const testNewTypo = {
                         css: "2px"
                        },
          };
+const newToken = {
+           fontFamily: "Inter",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 14,
+                      unit: "Pixels",
+                      css: "14px"
+                     },
+           lineHeight: {
+                          measure: 22,
+                          unit: "Pixels",
+                          css: "22px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -440,4 +465,5 @@ export const Typographies = {
       laPosteTypo,
       fossTypo,
       testNewTypo,
+      newToken,
 }
