@@ -63,4 +63,41 @@ public extension Text {
             .font(Font.custom("Roboto-Regular", size: 16))
             .underline() 
     }
+
+    func textStyleNewTyp() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+    }
+
+    func textStyleBellTypo() -> some View {
+        return self
+            .font(Font.custom("Abel-regular", size: 10))
+            .underline() 
+            .textCase(.uppercase) 
+    }
+
+    func textStyleLaPosteTypo() -> some View {
+        return self
+            .font(Font.custom("Aboreto-regular", size: 10))
+            .underline() 
+            .textCase(.uppercase) 
+    }
+
+    func textStyleFossTypo() -> some View {
+        return self
+            .font(Font.custom("Acme-regular", size: 10))
+            .underline() 
+    }
+
+    func textStyleTestNewTypo() -> some View {
+        return self
+            .font(Font.custom("Abel-regular", size: 10))
+            .strikethrough() 
+            .textCase(.uppercase) 
+    }
+
+    func textStyleNewToken() -> some View {
+        return self
+            .font(Font.custom("Inter-regular", size: 14))
+    }
 }
