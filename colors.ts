@@ -166,7 +166,8 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const newToken = "#cc0b0b";
+const kelioColor = "#c7fc32";
+const combo = semanticWarningWarningBorder;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -343,5 +344,6 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    newToken,
+    kelioColor,
+    combo,
 }

@@ -445,6 +445,31 @@ const newToken = {
                         css: "0px"
                        },
          };
+const kelioTypo = {
+           fontFamily: "Actor",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 10,
+                      unit: "Pixels",
+                      css: "10px"
+                     },
+           lineHeight: {
+                          measure: 25,
+                          unit: "Pixels",
+                          css: "25px"
+                         },
+           letterSpacing: {
+                             measure: 4,
+                             unit: "Percent",
+                             css: "4%"
+                            },
+           textIndent: {
+                        measure: 1,
+                        unit: "Pixels",
+                        css: "1px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -466,4 +491,5 @@ export const Typographies = {
       fossTypo,
       testNewTypo,
       newToken,
+      kelioTypo,
 }
