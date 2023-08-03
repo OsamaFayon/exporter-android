@@ -514,6 +514,15 @@ const token37 = {
                   },
            position: "Center",
          };
+const testBorder = {
+           color: "#8f06f5",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -577,6 +586,7 @@ export const Borders = {
       boarderIbm,
       kelkioBoarder,
       token37,
+      testBorder,
       moodyS,
       token15,
       token22,

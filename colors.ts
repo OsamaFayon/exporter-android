@@ -167,6 +167,7 @@ const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const kelioColor = "#c7fc32";
+const newToken = "#4d73c3";
 const combo = semanticWarningWarningBorder;
 const neeName = paletteGreenGreen0;
 
@@ -346,6 +347,7 @@ export const Colors = {
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
     kelioColor,
+    newToken,
     combo,
     neeName,
 }
