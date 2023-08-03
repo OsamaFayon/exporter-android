@@ -496,6 +496,15 @@ const boarderIbm = {
                   },
            position: "Outside",
          };
+const kelkioBoarder = {
+           color: "#a1f72c",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Inside",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -557,6 +566,7 @@ export const Borders = {
       token36,
       newTestBoarderValue,
       boarderIbm,
+      kelkioBoarder,
       moodyS,
       token15,
       token22,
