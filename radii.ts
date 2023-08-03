@@ -21,10 +21,18 @@ const kelioMeasure = {
                       css: "3px"
                      },
          };
+const token1 = {
+           radius: {
+                      measure: 6,
+                      unit: "Pixels",
+                      css: "6px"
+                     },
+         };
 
 
 export const Raddii = {
       radiusToken,
       rd,
       kelioMeasure,
+      token1,
 }
