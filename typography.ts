@@ -1,25 +1,5 @@
 
 import { Measures } from './measures';
-const supernova = {
-           fontFamily: "Roboto",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 16,
-                      unit: "Pixels",
-                      css: "16px"
-                     },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
 const h1 = {
            fontFamily: "Inter",
            fontStyle: "normal",
@@ -295,6 +275,26 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
+const supernova = {
+           fontFamily: "Roboto",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 16,
+                      unit: "Pixels",
+                      css: "16px"
+                     },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 const newTyp = {
            fontFamily: "Inter",
            fontStyle: "normal",
@@ -473,7 +473,6 @@ const kelioTypo = {
 
 
 export const Typographies = {
-      supernova,
       h1,
       h2,
       h3,
@@ -485,6 +484,7 @@ export const Typographies = {
       paragraph,
       smallParagraph,
       tinyParagraph,
+      supernova,
       newTyp,
       bellTypo,
       laPosteTypo,
