@@ -1,25 +1,5 @@
 
 import { Measures } from './measures';
-const supernova = {
-           fontFamily: "Roboto",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 16,
-                      unit: "Pixels",
-                      css: "16px"
-                     },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
 const h1 = {
            fontFamily: "Inter",
            fontStyle: "normal",
@@ -295,181 +275,6 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
-const newTyp = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const bellTypo = {
-           fontFamily: "Abel",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 10,
-                      unit: "Pixels",
-                      css: "10px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 2,
-                             unit: "Percent",
-                             css: "2%"
-                            },
-           textIndent: {
-                        measure: 5,
-                        unit: "Pixels",
-                        css: "5px"
-                       },
-         };
-const laPosteTypo = {
-           fontFamily: "Aboreto",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 10,
-                      unit: "Pixels",
-                      css: "10px"
-                     },
-           lineHeight: {
-                          measure: 22,
-                          unit: "Pixels",
-                          css: "22px"
-                         },
-           letterSpacing: {
-                             measure: 0.5,
-                             unit: "Percent",
-                             css: "0.5%"
-                            },
-           textIndent: {
-                        measure: 4,
-                        unit: "Pixels",
-                        css: "4px"
-                       },
-         };
-const fossTypo = {
-           fontFamily: "Acme",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 10,
-                      unit: "Pixels",
-                      css: "10px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 4,
-                        unit: "Pixels",
-                        css: "4px"
-                       },
-         };
-const testNewTypo = {
-           fontFamily: "Abel",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 10,
-                      unit: "Pixels",
-                      css: "10px"
-                     },
-           lineHeight: {
-                          measure: 22,
-                          unit: "Pixels",
-                          css: "22px"
-                         },
-           letterSpacing: {
-                             measure: 3,
-                             unit: "Percent",
-                             css: "3%"
-                            },
-           textIndent: {
-                        measure: 2,
-                        unit: "Pixels",
-                        css: "2px"
-                       },
-         };
-const newToken = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 22,
-                          unit: "Pixels",
-                          css: "22px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const kelioTypo = {
-           fontFamily: "Actor",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 10,
-                      unit: "Pixels",
-                      css: "10px"
-                     },
-           lineHeight: {
-                          measure: 25,
-                          unit: "Pixels",
-                          css: "25px"
-                         },
-           letterSpacing: {
-                             measure: 4,
-                             unit: "Percent",
-                             css: "4%"
-                            },
-           textIndent: {
-                        measure: 1,
-                        unit: "Pixels",
-                        css: "1px"
-                       },
-         };
 const newTypo = {
            fontFamily: "Abril Fatface",
            fontStyle: "normal",
@@ -495,35 +300,9 @@ const newTypo = {
                         css: "0px"
                        },
          };
-const newTestTypo = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 19,
-                      unit: "Pixels",
-                      css: "19px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
 
 
 export const Typographies = {
-      supernova,
       h1,
       h2,
       h3,
@@ -535,13 +314,5 @@ export const Typographies = {
       paragraph,
       smallParagraph,
       tinyParagraph,
-      newTyp,
-      bellTypo,
-      laPosteTypo,
-      fossTypo,
-      testNewTypo,
-      newToken,
-      kelioTypo,
       newTypo,
-      newTestTypo,
 }
