@@ -91,6 +91,15 @@ const name = {
                   },
            position: "Inside",
          };
+const name = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
 const token10 = {
            color: "#000000",
            width: {
@@ -199,12 +208,30 @@ const token20 = {
                   },
            position: "Outside",
          };
+const boarder = {
+           color: "#281b1b",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
 const token21 = {
            color: "#e03d3d",
            width: {
                    measure: 5,
                    unit: "Pixels",
                    css: "5px"
+                  },
+           position: "Center",
+         };
+const name = {
+           color: "#b53535",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
                   },
            position: "Center",
          };
@@ -253,6 +280,15 @@ const token26 = {
                   },
            position: "Center",
          };
+const name = {
+           color: "#d36060",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 const token27 = {
            color: "#4c3232",
            width: {
@@ -286,6 +322,15 @@ const token30 = {
                    measure: 5,
                    unit: "Pixels",
                    css: "5px"
+                  },
+           position: "Center",
+         };
+const boarder = {
+           color: "#c14f4f",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
                   },
            position: "Center",
          };
@@ -369,51 +414,6 @@ const token32 = {
                    css: "5px"
                   },
            position: "Center",
-         };
-const name = {
-           color: "#b53535",
-           width: {
-                   measure: 3,
-                   unit: "Pixels",
-                   css: "3px"
-                  },
-           position: "Center",
-         };
-const name = {
-           color: "#d36060",
-           width: {
-                   measure: 4,
-                   unit: "Pixels",
-                   css: "4px"
-                  },
-           position: "Center",
-         };
-const boarder = {
-           color: "#c14f4f",
-           width: {
-                   measure: 4,
-                   unit: "Pixels",
-                   css: "4px"
-                  },
-           position: "Center",
-         };
-const boarder = {
-           color: "#281b1b",
-           width: {
-                   measure: 5,
-                   unit: "Pixels",
-                   css: "5px"
-                  },
-           position: "Center",
-         };
-const name = {
-           color: "#000000",
-           width: {
-                   measure: 1,
-                   unit: "Pixels",
-                   css: "1px"
-                  },
-           position: "Inside",
          };
 const token33 = {
            color: "#cf5a5a",
@@ -505,6 +505,15 @@ const kelkioBoarder = {
                   },
            position: "Inside",
          };
+const token37 = {
+           color: "#902626",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 const moodyS = boardeer2;
 const token15 = newAnme;
 const token22 = token12;
@@ -521,6 +530,7 @@ export const Borders = {
       name,
       token9,
       name,
+      name,
       token10,
       token11,
       token12,
@@ -533,16 +543,20 @@ export const Borders = {
       token18,
       token19,
       token20,
+      boarder,
       token21,
+      name,
       token23,
       mlb,
       token24,
       token25,
       token26,
+      name,
       token27,
       token28,
       token29,
       token30,
+      boarder,
       laPoste,
       sdWorx,
       abbott,
@@ -552,11 +566,6 @@ export const Borders = {
       laPosteBoarder,
       fossBoarder,
       token32,
-      name,
-      name,
-      boarder,
-      boarder,
-      name,
       token33,
       token34,
       newBoarded,
@@ -567,6 +576,7 @@ export const Borders = {
       newTestBoarderValue,
       boarderIbm,
       kelkioBoarder,
+      token37,
       moodyS,
       token15,
       token22,

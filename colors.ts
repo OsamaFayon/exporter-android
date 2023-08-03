@@ -1,4 +1,3 @@
-const kelioColor = "#c7fc32";
 const paletteGreenGreen1100 = "#0e2a21";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
@@ -136,9 +135,6 @@ const semanticPrimaryPrimaryHoverbackground = "#6addc6";
 const semanticPrimaryPrimaryHovercolor = "#1b3e3e";
 const semanticPrimaryPrimaryBackground = "#97e7d5";
 const semanticPrimaryPrimaryColor = "#2a6461";
-const semanticPrimaryCtaPrimaryActivebackground = "#dfe1e1";
-const semanticPrimaryPrimaryBorder = "#2a6461";
-const semanticPrimaryHoverinnactivebackground = "#c9cccc";
 const semanticTextTextInverse = "#ffffff";
 const semanticTextTextSubtext = "#545e5f";
 const semanticTextTextHeadline = "#293333";
@@ -163,14 +159,18 @@ const semanticOpportunityOpportunityColor = "#a43b5b";
 const semanticOpportunityOpportunityIcon = "#a43b5b";
 const semanticOpportunityOpportunityBorder = "#ee7fad";
 const semanticOpportunityOpportunityBackground = "#f7dcea";
+const semanticPrimaryCtaPrimaryActivebackground = "#dfe1e1";
+const semanticPrimaryPrimaryBorder = "#2a6461";
+const semanticPrimaryHoverinnactivebackground = "#c9cccc";
 const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
+const kelioColor = "#c7fc32";
 const combo = semanticWarningWarningBorder;
+const neeName = paletteGreenGreen0;
 
 export const Colors = {
-    kelioColor,
     paletteGreenGreen1100,
     paletteGreenGreen1000,
     paletteGreenGreen900,
@@ -314,9 +314,6 @@ export const Colors = {
     semanticPrimaryPrimaryHovercolor,
     semanticPrimaryPrimaryBackground,
     semanticPrimaryPrimaryColor,
-    semanticPrimaryCtaPrimaryActivebackground,
-    semanticPrimaryPrimaryBorder,
-    semanticPrimaryHoverinnactivebackground,
     semanticTextTextInverse,
     semanticTextTextSubtext,
     semanticTextTextHeadline,
@@ -341,9 +338,14 @@ export const Colors = {
     semanticOpportunityOpportunityIcon,
     semanticOpportunityOpportunityBorder,
     semanticOpportunityOpportunityBackground,
+    semanticPrimaryCtaPrimaryActivebackground,
+    semanticPrimaryPrimaryBorder,
+    semanticPrimaryHoverinnactivebackground,
     specialRatingRatingOn,
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
+    kelioColor,
     combo,
+    neeName,
 }
