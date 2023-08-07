@@ -82,6 +82,15 @@ const newBoarder = {
                   },
            position: "Center",
          };
+const name = {
+           color: "#db5e5e",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -94,4 +103,5 @@ export const Borders = {
       newTestBoarderValue,
       kelkioBoarder,
       newBoarder,
+      name,
 }
