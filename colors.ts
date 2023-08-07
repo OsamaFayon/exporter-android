@@ -167,6 +167,7 @@ const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const newToken = "#d41616";
+const newTokenTestDemo = "#db4040";
 const existingToken = paletteGreenGreen1100;
 
 export const Colors = {
@@ -345,5 +346,6 @@ export const Colors = {
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
     newToken,
+    newTokenTestDemo,
     existingToken,
 }
