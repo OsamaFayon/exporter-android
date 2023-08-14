@@ -91,6 +91,15 @@ const name = {
                   },
            position: "Center",
          };
+const boarderSn = {
+           color: "#973434",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -104,4 +113,5 @@ export const Borders = {
       kelkioBoarder,
       newBoarder,
       name,
+      boarderSn,
 }
