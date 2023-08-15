@@ -100,6 +100,15 @@ const boarderSn = {
                   },
            position: "Center",
          };
+const newOne = {
+           color: "#bb4242",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -114,4 +123,5 @@ export const Borders = {
       newBoarder,
       name,
       boarderSn,
+      newOne,
 }
