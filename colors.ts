@@ -172,6 +172,7 @@ const newTestToken = "#a02a2a";
 const newToken = "#a63a3a";
 const computerShare = "#729b51";
 const newTokenValue = "#349ef3";
+const name = "#dd3131";
 const existingToken = paletteGreenGreen1100;
 const snFigma = paletteGreenGreen1100;
 
@@ -356,6 +357,7 @@ export const Colors = {
     newToken,
     computerShare,
     newTokenValue,
+    name,
     existingToken,
     snFigma,
 }
