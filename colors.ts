@@ -174,9 +174,11 @@ const computerShare = "#729b51";
 const newTokenValue = "#349ef3";
 const name = "#dd3131";
 const newTokenVakue = "#442b2b";
+const name = "#a90808";
 const existingToken = paletteGreenGreen1100;
 const snFigma = paletteGreenGreen1100;
 const newOne = paletteGreenGreen400;
+const snToken = paletteGreenGreen1100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -361,7 +363,9 @@ export const Colors = {
     newTokenValue,
     name,
     newTokenVakue,
+    name,
     existingToken,
     snFigma,
     newOne,
+    snToken,
 }

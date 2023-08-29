@@ -127,6 +127,15 @@ const token2 = {
                   },
            position: "Center",
          };
+const token3 = {
+           color: "#eb5c5c",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -144,4 +153,5 @@ export const Borders = {
       newOne,
       token1,
       token2,
+      token3,
 }

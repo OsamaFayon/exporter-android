@@ -1,15 +1,33 @@
-const token1 = {
+const dimensionToken1 = {
           measure: 10,
           unit: "Pixels",
           css: "10px"
          };
-const token2 = {
+const borderRadiusRadiusToken = {
+          measure: 6,
+          unit: "Pixels",
+          css: "6px"
+         };
+const borderRadiusRd = {
           measure: 10,
           unit: "Pixels",
           css: "10px"
+         };
+const dimensionToken2 = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
+const borderRadiusKelioMeasure = {
+          measure: 3,
+          unit: "Pixels",
+          css: "3px"
          };
 
 export const Measures = {
-      token1,
-      token2,
+      dimensionToken1,
+      borderRadiusRadiusToken,
+      borderRadiusRd,
+      dimensionToken2,
+      borderRadiusKelioMeasure,
 }
