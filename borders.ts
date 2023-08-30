@@ -145,6 +145,15 @@ const snBoarder = {
                   },
            position: "Outside",
          };
+const fsecure = {
+           color: "#bd3232",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -164,4 +173,5 @@ export const Borders = {
       token2,
       token3,
       snBoarder,
+      fsecure,
 }

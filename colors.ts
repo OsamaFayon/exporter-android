@@ -166,21 +166,8 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const newToken = "#d41616";
-const newTokenTestDemo = "#db4040";
-const newTestToken = "#a02a2a";
-const newToken = "#a63a3a";
-const computerShare = "#729b51";
-const newTokenValue = "#349ef3";
-const name = "#dd3131";
-const newTokenVakue = "#442b2b";
-const name = "#a90808";
-const snToken = "#1e1515";
-const existingToken = paletteGreenGreen1100;
-const snFigma = paletteGreenGreen1100;
-const newOne = paletteGreenGreen400;
-const snToken = paletteGreenGreen1100;
-const snToken2 = paletteGreenGreen200;
+const fsecure = "#425e93";
+const fs = paletteGreenGreen300;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -357,19 +344,6 @@ export const Colors = {
     specialRatingRatingHoveron,
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
-    newToken,
-    newTokenTestDemo,
-    newTestToken,
-    newToken,
-    computerShare,
-    newTokenValue,
-    name,
-    newTokenVakue,
-    name,
-    snToken,
-    existingToken,
-    snFigma,
-    newOne,
-    snToken,
-    snToken2,
+    fsecure,
+    fs,
 }
