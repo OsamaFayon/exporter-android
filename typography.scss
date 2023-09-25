@@ -1,15 +1,4 @@
 
-.typographySupernova 
-{ 
-  
-  font-family: "Roboto";
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  letter-spacing: 0em; 
-  text-indent: 0px; 
-}    
-
 .typographyH1 
 { 
   
@@ -142,13 +131,254 @@
   text-indent: 0px; 
 }    
 
-@mixin typographySupernova 
+.typographyNewTypo 
 { 
   
-  font-family: "Roboto";
+  font-family: "Abril Fatface";
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyNewToken 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyNewTupo 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyNewTypo 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyNewOne 
+{ 
+  
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken1 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTestToken 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyName 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyName 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographySnTypo 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken2 
+{ 
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken3 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken4 
+{ 
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyTyp 
+{ 
+  
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken5 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographySnTypo 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken6 
+{ 
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken7 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographyToken8 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographySn 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+.typographySnTypi 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
   letter-spacing: 0em; 
   text-indent: 0px; 
 }    
@@ -281,6 +511,258 @@
   font-weight: 400;
   font-size: 12px;
   line-height: 24px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyNewTypo 
+{ 
+  
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyNewToken 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyNewTupo 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyNewTypo 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyNewOne 
+{ 
+  
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken1 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTestToken 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyName 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyName 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographySnTypo 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken2 
+{ 
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken3 
+{ 
+  
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken4 
+{ 
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyTyp 
+{ 
+  
+  font-family: "Abril Fatface";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken5 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographySnTypo 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken6 
+{ 
+  
+  font-family: "Abel";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken7 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographyToken8 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographySn 
+{ 
+  
+  font-family: "Abhaya Libre";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0em; 
+  text-indent: 0px; 
+}    
+
+@mixin typographySnTypi 
+{ 
+  
+  font-family: "Aboreto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
   letter-spacing: 0em; 
   text-indent: 0px; 
 }    
