@@ -171,6 +171,7 @@ const snToken = "#531919";
 const snToken2 = "#d04343";
 const snToken = "#d46969";
 const snToken2 = "#682d2d";
+const snToken = "#1d0404";
 const snToken2 = paletteGreenGreen1000;
 const snTk = paletteGreenGreen1100;
 
@@ -352,6 +353,7 @@ export const Colors = {
     snToken2,
     snToken,
     snToken2,
+    snToken,
     snToken2,
     snTk,
 }
