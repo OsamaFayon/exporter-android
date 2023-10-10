@@ -23,6 +23,11 @@ const borderRadiusKelioMeasure = {
           unit: "Pixels",
           css: "3px"
          };
+const borderRadiusToken1 = {
+          measure: 6,
+          unit: "Pixels",
+          css: "6px"
+         };
 
 export const Measures = {
       dimensionToken1,
@@ -30,4 +35,5 @@ export const Measures = {
       borderRadiusRd,
       dimensionToken2,
       borderRadiusKelioMeasure,
+      borderRadiusToken1,
 }
