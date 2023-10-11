@@ -350,6 +350,31 @@ const token3 = {
                         css: "0px"
                        },
          };
+const token4 = {
+           fontFamily: "Inter",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 14,
+                      unit: "Pixels",
+                      css: "14px"
+                     },
+           lineHeight: {
+                          measure: 20,
+                          unit: "Pixels",
+                          css: "20px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -367,4 +392,5 @@ export const Typographies = {
       token1,
       token2,
       token3,
+      token4,
 }
