@@ -1,3 +1,17 @@
 {
-  "font": {}
+  "font": {
+    "token-1": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Inter"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "regular"
+        }
+      },
+      "type": "font"
+    }
+  }
 }

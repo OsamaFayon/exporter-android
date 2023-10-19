@@ -1,3 +1,96 @@
 {
-  "measure": {}
+  "measure": {
+    "dimension": {
+      "token-1": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 10
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      },
+      "token-2": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 10
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      }
+    },
+    "opacity": {},
+    "sizing": {},
+    "spacing": {},
+    "font-sizing": {},
+    "line-height": {},
+    "letter-spacing": {},
+    "paragraph-spacing": {},
+    "border-width": {},
+    "border-radius": {
+      "radius-token": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 6
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      },
+      "rd": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 10
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      },
+      "kelio-measure": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 3
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      },
+      "token-1": {
+        "value": {
+          "measure": {
+            "type": "size",
+            "value": 6
+          },
+          "unit": {
+            "type": "string",
+            "value": "pixels"
+          }
+        },
+        "type": "measure"
+      }
+    },
+    "duration": {},
+    "z-index": {}
+  }
 }

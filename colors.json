@@ -722,56 +722,20 @@
         }
       }
     },
-    "token-171": {
-      "value": "#ffffffff",
+    "sn-token": {
+      "value": "#384181ff",
       "type": "color"
     },
-    "name": {
-      "value": "#ffffffff",
-      "type": "color"
-    },
-    "token-173": {
-      "value": "#ffffffff",
-      "type": "color"
-    },
-    "token-174": {
-      "value": "#ffffffff",
-      "type": "color"
-    },
-    "token-177": {
-      "value": "#ffffffff",
-      "type": "color"
-    },
-    "color": {
-      "value": "#ffffffff",
-      "type": "color"
-    },
-    "new": {
-      "value": "#1c4130ff",
-      "type": "color"
-    },
-    "token-178": {
-      "value": "#ffffffff",
+    "sn-tokemn-color": {
+      "value": "#eee1e1ff",
       "type": "color"
     },
     "new-token": {
+      "value": "#dac0c6ff",
+      "type": "color"
+    },
+    "sn-token-2": {
       "value": "{color.palette.green.green-1100.value}",
-      "type": "color"
-    },
-    "token-170": {
-      "value": "{color.palette.green.green-700.value}",
-      "type": "color"
-    },
-    "token-175": {
-      "value": "{color.palette.blue.blue-1000.value}",
-      "type": "color"
-    },
-    "token-176": {
-      "value": "{color.palette.green.green-1100.value}",
-      "type": "color"
-    },
-    "new-name": {
-      "value": "{color.palette.green.green-900.value}",
       "type": "color"
     }
   }
