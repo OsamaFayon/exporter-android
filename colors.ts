@@ -169,6 +169,8 @@ const specialRatingRatingHoveroff = "#f6be41";
 const snToken = "#a34848";
 const snTokemnColor = "#eee1e1";
 const newToken = "#dac0c6";
+const snToken = "#384181";
+const token1 = "#a11c1c";
 const snToken2 = paletteGreenGreen1100;
 
 export const Colors = {
@@ -349,5 +351,7 @@ export const Colors = {
     snToken,
     snTokemnColor,
     newToken,
+    snToken,
+    token1,
     snToken2,
 }
