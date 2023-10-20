@@ -805,6 +805,32 @@
         }
       },
       "type": "border"
+    },
+    "token-18": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#cd6666ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Outside"
+        }
+      },
+      "type": "border"
     }
   }
 }
