@@ -734,6 +734,10 @@
       "value": "#dac0c6ff",
       "type": "color"
     },
+    "token-1": {
+      "value": "#a11c1cff",
+      "type": "color"
+    },
     "sn-token-2": {
       "value": "{color.palette.green.green-1100.value}",
       "type": "color"
