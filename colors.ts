@@ -171,7 +171,9 @@ const snTokemnColor = "#eee1e1";
 const newToken = "#dac0c6";
 const snToken = "#384181";
 const token1 = "#a11c1c";
+const token2 = "#600b0b";
 const snToken2 = paletteGreenGreen1100;
+const token3 = paletteGreenGreen0;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -204,9 +206,7 @@ export const Colors = {
   /** Slightly less aquatic, still deep as an ocean */
     paletteAquaAqua1000,
     paletteAquaAqua900,
-  /** Aqua with an amazing text-on-white contrast (AAA) */
     paletteAquaAqua800,
-  /** Aqua with good-enough text-on-white contrast (AA) */
     paletteAquaAqua700,
     paletteAquaAqua600,
     paletteAquaAqua500,
@@ -353,5 +353,7 @@ export const Colors = {
     newToken,
     snToken,
     token1,
+    token2,
     snToken2,
+    token3,
 }

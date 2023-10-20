@@ -400,6 +400,31 @@ const token5 = {
                         css: "0px"
                        },
          };
+const token6 = {
+           fontFamily: "AR One Sans",
+           fontStyle: "normal",
+           fontWeight: 400,
+           fontSize: {
+                      measure: 14,
+                      unit: "Pixels",
+                      css: "14px"
+                     },
+           lineHeight: {
+                          measure: 20,
+                          unit: "Pixels",
+                          css: "20px"
+                         },
+           letterSpacing: {
+                             measure: 4,
+                             unit: "Percent",
+                             css: "4%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
@@ -419,4 +444,5 @@ export const Typographies = {
       token3,
       token4,
       token5,
+      token6,
 }

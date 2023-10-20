@@ -334,6 +334,15 @@ const token17 = {
                   },
            position: "Center",
          };
+const token18 = {
+           color: "#cd6666",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Outside",
+         };
 
 
 export const Borders = {
@@ -374,4 +383,5 @@ export const Borders = {
       boarder,
       token16,
       token17,
+      token18,
 }
