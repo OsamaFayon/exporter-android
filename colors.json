@@ -740,12 +740,24 @@
       "value": "#600b0bff",
       "type": "color"
     },
+    "sn-new-token": {
+      "value": "#290505ff",
+      "type": "color"
+    },
     "sn-token-2": {
       "value": "{color.palette.green.green-1100.value}",
       "type": "color"
     },
     "token-3": {
       "value": "{color.palette.green.green-0.value}",
+      "type": "color"
+    },
+    "token-4": {
+      "value": "{color.palette.green.green-1100.value}",
+      "type": "color"
+    },
+    "token-5": {
+      "value": "{color.palette.green.green-1000.value}",
       "type": "color"
     }
   }
