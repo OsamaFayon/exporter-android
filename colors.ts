@@ -166,21 +166,7 @@ const specialRatingRatingOn = "#f6be41";
 const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
-const snToken = "#a34848";
-const snTokemnColor = "#eee1e1";
-const newToken = "#dac0c6";
-const snToken = "#384181";
-const token1 = "#a11c1c";
-const token2 = "#600b0b";
-const snNewToken = "#290505";
 const snToken = "#644b4b";
-const newToken = "#1354eb";
-const snToken2 = paletteGreenGreen1100;
-const token3 = paletteGreenGreen0;
-const token4 = paletteGreenGreen1100;
-const token5 = paletteGreenGreen1000;
-const token6 = paletteGreenGreen900;
-const token7 = paletteGreenGreen1100;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -356,18 +342,4 @@ export const Colors = {
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
     snToken,
-    snTokemnColor,
-    newToken,
-    snToken,
-    token1,
-    token2,
-    snNewToken,
-    snToken,
-    newToken,
-    snToken2,
-    token3,
-    token4,
-    token5,
-    token6,
-    token7,
 }
