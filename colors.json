@@ -721,7 +721,7 @@
       }
     },
     "sn-token": {
-      "value": "#384181ff",
+      "value": "#644b4bff",
       "type": "color"
     },
     "sn-tokemn-color": {
@@ -729,7 +729,7 @@
       "type": "color"
     },
     "new-token": {
-      "value": "#dac0c6ff",
+      "value": "#1354ebff",
       "type": "color"
     },
     "token-1": {
@@ -758,6 +758,14 @@
     },
     "token-5": {
       "value": "{color.palette.green.green-1000.value}",
+      "type": "color"
+    },
+    "token-6": {
+      "value": "{color.palette.green.green-900.value}",
+      "type": "color"
+    },
+    "token-7": {
+      "value": "{color.palette.green.green-1100.value}",
       "type": "color"
     }
   }
