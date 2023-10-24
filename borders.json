@@ -831,6 +831,58 @@
         }
       },
       "type": "border"
+    },
+    "token-19": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#9c4d4dff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 4
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Outside"
+        }
+      },
+      "type": "border"
+    },
+    "token-20": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#8e2424ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Inside"
+        }
+      },
+      "type": "border"
     }
   }
 }
