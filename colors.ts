@@ -173,10 +173,12 @@ const snToken = "#384181";
 const token1 = "#a11c1c";
 const token2 = "#600b0b";
 const snNewToken = "#290505";
+const snToken = "#644b4b";
 const snToken2 = paletteGreenGreen1100;
 const token3 = paletteGreenGreen0;
 const token4 = paletteGreenGreen1100;
 const token5 = paletteGreenGreen1000;
+const token6 = paletteGreenGreen900;
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -358,8 +360,10 @@ export const Colors = {
     token1,
     token2,
     snNewToken,
+    snToken,
     snToken2,
     token3,
     token4,
     token5,
+    token6,
 }
