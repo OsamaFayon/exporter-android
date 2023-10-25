@@ -167,6 +167,7 @@ const specialRatingRatingHoveron = "#d49b35";
 const specialRatingRatingOff = "#dfe1e1";
 const specialRatingRatingHoveroff = "#f6be41";
 const snToken = "#644b4b";
+const dhToken = "#ac2424";
 
 export const Colors = {
     paletteGreenGreen1100,
@@ -342,4 +343,5 @@ export const Colors = {
     specialRatingRatingOff,
     specialRatingRatingHoveroff,
     snToken,
+    dhToken,
 }

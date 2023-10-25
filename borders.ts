@@ -370,6 +370,15 @@ const token20 = {
                   },
            position: "Inside",
          };
+const token21 = {
+           color: "#1c1818",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -414,4 +423,5 @@ export const Borders = {
       snBoarder,
       token19,
       token20,
+      token21,
 }
