@@ -724,48 +724,8 @@
       "value": "#644b4bff",
       "type": "color"
     },
-    "sn-tokemn-color": {
-      "value": "#eee1e1ff",
-      "type": "color"
-    },
-    "new-token": {
-      "value": "#1354ebff",
-      "type": "color"
-    },
-    "token-1": {
-      "value": "#a11c1cff",
-      "type": "color"
-    },
-    "token-2": {
-      "value": "#600b0bff",
-      "type": "color"
-    },
-    "sn-new-token": {
-      "value": "#290505ff",
-      "type": "color"
-    },
-    "sn-token-2": {
-      "value": "{color.palette.green.green-1100.value}",
-      "type": "color"
-    },
-    "token-3": {
-      "value": "{color.palette.green.green-0.value}",
-      "type": "color"
-    },
-    "token-4": {
-      "value": "{color.palette.green.green-1100.value}",
-      "type": "color"
-    },
-    "token-5": {
-      "value": "{color.palette.green.green-1000.value}",
-      "type": "color"
-    },
-    "token-6": {
-      "value": "{color.palette.green.green-900.value}",
-      "type": "color"
-    },
-    "token-7": {
-      "value": "{color.palette.green.green-1100.value}",
+    "dh-token": {
+      "value": "#ac2424ff",
       "type": "color"
     }
   }
