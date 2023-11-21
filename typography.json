@@ -39,7 +39,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -111,7 +111,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -183,7 +183,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -255,7 +255,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -327,7 +327,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -399,7 +399,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -471,7 +471,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -543,7 +543,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -615,7 +615,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -687,7 +687,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -759,7 +759,7 @@
             },
             "unit": {
               "type": "string",
-              "value": "percent"
+              "value": "pixels"
             }
           }
         },
@@ -1441,6 +1441,78 @@
       "type": "typography"
     },
     "token-10": {
+      "value": {
+        "font": {
+          "type": "font",
+          "value": {
+            "family": {
+              "type": "string",
+              "value": "AR One Sans"
+            },
+            "subfamily": {
+              "type": "string",
+              "value": "regular"
+            }
+          }
+        },
+        "fontSize": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 14
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "textDecoration": "None",
+        "textCase": "Original",
+        "letterSpacing": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "percent"
+            }
+          }
+        },
+        "paragraphIndent": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 0
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "lineHeight": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 20
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        }
+      },
+      "type": "typography"
+    },
+    "sn-typo": {
       "value": {
         "font": {
           "type": "font",

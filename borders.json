@@ -1,31 +1,5 @@
 {
   "border": {
-    "boarder": {
-      "value": {
-        "color": {
-          "type": "color",
-          "value": "#942929ff"
-        },
-        "width": {
-          "type": "measure",
-          "value": {
-            "measure": {
-              "type": "size",
-              "value": 4
-            },
-            "unit": {
-              "type": "string",
-              "value": "pixels"
-            }
-          }
-        },
-        "position": {
-          "type": "string",
-          "value": "Center"
-        }
-      },
-      "type": "border"
-    },
     "abbott": {
       "value": {
         "color": {
@@ -142,6 +116,32 @@
             "measure": {
               "type": "size",
               "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
+    },
+    "boarder": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#942929ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 4
             },
             "unit": {
               "type": "string",
@@ -394,14 +394,14 @@
       "value": {
         "color": {
           "type": "color",
-          "value": "#c05353ff"
+          "value": "#a03636ff"
         },
         "width": {
           "type": "measure",
           "value": {
             "measure": {
               "type": "size",
-              "value": 4
+              "value": 3
             },
             "unit": {
               "type": "string",
@@ -906,6 +906,110 @@
         "position": {
           "type": "string",
           "value": "Center"
+        }
+      },
+      "type": "border"
+    },
+    "token-22": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#901818ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
+    },
+    "sn-token": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#2f2626ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 4
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
+    },
+    "sn": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#a02c2cff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
+    },
+    "token-23": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#901d1dff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 3
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Outside"
         }
       },
       "type": "border"

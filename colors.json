@@ -720,12 +720,20 @@
         }
       }
     },
-    "sn-token": {
-      "value": "#644b4bff",
+    "snk-token": {
+      "value": "#341b1bff",
       "type": "color"
     },
-    "dh-token": {
-      "value": "#ac2424ff",
+    "sntokne": {
+      "value": "#df4d4dff",
+      "type": "color"
+    },
+    "sn-token": {
+      "value": "#a14c4cff",
+      "type": "color"
+    },
+    "second-one": {
+      "value": "{color.palette.green.green-500.value}",
       "type": "color"
     }
   }
