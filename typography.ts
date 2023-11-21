@@ -16,8 +16,8 @@ const h1 = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -41,8 +41,8 @@ const h2 = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -66,8 +66,8 @@ const h3 = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -91,8 +91,8 @@ const h4 = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -116,8 +116,8 @@ const h5 = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -141,8 +141,8 @@ const largeLead = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -166,8 +166,8 @@ const mediumLead = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -191,8 +191,8 @@ const buttonLabel = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -216,8 +216,8 @@ const paragraph = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -241,8 +241,8 @@ const smallParagraph = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
@@ -266,8 +266,8 @@ const tinyParagraph = {
                          },
            letterSpacing: {
                              measure: 0,
-                             unit: "Percent",
-                             css: "0%"
+                             unit: "Pixels",
+                             css: "0px"
                             },
            textIndent: {
                         measure: 0,
