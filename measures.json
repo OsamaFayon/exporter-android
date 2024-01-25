@@ -1,95 +1,15 @@
 {
   "measure": {
-    "dimension": {
-      "token-1": {
-        "value": {
-          "measure": {
-            "type": "size",
-            "value": 10
-          },
-          "unit": {
-            "type": "string",
-            "value": "pixels"
-          }
-        },
-        "type": "measure"
-      },
-      "token-2": {
-        "value": {
-          "measure": {
-            "type": "size",
-            "value": 10
-          },
-          "unit": {
-            "type": "string",
-            "value": "pixels"
-          }
-        },
-        "type": "measure"
-      }
-    },
+    "dimension": {},
+    "size": {},
+    "space": {},
     "opacity": {},
-    "sizing": {},
-    "spacing": {},
-    "font-sizing": {},
+    "font-size": {},
     "line-height": {},
     "letter-spacing": {},
     "paragraph-spacing": {},
     "border-width": {},
-    "border-radius": {
-      "radius-token": {
-        "value": {
-          "measure": {
-            "type": "size",
-            "value": 6
-          },
-          "unit": {
-            "type": "string",
-            "value": "pixels"
-          }
-        },
-        "type": "measure"
-      },
-      "rd": {
-        "value": {
-          "measure": {
-            "type": "size",
-            "value": 10
-          },
-          "unit": {
-            "type": "string",
-            "value": "pixels"
-          }
-        },
-        "type": "measure"
-      },
-      "kelio-measure": {
-        "value": {
-          "measure": {
-            "type": "size",
-            "value": 3
-          },
-          "unit": {
-            "type": "string",
-            "value": "pixels"
-          }
-        },
-        "type": "measure"
-      },
-      "token-1": {
-        "value": {
-          "measure": {
-            "type": "size",
-            "value": 6
-          },
-          "unit": {
-            "type": "string",
-            "value": "pixels"
-          }
-        },
-        "type": "measure"
-      }
-    },
+    "border-radius": {},
     "duration": {},
     "z-index": {}
   }
