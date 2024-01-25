@@ -1,9 +1,396 @@
 {
   "color": {
+    "foreground": {
+      "neutral": {
+        "value": "#14171fff",
+        "type": "color",
+        "comment": "For text and icons."
+      },
+      "neutral-faded": {
+        "value": "#606981ff",
+        "type": "color",
+        "comment": "For text and icons."
+      },
+      "primary": {
+        "value": "#104fc6ff",
+        "type": "color"
+      },
+      "critical": {
+        "value": "#cb101dff",
+        "type": "color"
+      },
+      "positive": {
+        "value": "#05751fff",
+        "type": "color"
+      },
+      "upgrade": {
+        "value": "#874ce6ff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#c7cddbff",
+        "type": "color",
+        "comment": "You might not need this — just apply Opacity Disabled (40%) token to a layer."
+      },
+      "placeholder": {
+        "value": "#7f8694ff",
+        "type": "color"
+      }
+    },
+    "background": {
+      "elevation-base": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "Primary background for all components or surfaces, with the exception of Page. If in doubts which to use, use this."
+      },
+      "elevation-raised": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "Use together with Raised elevation. It will then ensure it works also in dark mode properly."
+      },
+      "elevation-overlay": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "Use together with Overlay elevation. It will then ensure it works also in dark mode properly."
+      },
+      "neutral": {
+        "value": "#182d660a",
+        "type": "color"
+      },
+      "neutral-highlighted": {
+        "value": "#182d6614",
+        "type": "color"
+      },
+      "neutral-faded": {
+        "value": "#141a2b05",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#104fc6ff",
+        "type": "color"
+      },
+      "primary-highlighted": {
+        "value": "#004ee1ff",
+        "type": "color",
+        "comment": "For hover and active states"
+      },
+      "primary-faded": {
+        "value": "#edf5ffff",
+        "type": "color"
+      },
+      "critical": {
+        "value": "#e22c2cff",
+        "type": "color"
+      },
+      "critical-highlighted": {
+        "value": "#cb101dff",
+        "type": "color"
+      },
+      "critical-faded": {
+        "value": "#fef1f2ff",
+        "type": "color"
+      },
+      "positive": {
+        "value": "#118850ff",
+        "type": "color"
+      },
+      "positive-highlighted": {
+        "value": "#05751fff",
+        "type": "color"
+      },
+      "positive-faded": {
+        "value": "#ebfef6ff",
+        "type": "color"
+      },
+      "upgrade": {
+        "value": "#874ce6ff",
+        "type": "color"
+      },
+      "upgrade-highlighted": {
+        "value": "#6a2bbfff",
+        "type": "color"
+      },
+      "upgrade-faded": {
+        "value": "#f5f2fdff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#182d660a",
+        "type": "color",
+        "comment": "You might not need this — just apply Opacity Disabled (40%) token to a layer."
+      },
+      "disabled-faded": {
+        "value": "#141a2b05",
+        "type": "color",
+        "comment": "You might not need this — just apply Opacity Disabled (40%) token to a layer."
+      },
+      "page": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "Use only for body background. If you need a background for your components, use one of the Background / Elevation styles."
+      },
+      "page-faded": {
+        "value": "#fafafaff",
+        "type": "color",
+        "comment": "Use only for background of the main page sections. If you need a background for your components, use one of the Background / Elevation styles."
+      },
+      "blur": {
+        "value": "#fffffff2",
+        "type": "color"
+      },
+      "blur-neutral": {
+        "value": "#f4f5f7f2",
+        "type": "color"
+      },
+      "blur-neutral-highlighted": {
+        "value": "#ecedf0f2",
+        "type": "color",
+        "comment": "To be used together with Blur effect for interactive sticky elements."
+      },
+      "focus-text-highlight": {
+        "value": "#d0e2ffff",
+        "type": "color",
+        "comment": "Used for highlighted text in inputs."
+      }
+    },
+    "border": {
+      "neutral": {
+        "value": "#c7cddbff",
+        "type": "color"
+      },
+      "neutral-faded": {
+        "value": "#eceef3ff",
+        "type": "color"
+      },
+      "primary": {
+        "value": "#004ee1ff",
+        "type": "color"
+      },
+      "primary-faded": {
+        "value": "#d0e2ffff",
+        "type": "color"
+      },
+      "critical": {
+        "value": "#cb101dff",
+        "type": "color"
+      },
+      "critical-faded": {
+        "value": "#fbd5d8ff",
+        "type": "color"
+      },
+      "positive": {
+        "value": "#05751fff",
+        "type": "color"
+      },
+      "positive-faded": {
+        "value": "#cdedd5ff",
+        "type": "color"
+      },
+      "upgrade": {
+        "value": "#6a2bbfff",
+        "type": "color"
+      },
+      "upgrade-faded": {
+        "value": "#e3dbfaff",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#dfe2eaff",
+        "type": "color",
+        "comment": "You might not need this — just apply Opacity Disabled (40%) token to a layer."
+      },
+      "focus": {
+        "value": "#4589ffff",
+        "type": "color"
+      }
+    },
+    "on-background": {
+      "neutral": {
+        "value": "#14171fff",
+        "type": "color",
+        "comment": "To be used on Neutral background colors."
+      },
+      "primary": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "To be used on Primary and Primary Highlighted background colors."
+      },
+      "critical": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "To be used on Critical and Critical Highlighted background colors."
+      },
+      "positive": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "To be used on Positive and Positive Highlighted background colors."
+      },
+      "upgrade": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "To be used on Upgrade and Upgrade Highlighted background colors."
+      }
+    },
+    "persistent": {
+      "black": {
+        "value": "#14171fff",
+        "type": "color",
+        "comment": "Not overriden by a theme."
+      },
+      "white": {
+        "value": "#ffffffff",
+        "type": "color",
+        "comment": "Not overriden by a theme."
+      }
+    },
+    "semantic": {
+      "primary": {
+        "primary-activebackground": {
+          "value": "#58c1b2ff",
+          "type": "color"
+        },
+        "primary-hoverbackground": {
+          "value": "#6addc6ff",
+          "type": "color"
+        },
+        "primary-hovercolor": {
+          "value": "#1b3e3eff",
+          "type": "color"
+        },
+        "primary-background": {
+          "value": "#97e7d5ff",
+          "type": "color"
+        },
+        "primary-color": {
+          "value": "#2a6461ff",
+          "type": "color"
+        },
+        "cta-primary-activebackground": {
+          "value": "#dfe1e1ff",
+          "type": "color"
+        },
+        "primary-border": {
+          "value": "#2a6461ff",
+          "type": "color"
+        },
+        "hoverinnactivebackground": {
+          "value": "#c9ccccff",
+          "type": "color"
+        }
+      },
+      "text": {
+        "text-inverse": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "text-subtext": {
+          "value": "#545e5fff",
+          "type": "color"
+        },
+        "text-headline": {
+          "value": "#293333ff",
+          "type": "color"
+        },
+        "text-body": {
+          "value": "#384141ff",
+          "type": "color"
+        }
+      },
+      "error": {
+        "error-color": {
+          "value": "#b6403bff",
+          "type": "color"
+        },
+        "error-icon": {
+          "value": "#b6403bff",
+          "type": "color"
+        },
+        "error-border": {
+          "value": "#ef8674ff",
+          "type": "color"
+        },
+        "error-background": {
+          "value": "#f8d7d3ff",
+          "type": "color"
+        }
+      },
+      "warning": {
+        "warning-color": {
+          "value": "#8b4f1fff",
+          "type": "color"
+        },
+        "warning-icon": {
+          "value": "#ba7506ff",
+          "type": "color"
+        },
+        "warning-border": {
+          "value": "#fad961ff",
+          "type": "color"
+        },
+        "warning-background": {
+          "value": "#fbeed1ff",
+          "type": "color"
+        }
+      },
+      "success": {
+        "success-color": {
+          "value": "#2d6944ff",
+          "type": "color"
+        },
+        "success-icon": {
+          "value": "#3c884dff",
+          "type": "color"
+        },
+        "success-border": {
+          "value": "#8fda75ff",
+          "type": "color"
+        },
+        "success-background": {
+          "value": "#ddf3d9ff",
+          "type": "color"
+        }
+      },
+      "info": {
+        "info-color": {
+          "value": "#6b62ccff",
+          "type": "color"
+        },
+        "info-icon": {
+          "value": "#5a52b4ff",
+          "type": "color"
+        },
+        "info-border": {
+          "value": "#9e95ecff",
+          "type": "color"
+        },
+        "info-background": {
+          "value": "#eaeaf8ff",
+          "type": "color"
+        }
+      },
+      "opportunity": {
+        "opportunity-color": {
+          "value": "#a43b5bff",
+          "type": "color"
+        },
+        "opportunity-icon": {
+          "value": "#a43b5bff",
+          "type": "color"
+        },
+        "opportunity-border": {
+          "value": "#ee7fadff",
+          "type": "color"
+        },
+        "opportunity-background": {
+          "value": "#f7dceaff",
+          "type": "color"
+        }
+      }
+    },
     "palette": {
       "green": {
         "green-1100": {
-          "value": "#0e2a21ff",
+          "value": "#0e2a22ff",
           "type": "color"
         },
         "green-1000": {
@@ -119,11 +506,13 @@
         },
         "aqua-800": {
           "value": "#316c82ff",
-          "type": "color"
+          "type": "color",
+          "comment": "Aqua with an amazing text-on-white contrast (AAA)"
         },
         "aqua-700": {
           "value": "#3a8396ff",
-          "type": "color"
+          "type": "color",
+          "comment": "Aqua with good-enough text-on-white contrast (AA)"
         },
         "aqua-600": {
           "value": "#4295abff",
@@ -556,150 +945,6 @@
         }
       }
     },
-    "semantic": {
-      "primary": {
-        "primary-activebackground": {
-          "value": "#58c1b2ff",
-          "type": "color"
-        },
-        "primary-hoverbackground": {
-          "value": "#6addc6ff",
-          "type": "color"
-        },
-        "primary-hovercolor": {
-          "value": "#1b3e3eff",
-          "type": "color"
-        },
-        "primary-background": {
-          "value": "#97e7d5ff",
-          "type": "color"
-        },
-        "primary-color": {
-          "value": "#2a6461ff",
-          "type": "color"
-        },
-        "cta-primary-activebackground": {
-          "value": "#dfe1e1ff",
-          "type": "color"
-        },
-        "primary-border": {
-          "value": "#2a6461ff",
-          "type": "color"
-        },
-        "hoverinnactivebackground": {
-          "value": "#c9ccccff",
-          "type": "color"
-        }
-      },
-      "text": {
-        "text-inverse": {
-          "value": "#ffffffff",
-          "type": "color"
-        },
-        "text-subtext": {
-          "value": "#545e5fff",
-          "type": "color"
-        },
-        "text-headline": {
-          "value": "#293333ff",
-          "type": "color"
-        },
-        "text-body": {
-          "value": "#384141ff",
-          "type": "color"
-        }
-      },
-      "error": {
-        "error-color": {
-          "value": "#b6403bff",
-          "type": "color"
-        },
-        "error-icon": {
-          "value": "#b6403bff",
-          "type": "color"
-        },
-        "error-border": {
-          "value": "#ef8674ff",
-          "type": "color"
-        },
-        "error-background": {
-          "value": "#f8d7d3ff",
-          "type": "color"
-        }
-      },
-      "warning": {
-        "warning-color": {
-          "value": "#8b4f1fff",
-          "type": "color"
-        },
-        "warning-icon": {
-          "value": "#ba7506ff",
-          "type": "color"
-        },
-        "warning-border": {
-          "value": "#fad961ff",
-          "type": "color"
-        },
-        "warning-background": {
-          "value": "#fbeed1ff",
-          "type": "color"
-        }
-      },
-      "success": {
-        "success-color": {
-          "value": "#2d6944ff",
-          "type": "color"
-        },
-        "success-icon": {
-          "value": "#3c884dff",
-          "type": "color"
-        },
-        "success-border": {
-          "value": "#8fda75ff",
-          "type": "color"
-        },
-        "success-background": {
-          "value": "#ddf3d9ff",
-          "type": "color"
-        }
-      },
-      "info": {
-        "info-color": {
-          "value": "#6b62ccff",
-          "type": "color"
-        },
-        "info-icon": {
-          "value": "#5a52b4ff",
-          "type": "color"
-        },
-        "info-border": {
-          "value": "#9e95ecff",
-          "type": "color"
-        },
-        "info-background": {
-          "value": "#eaeaf8ff",
-          "type": "color"
-        }
-      },
-      "opportunity": {
-        "opportunity-color": {
-          "value": "#a43b5bff",
-          "type": "color"
-        },
-        "opportunity-icon": {
-          "value": "#a43b5bff",
-          "type": "color"
-        },
-        "opportunity-border": {
-          "value": "#ee7fadff",
-          "type": "color"
-        },
-        "opportunity-background": {
-          "value": "#f7dceaff",
-          "type": "color"
-        }
-      }
-    },
     "special": {
       "rating": {
         "rating-on": {
@@ -721,11 +966,7 @@
       }
     },
     "sn-token": {
-      "value": "#644b4bff",
-      "type": "color"
-    },
-    "dh-token": {
-      "value": "#ac2424ff",
+      "value": "{color.foreground.neutral.value}",
       "type": "color"
     }
   }
