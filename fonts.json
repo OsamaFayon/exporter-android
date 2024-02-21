@@ -1,3 +1,43 @@
 {
-  "font": {}
+  "font": {
+    "token-1": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Inter"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "regular"
+        }
+      },
+      "type": "font"
+    },
+    "font": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "AR One Sans"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "700"
+        }
+      },
+      "type": "font"
+    },
+    "new-font": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "AR One Sans"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "700"
+        }
+      },
+      "type": "font"
+    }
+  }
 }
