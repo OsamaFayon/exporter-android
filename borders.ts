@@ -262,6 +262,15 @@ const snBoarder = {
                   },
            position: "Center",
          };
+const snToken = {
+           color: "#8f1b1b",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
 const name = {
            color: "#c03232",
            width: {
@@ -415,6 +424,123 @@ const token23 = {
                   },
            position: "Outside",
          };
+const token24 = {
+           color: "#b64646",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const newToken = {
+           color: "#c95252",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const snBorader = {
+           color: "#b42020",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Outside",
+         };
+const token25 = {
+           color: "#ba3939",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
+const boarder = {
+           color: "#6b1717",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const token26 = {
+           color: "#b74848",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const boarder = {
+           color: "#9a3d3d",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const token27 = {
+           color: "#000000",
+           width: {
+                   measure: 3,
+                   unit: "Pixels",
+                   css: "3px"
+                  },
+           position: "Center",
+         };
+const snToken = {
+           color: "#d94a4a",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const borader = {
+           color: "#b54c4c",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const token28 = {
+           color: "#000000",
+           width: {
+                   measure: 1,
+                   unit: "Pixels",
+                   css: "1px"
+                  },
+           position: "Inside",
+         };
+const boarder = {
+           color: "#671d1d",
+           width: {
+                   measure: 4,
+                   unit: "Pixels",
+                   css: "4px"
+                  },
+           position: "Center",
+         };
+const token29 = {
+           color: "#721c1c",
+           width: {
+                   measure: 5,
+                   unit: "Pixels",
+                   css: "5px"
+                  },
+           position: "Center",
+         };
 
 
 export const Borders = {
@@ -447,6 +573,7 @@ export const Borders = {
       snBoarder,
       snBoarder,
       snBoarder,
+      snToken,
       name,
       token11,
       token12,
@@ -464,4 +591,17 @@ export const Borders = {
       snToken,
       sn,
       token23,
+      token24,
+      newToken,
+      snBorader,
+      token25,
+      boarder,
+      token26,
+      boarder,
+      token27,
+      snToken,
+      borader,
+      token28,
+      boarder,
+      token29,
 }
