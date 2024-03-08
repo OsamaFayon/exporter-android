@@ -1,9 +1,9 @@
 
 import { Measures } from './measures';
 const h1 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 57,
                       unit: "Pixels",
@@ -26,9 +26,9 @@ const h1 = {
                        },
          };
 const h2 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 43,
                       unit: "Pixels",
@@ -51,9 +51,9 @@ const h2 = {
                        },
          };
 const h3 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 32,
                       unit: "Pixels",
@@ -76,9 +76,9 @@ const h3 = {
                        },
          };
 const h4 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 24,
                       unit: "Pixels",
@@ -101,9 +101,9 @@ const h4 = {
                        },
          };
 const h5 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 21,
                       unit: "Pixels",
@@ -126,7 +126,7 @@ const h5 = {
                        },
          };
 const largeLead = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -151,7 +151,7 @@ const largeLead = {
                        },
          };
 const mediumLead = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -176,7 +176,7 @@ const mediumLead = {
                        },
          };
 const buttonLabel = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -201,7 +201,7 @@ const buttonLabel = {
                        },
          };
 const paragraph = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -226,7 +226,7 @@ const paragraph = {
                        },
          };
 const smallParagraph = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -251,7 +251,7 @@ const smallParagraph = {
                        },
          };
 const tinyParagraph = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -275,219 +275,19 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
-const token1 = {
-           fontFamily: "Abel",
+const sale = {
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
-                      measure: 14,
+                      measure: 24,
                       unit: "Pixels",
-                      css: "14px"
+                      css: "24px"
                      },
            lineHeight: {
-                          measure: 20,
+                          measure: 34,
                           unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token2 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token3 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token4 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token5 = {
-           fontFamily: "Abel",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token6 = {
-           fontFamily: "AR One Sans",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 4,
-                             unit: "Percent",
-                             css: "4%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token7 = {
-           fontFamily: "Abril Fatface",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token8 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
-                         },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const token9 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 14,
-                      unit: "Pixels",
-                      css: "14px"
-                     },
-           lineHeight: {
-                          measure: 20,
-                          unit: "Pixels",
-                          css: "20px"
+                          css: "34px"
                          },
            letterSpacing: {
                              measure: 0,
@@ -514,13 +314,5 @@ export const Typographies = {
       paragraph,
       smallParagraph,
       tinyParagraph,
-      token1,
-      token2,
-      token3,
-      token4,
-      token5,
-      token6,
-      token7,
-      token8,
-      token9,
+      sale,
 }
