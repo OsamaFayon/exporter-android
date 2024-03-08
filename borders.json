@@ -1,0 +1,30 @@
+{
+  "border": {
+    "demo-broader-token": {
+      "value": {
+        "color": {
+          "type": "color",
+          "value": "#000000ff"
+        },
+        "width": {
+          "type": "measure",
+          "value": {
+            "measure": {
+              "type": "size",
+              "value": 5
+            },
+            "unit": {
+              "type": "string",
+              "value": "pixels"
+            }
+          }
+        },
+        "position": {
+          "type": "string",
+          "value": "Center"
+        }
+      },
+      "type": "border"
+    }
+  }
+}
