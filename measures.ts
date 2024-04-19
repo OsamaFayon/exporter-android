@@ -103,6 +103,16 @@ const dimensionShadowFocusRingWidth = {
           unit: "Pixels",
           css: "3px"
          };
+const borderRadiusRadius = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
+const borderRadiusTestDemo = {
+          measure: 10,
+          unit: "Pixels",
+          css: "10px"
+         };
 
 export const Measures = {
   /** No radius */
@@ -128,4 +138,6 @@ export const Measures = {
       dimensionSpacingSemanticStackGap,
       dimensionOpacityDisabled,
       dimensionShadowFocusRingWidth,
+      borderRadiusRadius,
+      borderRadiusTestDemo,
 }
