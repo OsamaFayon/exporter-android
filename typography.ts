@@ -1,29 +1,9 @@
 
 import { Measures } from './measures';
-const supernova = {
+const h1 = {
            fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
-           fontSize: {
-                      measure: 16,
-                      unit: "Pixels",
-                      css: "16px"
-                     },
-           letterSpacing: {
-                             measure: 0,
-                             unit: "Percent",
-                             css: "0%"
-                            },
-           textIndent: {
-                        measure: 0,
-                        unit: "Pixels",
-                        css: "0px"
-                       },
-         };
-const h1 = {
-           fontFamily: "Inter",
-           fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 57,
                       unit: "Pixels",
@@ -46,9 +26,9 @@ const h1 = {
                        },
          };
 const h2 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 43,
                       unit: "Pixels",
@@ -71,9 +51,9 @@ const h2 = {
                        },
          };
 const h3 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 32,
                       unit: "Pixels",
@@ -96,9 +76,9 @@ const h3 = {
                        },
          };
 const h4 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 24,
                       unit: "Pixels",
@@ -121,9 +101,9 @@ const h4 = {
                        },
          };
 const h5 = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
-           fontWeight: 400,
+           fontWeight: 700,
            fontSize: {
                       measure: 21,
                       unit: "Pixels",
@@ -146,7 +126,7 @@ const h5 = {
                        },
          };
 const largeLead = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -171,7 +151,7 @@ const largeLead = {
                        },
          };
 const mediumLead = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -196,7 +176,7 @@ const mediumLead = {
                        },
          };
 const buttonLabel = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -221,7 +201,7 @@ const buttonLabel = {
                        },
          };
 const paragraph = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -246,7 +226,7 @@ const paragraph = {
                        },
          };
 const smallParagraph = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -271,7 +251,7 @@ const smallParagraph = {
                        },
          };
 const tinyParagraph = {
-           fontFamily: "Inter",
+           fontFamily: "Roboto",
            fontStyle: "normal",
            fontWeight: 400,
            fontSize: {
@@ -295,10 +275,34 @@ const tinyParagraph = {
                         css: "0px"
                        },
          };
+const sale = {
+           fontFamily: "Roboto",
+           fontStyle: "normal",
+           fontWeight: 700,
+           fontSize: {
+                      measure: 24,
+                      unit: "Pixels",
+                      css: "24px"
+                     },
+           lineHeight: {
+                          measure: 34,
+                          unit: "Pixels",
+                          css: "34px"
+                         },
+           letterSpacing: {
+                             measure: 0,
+                             unit: "Percent",
+                             css: "0%"
+                            },
+           textIndent: {
+                        measure: 0,
+                        unit: "Pixels",
+                        css: "0px"
+                       },
+         };
 
 
 export const Typographies = {
-      supernova,
       h1,
       h2,
       h3,
@@ -310,4 +314,5 @@ export const Typographies = {
       paragraph,
       smallParagraph,
       tinyParagraph,
+      sale,
 }
